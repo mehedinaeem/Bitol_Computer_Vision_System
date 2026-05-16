@@ -23,10 +23,8 @@ models/*.pth
 models/*.onnx
 models/*.engine
 
-# Raw / original images (large files — only push resized_images/)
+# Raw / original images (large files)
 raw_images/
-detection_dataset/images/
-detection_dataset/labels/
 
 # Jupyter cache
 .ipynb_checkpoints/
