@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+
+# Outputs
+outputs/
+
+# Trained models
+# models/*.pt
+# models/*.pth
+
+# Ignore ONLY raw original images
+raw_images/
+
+# Jupyter cache
+# .ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
