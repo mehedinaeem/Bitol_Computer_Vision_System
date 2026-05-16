@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 
 # Virtual Environment
+.venv/
 venv/
 env/
 
@@ -16,17 +17,27 @@ logs/
 # Outputs
 outputs/
 
-# Trained models
-# models/*.pt
-# models/*.pth
+# Trained models (large binary files)
+models/*.pt
+models/*.pth
+models/*.onnx
+models/*.engine
 
-# Ignore ONLY raw original images
+# Raw / original images (large files — only push resized_images/)
 raw_images/
+detection_dataset/images/
+detection_dataset/labels/
 
 # Jupyter cache
-# .ipynb_checkpoints/
+.ipynb_checkpoints/
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large file safeguards
+*.zip
+*.tar.gz
+*.rar
+*.7z
 
