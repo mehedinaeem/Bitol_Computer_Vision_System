@@ -18,10 +18,10 @@ logs/
 outputs/
 
 # Trained models (large binary files)
-models/*.pt
-models/*.pth
-models/*.onnx
-models/*.engine
+models/**/*.pt
+models/**/*.pth
+models/**/*.onnx
+models/**/*.engine
 
 # Raw / original images (large files)
 raw_images/
