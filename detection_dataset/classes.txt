@@ -1,1 +1,3 @@
-damage
+healthy
+unhealthy
+
