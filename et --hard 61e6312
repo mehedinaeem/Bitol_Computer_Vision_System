@@ -1,0 +1,20 @@
+[33m61e6312[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpreprocess[m[33m, [m[1;31morigin/preprocess[m[33m)[m resized images
+[33m5d2669a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/ishtiak[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mtesting-branch[m[33m, [m[1;32mmain[m[33m, [m[1;32mishtiak[m[33m)[m added test accuracy
+[33mbcbe28a[m[33m ([m[1;31morigin/testing-branch[m[33m)[m trained with yolov9n with 498 data
+[33m10c19a5[m EDA for missing valaues
+[33mbde427b[m Merge remote-tracking branch 'origin/mahir' into ishtiak
+[33m172c7c7[m done
+[33m8df844a[m[33m ([m[1;31morigin/mahir[m[33m)[m lebeling test img
+[33m5517867[m half
+[33mbf05a79[m val done
+[33m537dee8[m update
+[33m3f1c8ff[m lableling img val
+[33m4cd3f00[m vai dekhen evabe naki shob group pic single newa jay na
+[33m264291d[m annoted img
+[33m35aea97[m annoted img
+[33m43a034e[m annotate image
+[33mcdb5043[m split data
+[33mebf1ccc[m split the datase 70 20 10
+[33md9e8741[m resized images 1024 1024
+[33mbd05e68[m update base project
+[33m5f83b9f[m first commit
