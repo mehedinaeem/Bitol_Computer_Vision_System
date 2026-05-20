@@ -1,20 +1,36 @@
 import os
 
-# Base dataset path (resolved relative to this script)
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "raw_images"))
+# Base dataset path
+BASE_DIR = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "raw_images")
+)
 
-# Folders
-folders = ["healthy", "unhealthy"]
+# Folder configuration
+folders = {
+    "healthy01": {
+        "prefix": "healthy",
+        "start": 139
+    },
+    "unhealthy01": {
+        "prefix": "unhealthy",
+        "start": 361
+    }
+}
 
-for folder in folders:
+for folder, config in folders.items():
 
     folder_path = os.path.join(BASE_DIR, folder)
+
+    # Check if folder exists
+    if not os.path.exists(folder_path):
+        print(f"Folder not found: {folder_path}")
+        continue
 
     # Get all image files
     files = sorted(os.listdir(folder_path))
 
-    # Counter
-    count = 1
+    # Starting counter
+    count = config["start"]
 
     for file in files:
 
@@ -22,13 +38,16 @@ for folder in folders:
         if not file.lower().endswith((".jpg", ".jpeg", ".png")):
             continue
 
+        # Preserve original extension
+        extension = os.path.splitext(file)[1].lower()
+
         # New filename
-        new_name = f"{folder}_{count:04}.jpg"
+        new_name = f"{config['prefix']}_{count:04}{extension}"
 
         old_path = os.path.join(folder_path, file)
         new_path = os.path.join(folder_path, new_name)
 
-        # Rename
+        # Rename file
         os.rename(old_path, new_path)
 
         print(f"Renamed: {file} -> {new_name}")
