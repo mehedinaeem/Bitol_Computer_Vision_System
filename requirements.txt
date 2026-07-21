@@ -1,1 +1,6 @@
 Pillow
+ipykernel
+jupyter
+matplotlib
+pandas
+ultralytics

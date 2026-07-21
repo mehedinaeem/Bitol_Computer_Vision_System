@@ -7,13 +7,13 @@ BASE_DIR = os.path.abspath(
 
 # Folder configuration
 folders = {
-    "healthy01": {
+    "healthy02": {
         "prefix": "healthy",
-        "start": 139
+        "start": 444
     },
-    "unhealthy01": {
+    "unhealthy02": {
         "prefix": "unhealthy",
-        "start": 361
+        "start": 451
     }
 }
 
