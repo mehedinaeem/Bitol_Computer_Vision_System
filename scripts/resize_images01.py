@@ -12,7 +12,7 @@ OUTPUT_DIR = Path(__file__).resolve().parent.parent / "resized_images"
 SUPPORTED_EXTENSIONS = {".jpg", ".jpeg", ".png", ".bmp", ".webp"}
 
 # Specific folders to resize
-FOLDERS = ["healthy02", "unhealthy02"]
+FOLDERS = ["healthy03", "unhealthy03"]
 
 
 def resize_images():

@@ -13,8 +13,8 @@ LABELS_DIR = TARGET_DIR / "labels"
 # Only add the two new batches. Every image in each class is independently
 # split into train/validation/test using the same 70/20/10 proportions.
 SOURCE_CLASSES = {
-    "healthy": SOURCE_DIR / "healthy02",
-    "unhealthy": SOURCE_DIR / "unhealthy02",
+    "healthy": SOURCE_DIR / "healthy03",
+    "unhealthy": SOURCE_DIR / "unhealthy03",
 }
 
 SPLIT_RATIOS = {"train": 0.70, "val": 0.20, "test": 0.10}
