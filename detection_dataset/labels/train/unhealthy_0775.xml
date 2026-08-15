@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>unhealthy_0775.jpg</filename>
+	<path>D:\Research\Bitol_Computer_Vision_System\detection_dataset\images\train\unhealthy_0775.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unhealthy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>276</ymin>
+			<xmax>778</xmax>
+			<ymax>946</ymax>
+		</bndbox>
+	</object>
+</annotation>
