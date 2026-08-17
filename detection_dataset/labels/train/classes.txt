@@ -1,3 +1,2 @@
 healthy
 unhealthy
-w
