@@ -19,9 +19,9 @@ Each bounding box describes one banana. A single image can contain multiple bana
 
 ### Annotated dataset examples
 
-![Six banana dataset examples: healthy annotations in green on the top row and unhealthy annotations in red on the bottom row](paper_figures/04_qualitative/readme_dataset_examples.png)
+![Training images healthy_0091, healthy_0092, healthy_0093 on the top row and unhealthy_0381, unhealthy_0382, unhealthy_0383 on the bottom row](paper_figures/04_qualitative/readme_dataset_examples.png)
 
-*Figure 1. Six examples selected from the test dataset: healthy annotations in green (top row) and unhealthy annotations in red (bottom row). Each panel shows boxes for its highlighted class using the existing dataset labels, not model predictions. Selection uses the figure script with `--split test --automatic --samples 3 --seed 17`.*
+*Figure 1. Selected training images, left to right: `healthy_0091.jpg`, `healthy_0092.jpg`, and `healthy_0093.jpg` (top row, green boxes); `unhealthy_0381.jpg`, `unhealthy_0382.jpg`, and `unhealthy_0383.jpg` (bottom row, red boxes). Boxes show the existing ground-truth annotations, not model predictions.*
 
 ### Dataset size and split
 
