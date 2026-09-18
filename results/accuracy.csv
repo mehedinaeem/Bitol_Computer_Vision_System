@@ -1,0 +1,6 @@
+metric,test_percent
+mAP@50,87.0366
+mAP@50:95,59.3298
+Precision,81.3628
+Recall,74.2975
+F1-score,77.6698

@@ -1,13 +1,17 @@
-# Model checkpoint placement
+# Final model checkpoints
 
-A verified checkpoint for the reported final 640-pixel experiment has not been identified. Place an author-confirmed checkpoint at `weights/best.pt`, or pass its actual path with `--model`.
+Imported from `Bitol_80_20_NoVal_Research-20260821T060258Z-1-001`, run `yolov8n_640_batch4_80_20_noval-2`.
 
-Existing weights are preserved unchanged in the local ignored `outputs/development/` directory:
+- `best.pt`: default for prediction and evaluation; locally verified on 491 test images at **87.04% mAP@50**.
+- `last.pt`: retained final-epoch checkpoint from the same run; not separately evaluated.
 
-- `outputs/development/yolov8n.pt`
-- `outputs/development/runs/detect/models/trained/bitol_yolov8/weights/best.pt`
-- `outputs/development/runs/detect/models/trained/bitol_yolov8/weights/last.pt`
+YOLOv8n, 640 pixels, batch 4, 50 epochs, seed 0, `val: false`. Checkpoint metadata reports Ultralytics 8.4.52. Full training arguments and evaluation evidence are in `results/final_experiment/`.
 
-The saved run configuration uses 1024 pixels. Its weights must not be presented as the verified final paper checkpoint without confirmation. No checkpoint was replaced or generated.
+## SHA-256
 
-For eventual distribution, attach the confirmed final checkpoint to a GitHub Release with its SHA-256, source run, dataset version, software environment, and usage terms. No release or external download URL has been created. Moving files out of the current tree does not remove their bytes from existing Git history.
+```text
+bd1b1c4461fc6fb77f95f26e0c7bfce29e1596b96d519cca7077a72acc6fc4d6  best.pt
+188abd109fcd717c0d8c8ac6892c46c7b8798a357ec674706b21ce0bff25dcf9  last.pt
+```
+
+Historical checkpoints remain only in ignored `outputs/archive/development/`. Unique files from the supplied export are archived under `outputs/archive/research_export/`. The two active checkpoints are included by `.gitignore` exceptions.

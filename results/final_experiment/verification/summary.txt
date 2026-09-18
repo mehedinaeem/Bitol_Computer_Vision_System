@@ -1,0 +1,4 @@
+Split/class       Precision    Recall        F1    mAP@50   mAP@50:95
+test                 81.36%    74.30%    77.67%    87.04%      59.33%
+healthy              88.81%    68.00%    77.02%    89.14%      59.24%
+unhealthy            73.92%    80.60%    77.11%    84.93%      59.42%

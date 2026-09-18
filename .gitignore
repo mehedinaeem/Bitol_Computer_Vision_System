@@ -48,4 +48,6 @@ Thumbs.db
 /resized_images/
 /notebooks/runs/
 /weights/*.pt
+!/weights/best.pt
+!/weights/last.pt
 *.cache

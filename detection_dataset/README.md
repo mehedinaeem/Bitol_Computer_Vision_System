@@ -11,7 +11,7 @@ detection_dataset/
 ├── images/{train,test}/*.jpg
 ├── labels/{train,test}/*.txt
 ├── classes.txt
-├── data_paper.yaml           # Publication workflow; validation unknown
+├── data_paper.yaml           # Evaluation workflow; no validation split
 ├── data.yaml                 # Historical evidence only
 ├── split_manifest.csv
 ├── validation_report.csv
@@ -52,7 +52,7 @@ The audit created before the cleanup-only instruction is preserved in [audit_sum
 
 [split_manifest.csv](split_manifest.csv) records current membership and SHA-256 image/label hashes. It is an inventory of the supplied split, not a new split or proof of the original experiment's membership. Paths are relative to `detection_dataset/`.
 
-The original `detection_dataset/data.yaml` aliases `val` to `images/test`; it is retained unchanged as historical evidence. The [publication config](data_paper.yaml) leaves `val: null` because final-experiment validation membership is unknown. The reported held-out test designation is preserved, but statistical independence is not established by the current files.
+The original `detection_dataset/data.yaml` aliases `val` to `images/test`; it is retained unchanged as historical evidence. The [publication config](data_paper.yaml) leaves `val: null` because the supplied final experiment used no validation split (`val: false`). The reported held-out test designation is preserved, but statistical independence is not established by the current files.
 
 For future read-only auditing, from the repository root:
 
@@ -60,13 +60,13 @@ For future read-only auditing, from the repository root:
 python scripts/validate_dataset.py --report outputs/dataset_validation_report.csv
 ```
 
-This script does not repair labels or move images. Its expected nonzero status reflects unresolved issues. It was not executed after the cleanup-only instruction.
+This script does not repair labels or move images. Its expected nonzero status reflects unresolved issues. It exits nonzero while the known audit issues remain.
 
 ## Provenance and rights
 
 Collection location/dates, cultivar, device settings, acquisition groups, sampling criteria, annotation rubric/tool, annotator count, and agreement measurements are not documented. No new provenance is inferred. Dataset-specific redistribution rights and a DOI remain unconfirmed; the repository's MIT code license does not establish ownership of images.
 
-Original annotation figures remain in [paper_figures/](../paper_figures/). Original research notebooks are restored in [notebooks/](../notebooks/). Earlier development material remains in Git history; local-only copies are preserved outside the publication tree (see [preservation notes](../docs/cleanup.md)). `annotation_backup/` stays local and excluded from Git.
+Imported final-experiment figures are in [paper_figures/](../paper_figures/). Original research notebooks are restored in [notebooks/](../notebooks/). Earlier development material remains in Git history; local-only copies are preserved outside the publication tree (see [preservation notes](../docs/cleanup.md)). `annotation_backup/` stays local and excluded from Git.
 
 ## Choosing a configuration
 

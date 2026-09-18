@@ -1,11 +1,27 @@
-# Final experiment: reported evidence
+# Final experiment: YOLOv8n, batch 4, 80/20, no validation
 
-`metrics.csv` and `args.yaml` transcribe the author's final paper specification. Scores in the CSV are fractions, not percentages. These files are not the output of a new local experiment.
+Source: `Bitol_80_20_NoVal_Research-20260821T060258Z-1-001`, run `yolov8n_640_batch4_80_20_noval-2`.
 
-The final checkpoint, original training log, class-wise metrics, confusion matrices, curve arrays, and measurement environment have not been identified. No substitute artifacts are copied from the historical 1024-pixel run. Missing artifacts are intentionally absent rather than filled with invented values.
+**Imported test mAP@50: 87.0366%. Local verification: 87.0366%.** The local run used the included `weights/best.pt` at 640 pixels, batch 4, CPU, on all 491 test images (1,445 instances).
 
-The reported F1 is preserved at 0.7767. Future `evaluate.py` outputs define overall F1 as the harmonic mean of mean precision and mean recall; class-wise F1 is calculated separately. The original aggregation convention still requires confirmation.
+| File/directory | Meaning |
+|---|---|
+| `metrics.csv` | Imported train/test metrics as fractions, not newly measured training metrics |
+| `train_test_metrics_80_20_noval.csv` | Original export table, percentages |
+| `training/` | Original 50-epoch log, configuration, and training plots |
+| `evaluation/` | Imported train/test and diagnostic plots/predicted labels |
+| `verification/` | Locally measured aggregate/class metrics, summary, and environment/checkpoint provenance |
+| `dataset_audit_80_20.csv` | Original export audit; does not replace the stricter local dataset audit |
+| `import_manifest.json` | Original source-to-destination mapping with SHA-256 hashes |
 
-Author-reported efficiency: approximately 3.01 million parameters, 5.96 MB model size, and 6.54 ms/image on NVIDIA Tesla T4. Precision mode, timing warm-up, batch/measurement boundaries, and checkpoint identity are not established by these numbers.
+Class-wise source metrics and figures are in `paper_figures/03_test_metrics/`. Unique files from the original export are archived under ignored `outputs/archive/research_export/`; previous release artifacts are under `outputs/archive/previous_release/`.
 
-New evaluations write to `outputs/evaluate/` and cannot overwrite this reference table by default. Once the original artifacts are supplied, record their hashes and provenance before adding them here.
+Local verification command:
+
+```bash
+python scripts/evaluate.py --device cpu --name verified_final
+```
+
+Print both result sets with `python scripts/report.py`. CSV values use 0–1 fractions unless the column explicitly says `(%)`. Console summaries use percentages. F1 is the harmonic mean of the displayed precision and recall; aggregate F1 is not the mean of class-wise F1.
+
+Known split overlap and annotation issues remain documented in `detection_dataset/README.md`. Reproducing the score does not resolve those limitations. No model was retrained during integration.

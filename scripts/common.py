@@ -4,12 +4,33 @@ from __future__ import annotations
 import csv
 import hashlib
 import json
+import os
 import platform
 from importlib.metadata import PackageNotFoundError, version
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_MODEL = ROOT / 'weights/best.pt'
 IMAGE_EXTENSIONS = {'.jpg', '.jpeg', '.png', '.bmp', '.webp', '.tif', '.tiff'}
+
+
+def prepare_runtime() -> None:
+    """Keep library settings and caches in the writable output directory."""
+    for variable, directory in (('YOLO_CONFIG_DIR', 'ultralytics'),
+                                ('MPLCONFIGDIR', 'matplotlib')):
+        path = ROOT / 'outputs/.config' / directory
+        path.mkdir(parents=True, exist_ok=True)
+        os.environ.setdefault(variable, str(path))
+
+
+def format_metrics(rows: list[dict]) -> str:
+    """Display stored fractional metrics as clearly labeled percentages."""
+    lines = [f"{'Split/class':<16} {'Precision':>10} {'Recall':>9} {'F1':>9} {'mAP@50':>9} {'mAP@50:95':>11}"]
+    for row in rows:
+        label = row.get('class_name', row.get('split', 'all'))
+        values = [float(row[k]) * 100 for k in ('precision', 'recall', 'f1', 'map50', 'map50_95')]
+        lines.append(f'{label:<16} {values[0]:9.2f}% {values[1]:8.2f}% {values[2]:8.2f}% {values[3]:8.2f}% {values[4]:10.2f}%')
+    return '\n'.join(lines)
 
 
 def sha256(path: Path) -> str:
@@ -85,7 +106,7 @@ def write_csv(path: Path, rows: list[dict], fields: list[str] | None = None) -> 
     """Write a portable result table, retaining headers for an empty table."""
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open('w', newline='', encoding='utf-8') as handle:
-        writer = csv.DictWriter(handle, fieldnames=fields or list(rows[0]))
+        writer = csv.DictWriter(handle, fieldnames=fields or list(rows[0]), lineterminator='\n')
         writer.writeheader()
         writer.writerows(rows)
 

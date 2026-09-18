@@ -1,19 +1,13 @@
-# Repository preservation notes
+# Research import and cleanup
 
-The publication tree is described in the root [README](../README.md). Dataset documentation, the existing split manifest, and prior audit reports now live together in `detection_dataset/`. `data_paper.yaml` is the publication configuration; `data.yaml` preserves the original validation/test alias unchanged. Script defaults and documented commands use the publication configuration.
+The active model, metrics, training evidence, evaluation diagnostics, and paper figures now come from `Bitol_80_20_NoVal_Research-20260821T060258Z-1-001`. Every imported file was checked by SHA-256; the mapping is in `results/final_experiment/import_manifest.json`.
 
-## Research history
+Superseded `results/final_experiment/` and `paper_figures/` were removed from the active tree and moved to ignored `outputs/archive/previous_release/`. Unique files from the original export are preserved under ignored `outputs/archive/research_export/`. Active files use short, stable paths. Older local development assets remain under `outputs/archive/development/`; their inventory is `local_preservation_manifest.csv`.
 
-Six original notebooks were restored byte-for-byte from commit `4790a55`, the last repository state before the earlier cleanup (`ff0d855`). Their code, metadata, execution counts, and saved outputs were preserved without execution. The root README describes each notebook and the two existing convenience notebooks. Earlier preparation scripts and experimental artifacts remain available in Git history.
+Dataset images/labels, raw sources, ZIP backups, and existing environments were retained. Historical notebooks were preserved, including the user's pre-existing change to `paper_class_samples_with_annotations.ipynb`. No retraining, commit, push, or publication was performed.
 
-The former ignored local `archive/development/` directory was moved intact to ignored `outputs/development/`. This preserves local-only code, notebook copies, intermediate images, reports, conflict-review records, run outputs, and checkpoints without putting an archive directory in the publication branch. No useful local research material was deleted. A fresh clone does not contain these ignored local files.
+The best checkpoint was evaluated on the complete local test split before adoption. The evaluation export-path bug was fixed, prediction now writes a detection table and readable counts, and both default to `weights/best.pt`. Local verification evidence is stored separately from imported results.
 
-[local_preservation_manifest.csv](local_preservation_manifest.csv) retains the earlier file inventory, byte sizes, and SHA-256 values, with location prefixes updated to `outputs/development/`. Its `original_path` column describes historical locations, not the current publication layout. Local historical checkpoints are documented in [weights/README.md](../weights/README.md). Local source images, ZIPs, environments, and annotation backups remain untouched and ignored.
+## Output deduplication
 
-The observed dependency list moved to [requirements-observed.txt](requirements-observed.txt); it records the cleanup environment, not a verified final-experiment environment.
-
-## Verification scope
-
-This reorganization uses file-integrity, notebook-JSON, Python-syntax, configuration-path, Markdown-link, and Git-diff checks only. No training, evaluation, prediction, dataset-validation script, notebook, or figure-generation script was run. Dataset images, labels, class names, split membership, original YAML, paper figures, and reported results remain unchanged. No commit, push, or history rewrite was performed.
-
-For scientific limitations and missing evidence, see [reproducibility.md](reproducibility.md).
+Removed 6,816 byte-identical files from `outputs/`, reclaiming 1.82 GB. SHA-256 grouping and full byte comparisons verified each removal against a retained copy. Unique historical files now live under `outputs/archive/`; active data, models, figures, and notebooks were not modified. `outputs/deduplication.csv` maps removed paths to retained files. The earlier `local_preservation_manifest.csv` remains a historical inventory of pre-deduplication locations, not the current layout.

@@ -1,0 +1,36 @@
+{
+  "python": "3.14.4",
+  "packages": {
+    "ultralytics": "8.4.103",
+    "torch": "2.13.0",
+    "numpy": "2.5.1",
+    "pandas": "3.0.3",
+    "matplotlib": "3.11.1",
+    "Pillow": "12.3.0",
+    "PyYAML": "6.0.3"
+  },
+  "checkpoint": "/home/mehedinaeem/Desktop/Code/Bitol_Computer_Vision_System/weights/best.pt",
+  "checkpoint_sha256": "bd1b1c4461fc6fb77f95f26e0c7bfce29e1596b96d519cca7077a72acc6fc4d6",
+  "split": "test",
+  "imgsz": 640,
+  "batch": 4,
+  "device": "cpu",
+  "dataset": {
+    "path": "/home/mehedinaeem/Desktop/Code/Bitol_Computer_Vision_System/detection_dataset",
+    "train": "/home/mehedinaeem/Desktop/Code/Bitol_Computer_Vision_System/detection_dataset/images/train",
+    "val": null,
+    "test": "/home/mehedinaeem/Desktop/Code/Bitol_Computer_Vision_System/detection_dataset/images/test",
+    "nc": 2,
+    "names": {
+      "0": "healthy",
+      "1": "unhealthy"
+    }
+  },
+  "speed_ms_per_image": {
+    "preprocess": 1.087085132374067,
+    "inference": 66.93003357229848,
+    "loss": 0.00023971690131165704,
+    "postprocess": 0.40151737066888077
+  },
+  "f1_definition": "Harmonic mean of mean precision and mean recall"
+}

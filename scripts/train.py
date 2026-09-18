@@ -1,11 +1,11 @@
-"""Train the YOLOv8n baseline after the validation protocol is supplied."""
+"""Train a new YOLOv8n experiment with a separate validation partition."""
 from __future__ import annotations
 
 import argparse
 from pathlib import Path
 import tempfile
 
-from common import ROOT, check_training_splits, load_data, record_environment
+from common import ROOT, check_training_splits, load_data, prepare_runtime, record_environment
 
 
 def main() -> None:
@@ -17,7 +17,7 @@ def main() -> None:
     parser.add_argument('--batch', type=int, default=4)
     parser.add_argument('--device', default=None, help='cpu, 0, or a device list')
     parser.add_argument('--seed', type=int, default=0,
-                        help='Reproduction default; final experiment seed is unverified')
+                        help='Random seed (supplied final experiment: 0)')
     parser.add_argument('--project', type=Path, default=ROOT / 'outputs/train')
     parser.add_argument('--name', default='bitol_yolov8n')
     args = parser.parse_args()
@@ -27,6 +27,7 @@ def main() -> None:
     except (ValueError, OSError) as error:
         parser.error(str(error))
 
+    prepare_runtime()
     import yaml
     from ultralytics import YOLO
 

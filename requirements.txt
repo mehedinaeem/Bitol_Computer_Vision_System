@@ -1,4 +1,4 @@
-# Final experiment versions are unavailable; do not treat these as a historical lock.
+# Checkpoint was saved with Ultralytics 8.4.52; local verification versions are recorded in results/.
 ultralytics
 numpy
 pandas

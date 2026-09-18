@@ -1,0 +1,3041 @@
+{
+  "source_folder": "Bitol_80_20_NoVal_Research-20260821T060258Z-1-001",
+  "selected_run": "yolov8n_640_batch4_80_20_noval-2",
+  "files": [
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/labels.jpg",
+      "destination": "results/final_experiment/training/labels.jpg",
+      "sha256": "363d1bf27ce699483abec050aaec7b1e6da6c587ed48f183bf9dcc7147a121d7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/train_batch1.jpg",
+      "destination": "results/final_experiment/training/train_batch1.jpg",
+      "sha256": "81c440a6d35d4926b83e7d80440ee110fff8090b088084d8d8394796475c3efe"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/confusion_matrix_normalized.png",
+      "destination": "results/final_experiment/training/confusion_matrix_normalized.png",
+      "sha256": "17b327eaf6b944d456b2943adf2e072fb3c87d1db1bf8a6ab4cff6e4408900e1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/train_batch0.jpg",
+      "destination": "results/final_experiment/training/train_batch0.jpg",
+      "sha256": "d745b9996f70669a7e5eae4cd62c2932141d825596c153939ed8aeaff404154e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/args.yaml",
+      "destination": "results/final_experiment/training/args.yaml",
+      "sha256": "f72ae0f0127526d473aa93dbf57344d139ffa226bc7d36709f9759c9f747ee5e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/BoxF1_curve.png",
+      "destination": "results/final_experiment/training/BoxF1_curve.png",
+      "sha256": "9b146665843a3cc4217233af23405860102eb86812845efc8b4794b94fc1dd9d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/val_batch2_labels.jpg",
+      "destination": "results/final_experiment/training/val_batch2_labels.jpg",
+      "sha256": "e4c24ebb08ae70b32b874e9f5e0ac3a1ea08bc23a158c5acc31d76bdf83a77d9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/confusion_matrix.png",
+      "destination": "results/final_experiment/training/confusion_matrix.png",
+      "sha256": "fb33595bcbb9c2f98be303f8d986e07a812cfbc9476ec7c5a6024b55761327b3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/val_batch0_labels.jpg",
+      "destination": "results/final_experiment/training/val_batch0_labels.jpg",
+      "sha256": "087043795f69ee99455acca84462c22f714eabee76535204e94a9c03aa8562c8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/results.png",
+      "destination": "results/final_experiment/training/results.png",
+      "sha256": "d4f4347c34ec17b6e498d3056d9e8d14bae9a5d99e59c9494cb2fb9f8e794d87"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/train_batch19842.jpg",
+      "destination": "results/final_experiment/training/train_batch19842.jpg",
+      "sha256": "ccedac866c0c74a78637c21fc1d6be86b9bd46547ecdcb4b71e1cbfd71834785"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/BoxP_curve.png",
+      "destination": "results/final_experiment/training/BoxP_curve.png",
+      "sha256": "3cd9e1e982dfcc26e9f8ee7aabdaeafed4ec472e1296f8b1ec107f0f4a7da243"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/val_batch0_pred.jpg",
+      "destination": "results/final_experiment/training/val_batch0_pred.jpg",
+      "sha256": "1002e0d0a9ab25d4e79e9c82707ddae46755a88705307e576e3c19df98a1b5b3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/.~lock.results.csv#",
+      "destination": "results/final_experiment/training/.~lock.results.csv#",
+      "sha256": "1a3d0271a62b71af51bc7d59b1b07372ef3e19940b94db25f9a59dd715587f35"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/train_batch2.jpg",
+      "destination": "results/final_experiment/training/train_batch2.jpg",
+      "sha256": "206f95ca9be478a6a3979ee765caf7266e345e351399577bea2e5ff1585aaba6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/train_batch19840.jpg",
+      "destination": "results/final_experiment/training/train_batch19840.jpg",
+      "sha256": "bd27363627d1168112da30cfdf1cdbee95b5911a2d59395ad4e96535f287baaf"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/val_batch1_labels.jpg",
+      "destination": "results/final_experiment/training/val_batch1_labels.jpg",
+      "sha256": "0c2c15b8284393ac8c98dbdc83fa8e798404361226a1526698f5f82e24f4c3da"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/BoxPR_curve.png",
+      "destination": "results/final_experiment/training/BoxPR_curve.png",
+      "sha256": "cb8b75fc92bcdc30c1649f946213f9c4edc6f7d0c667decbfaff8b0741185e1b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/BoxR_curve.png",
+      "destination": "results/final_experiment/training/BoxR_curve.png",
+      "sha256": "bbb2fa79c2b72d32a6e2e60cca74d296239fb41fdc78c2cd6f8a4d7a6f805a2a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/val_batch2_pred.jpg",
+      "destination": "results/final_experiment/training/val_batch2_pred.jpg",
+      "sha256": "c5a209a3170294441eb764d86d6227f1039228599fed6a95882fea309bab30c0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/results.csv",
+      "destination": "results/final_experiment/training/results.csv",
+      "sha256": "276aad61403aca12c0701b691998137b00a459d8591b40bc3860a1b82fcab3b5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/val_batch1_pred.jpg",
+      "destination": "results/final_experiment/training/val_batch1_pred.jpg",
+      "sha256": "49922dc77713417470796f44fb7928a80f31c06149e2c18145b8857ec18df730"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/train_batch19841.jpg",
+      "destination": "results/final_experiment/training/train_batch19841.jpg",
+      "sha256": "429cd323553212428959d89f2674d6d42ea1456d8524c36ba2a7b0b11b878060"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/weights/last.pt",
+      "destination": "weights/last.pt",
+      "sha256": "188abd109fcd717c0d8c8ac6892c46c7b8798a357ec674706b21ce0bff25dcf9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/training_runs/yolov8n_640_batch4_80_20_noval-2/weights/best.pt",
+      "destination": "weights/best.pt",
+      "sha256": "bd1b1c4461fc6fb77f95f26e0c7bfce29e1596b96d519cca7077a72acc6fc4d6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/confusion_matrix_normalized.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/confusion_matrix_normalized.png",
+      "sha256": "269ce4152fab2faf9a218f647ea485b14f0f8ca6ed46de916bad21cc37a9d802"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/BoxF1_curve.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/BoxF1_curve.png",
+      "sha256": "476fba4b81aa34bb67eac840aaca268ff0f5f271fb4beafd8374a28543719acc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch2_labels.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch2_labels.jpg",
+      "sha256": "3cb96c5446c8cc79bc57bec45d789fc6e34e6c2c101f87e10a3b4b3e197bb124"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/confusion_matrix.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/confusion_matrix.png",
+      "sha256": "ea6422bc5e4290997ea9f5530eadfec39fe3b168690b645081f72d9668c3e0fc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch0_labels.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch0_labels.jpg",
+      "sha256": "c4e2510005eb82df6a1d4697e3cbc7df87ad89cac522386bd8a3aed772e2aeda"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/BoxP_curve.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/BoxP_curve.png",
+      "sha256": "ea97e6687a02e5c3be0d56a5e6b2cadc616318657470a3da5fdd89a2bfcbe340"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch0_pred.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch0_pred.jpg",
+      "sha256": "a79da34c66cb90e1ca302476f9820b9be7cd8ee8a8bf28fdb8b17d58230da458"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch1_labels.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch1_labels.jpg",
+      "sha256": "fa720a8b3fa7a35d8f8c2ea6edca6d6c824b31b3fe9b0fa64a5da40c4f4f969b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/BoxPR_curve.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/BoxPR_curve.png",
+      "sha256": "b3f5504eaf872b21e86acb38f60c0b280507af59170cf88f0f64b4b1cc675069"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/BoxR_curve.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/BoxR_curve.png",
+      "sha256": "256061d87c5653000e6c98bbe417e5ecc40fa5a54cd388ba89cf5c9f7dd89861"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch2_pred.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch2_pred.jpg",
+      "sha256": "72acbcf1970a6cfe2e45d5c21d649ebc2e87630e1973a89c84d54ed3726d1c21"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch1_pred.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_test/val_batch1_pred.jpg",
+      "sha256": "9a68a75e94d31d21e6e9bbdd3c441180db898fd2eea8d3c088c9e39df1496acd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/confusion_matrix_normalized.png",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/confusion_matrix_normalized.png",
+      "sha256": "269ce4152fab2faf9a218f647ea485b14f0f8ca6ed46de916bad21cc37a9d802"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/BoxF1_curve.png",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/BoxF1_curve.png",
+      "sha256": "476fba4b81aa34bb67eac840aaca268ff0f5f271fb4beafd8374a28543719acc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/val_batch2_labels.jpg",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/val_batch2_labels.jpg",
+      "sha256": "3cb96c5446c8cc79bc57bec45d789fc6e34e6c2c101f87e10a3b4b3e197bb124"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/confusion_matrix.png",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/confusion_matrix.png",
+      "sha256": "ea6422bc5e4290997ea9f5530eadfec39fe3b168690b645081f72d9668c3e0fc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/val_batch0_labels.jpg",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/val_batch0_labels.jpg",
+      "sha256": "c4e2510005eb82df6a1d4697e3cbc7df87ad89cac522386bd8a3aed772e2aeda"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/BoxP_curve.png",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/BoxP_curve.png",
+      "sha256": "ea97e6687a02e5c3be0d56a5e6b2cadc616318657470a3da5fdd89a2bfcbe340"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/val_batch0_pred.jpg",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/val_batch0_pred.jpg",
+      "sha256": "a79da34c66cb90e1ca302476f9820b9be7cd8ee8a8bf28fdb8b17d58230da458"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/val_batch1_labels.jpg",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/val_batch1_labels.jpg",
+      "sha256": "fa720a8b3fa7a35d8f8c2ea6edca6d6c824b31b3fe9b0fa64a5da40c4f4f969b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/BoxPR_curve.png",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/BoxPR_curve.png",
+      "sha256": "b3f5504eaf872b21e86acb38f60c0b280507af59170cf88f0f64b4b1cc675069"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/BoxR_curve.png",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/BoxR_curve.png",
+      "sha256": "256061d87c5653000e6c98bbe417e5ecc40fa5a54cd388ba89cf5c9f7dd89861"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/val_batch2_pred.jpg",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/val_batch2_pred.jpg",
+      "sha256": "72acbcf1970a6cfe2e45d5c21d649ebc2e87630e1973a89c84d54ed3726d1c21"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/val_batch1_pred.jpg",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/val_batch1_pred.jpg",
+      "sha256": "9a68a75e94d31d21e6e9bbdd3c441180db898fd2eea8d3c088c9e39df1496acd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/confusion_matrix_normalized.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/confusion_matrix_normalized.png",
+      "sha256": "2d9105a16470075c01c4080204b9d583206f770b910bc597fdaf4042ecd4a3be"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/BoxF1_curve.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/BoxF1_curve.png",
+      "sha256": "bcb987da03fc1ee306344392545f5201e3dc16449b7cccc810ea613edaebf147"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch2_labels.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch2_labels.jpg",
+      "sha256": "3026732d71558fe2e0fded54c330ea5a8a5e0cbedc7a59314332e4eb9f340557"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/confusion_matrix.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/confusion_matrix.png",
+      "sha256": "283a1571497a64e2d3e7cebcb8415be208308917916b6112860294397454ba31"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch0_labels.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch0_labels.jpg",
+      "sha256": "5d30de8db46bb412e4fe5b4f07de39313368f0491a428a500df6e99bdd036ca7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/BoxP_curve.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/BoxP_curve.png",
+      "sha256": "721bf85aefce4cda50f82e8ba57ce487360c6689144eb46c5b8ff106df9af3f7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch0_pred.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch0_pred.jpg",
+      "sha256": "bf23fe440ec477633c62301e963db0b1f0071a89e6260e47b33d5fe1590b3d70"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch1_labels.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch1_labels.jpg",
+      "sha256": "4df67c66a67ed0117d5bf2dbc44bead5a54afe526e3c8ea69e34201e6770c869"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/BoxPR_curve.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/BoxPR_curve.png",
+      "sha256": "9400b6623153d902880a0ed8694504a74f1fd758e193f8b9919fb1d56141b115"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/BoxR_curve.png",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/BoxR_curve.png",
+      "sha256": "af6605b9b9e99de88977fc2a5d68e18dc72aef1ee43cd5fa2f56a5e29adf148b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch2_pred.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch2_pred.jpg",
+      "sha256": "7669d4e6d678c179f47d283ef45929023dbbef83cb3345f7f93b3930c0148ffd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch1_pred.jpg",
+      "destination": "results/final_experiment/evaluation/yolov8n_640_batch4_80_20_noval-2_train/val_batch1_pred.jpg",
+      "sha256": "398b67c385eb961e9fcce6b11f1ca2441a3f76cdb8333fb146cbbf565cd5f40a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0895.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0895.txt",
+      "sha256": "309eff731b3bca14a4eb53bf2570d3e89112ee604adcab1c3085b0359e0b41a0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0475.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0475.txt",
+      "sha256": "b30ce92e61cf1f209288394f4e8401e2cf5215cf1f45471bc6efcfdd467f9c16"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0651.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0651.txt",
+      "sha256": "838c27d20ef7545ba64f2f7d4a36744b36098363d3283ba9cf5bd6f2cdbf9673"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0401.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0401.txt",
+      "sha256": "2d060a2ed38780c5421550a00cc8d98486cde767b227f6c49b5e5df5fab25c20"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0664.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0664.txt",
+      "sha256": "65367864d169be22ea23f17d255d231779b7f5ccb651957a4ee229656ab789d4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0253.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0253.txt",
+      "sha256": "1f6a604f428232bd97c7741ab2f7350d920ad45a716f726ea3d0c73add06bfe7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0624.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0624.txt",
+      "sha256": "afac89bad236a6575ba0d7f63805e78a289007814728b38b9cfe1f236142c4ea"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0412.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0412.txt",
+      "sha256": "d4977ccc0813ae73c3d9d8f657521e8c638a871f2e772ec17d5099f1afff7af9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0594.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0594.txt",
+      "sha256": "fcd54c2cd70f64ddc640a5b341e20c82c07af78f0f829edeacdb45a5c07621d5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0855.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0855.txt",
+      "sha256": "515cde0164c4101388006748446056bdbf1de2d53a44abbc8991f34543bc271e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0285.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0285.txt",
+      "sha256": "90d2ce2f3ef611a309e0e6bc440209f544b1027d8c93d7ca45fb6d342e551055"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0641.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0641.txt",
+      "sha256": "f1dddc707ac6cc6985e71c7896d8bb3e67482d42b2891b1b432249a75f26faa2"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0604.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0604.txt",
+      "sha256": "f35f54213c2fb2823b80e746500fd84c63b63762ae1395ac6090b0ae744acfa0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0369.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0369.txt",
+      "sha256": "49c5126b6645d1527c3eb392ce992d6c2d01628408c90f1c2606f847e3280d77"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0926.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0926.txt",
+      "sha256": "5c84cdba99ac05cb76b4a5e39dd13adf2ddfd241c6cdea8336ea3bff104a1553"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0463.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0463.txt",
+      "sha256": "5d8ac85d0bd798d897541a54e358432cd408cfcd0b6de079e66ddafd412c11af"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0284.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0284.txt",
+      "sha256": "b02aa8e3e46f78b1ff503a704bdf3321597fd0fe7941bd14dae662fdbd6207ec"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0823.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0823.txt",
+      "sha256": "1e9d293e9e45a914d90ce4d4e465b898340871fe0f2413230a20a21de91fb00c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0537.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0537.txt",
+      "sha256": "4c18bc2f5ed8851dd49aeec6f92b8a25b0442c6cfc12150d9535c36513cf312b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0575.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0575.txt",
+      "sha256": "34088fcc9c9d1d5c3e94009a3089d55600d5616d48feb92e1131745f52e62fb9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0837.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0837.txt",
+      "sha256": "657d052fc6a3690944aec439a46242246565c5d31f3026d068534cff1e731b08"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1023.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1023.txt",
+      "sha256": "9522b77ae89966af17a1371dab3d6cdb6d5bb24abd88df2331e8fa683dcd5c6e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0875.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0875.txt",
+      "sha256": "d4de349506dc17ec01d568c74cf4ad8680bd748b0e78f1340ccb820820cd1662"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0399.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0399.txt",
+      "sha256": "90dc498e8b4629d8ebe34f80e98231543235a43c507d4eb3d559f6ce194c38a8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0535.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0535.txt",
+      "sha256": "cd42f06a5c739beae0a501300542fff240727e5880d0100e16a8373019e49ef4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1318.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1318.txt",
+      "sha256": "f4055e13f5fd4a5c7bfb0af369dcf5001af199b62bca7505b9bcfd720d793b48"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0957.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0957.txt",
+      "sha256": "cc4773431855110f88f4816f98a517f4d9b1fca4cdd53d5ce1a5625ed7a5e3e0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0769.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0769.txt",
+      "sha256": "29192b3709b6fcad6388aa385c5844dd9d9fb7017f6c5658d4025fda208022e5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0365.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0365.txt",
+      "sha256": "9fc627e7ecfbcbd60d78b59a1d551f06c5c12755f0661f711c33756ee06ed059"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1172.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1172.txt",
+      "sha256": "dcc01e7333fcf5422ca38cbe2fa0d90cafd30cf7bfd530aa2db371eed2723dea"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0295.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0295.txt",
+      "sha256": "ccc380ee7ebed7d824011f6de31cb648191929f66f1459a8b59cd99bf8ba083d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0743.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0743.txt",
+      "sha256": "14318ea4577b9efcd59f982be4718d407799de1c64ff9cf9f73eb280284ed4b4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0639.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0639.txt",
+      "sha256": "3d2613b256057c3b8cc09089883fcdbe12e94444246c4e3d2804d9b7f88ea2d9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0112.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0112.txt",
+      "sha256": "41ddf736574c7c12a8f8f6f6955af9472ead4f080275fed8f3a93ce2d1685c84"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1389.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1389.txt",
+      "sha256": "cd33e162fbee11e6b026dcf211ab833ba9875fb7a25ef230bc8b4a2c20726cf9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0630.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0630.txt",
+      "sha256": "a7c670a2cc7c0086d186b6d74e56fc6a77290a12a6be17cf260dd4e5ab9e5742"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0965.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0965.txt",
+      "sha256": "3a98419a2585da4befdfc06f283edbb9fe7a39e9bd81ce09d3844980b33ff9c0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0279.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0279.txt",
+      "sha256": "5c3fe8ab27e2bb1226f9f821cc66dd5656de3e292aa86f019ea48f713e52556f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0573.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0573.txt",
+      "sha256": "ae0620cbae4ab888d7cb73d5260ed6c7cbb66cd4e130a79a15e89276de6ebfff"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0935.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0935.txt",
+      "sha256": "909cdf55e3fdd048eaed43ea81476627804379a474d461f00e669cf7703eee76"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0812.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0812.txt",
+      "sha256": "d196b71236ade6273dfe6086233f594f6293145d6396922f2a93bbfa56207faf"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0878.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0878.txt",
+      "sha256": "e48de44fbf79afaed876565349c242500da408613ae7da1dc5926f37b5bd4136"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1407.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1407.txt",
+      "sha256": "ba71e2e1fad37c22c92a1cad0a0b4f1f79fff4fa2916a6bfcfeae9e99d04ab38"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1004.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1004.txt",
+      "sha256": "01d77129fde6f234750d5ac09d91ac64596982b18f72946226d8383da5d4f8ed"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0258.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0258.txt",
+      "sha256": "d130680cbebe2b0b9a45fcc83307db9becc82f068f4cef5f3262a38ba8244206"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0660.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0660.txt",
+      "sha256": "dc0fad85151a576fbb5435484d15fbb72b50941fca227c14faf72a2fc47ab22f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0321.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0321.txt",
+      "sha256": "e7357da844b9c19eec25b73f1fd9a62162a447efc409c260cdf9bbadf86e6e20"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0897.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0897.txt",
+      "sha256": "786804098d92358e77b291a500185b0ef365de004b091b8b07182e77f14eb1d8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0709.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0709.txt",
+      "sha256": "ff9ea3a5bf6c3a68578a8c33c6953f9d6edd1b216d593507c70d178903729709"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0883.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0883.txt",
+      "sha256": "efab034346270e7f6a47e116b13ccac974f08de241d528bda1c5f71ee0b7c0dd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0530.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0530.txt",
+      "sha256": "a70e0ff0a38ee2b3770c84d4173403ab107297071538ff2edd75df1f9a9bffde"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0771.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0771.txt",
+      "sha256": "7a8684c37d8575321f75fd5438a6dd57866cfeb7832755f358f2971441f78a60"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0652.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0652.txt",
+      "sha256": "fc3b3714e66b4c831600bf767a978bf986cb8a0633057bdaf53f522071f802fc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0617.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0617.txt",
+      "sha256": "be1302976ef95fcd0a03710d8525a3634297065175500c5dbb087b4622f0555d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0377.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0377.txt",
+      "sha256": "b4bcafbe78a03cad279d42902995ef8550f06a401dee3bc775d80b03c842eea0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0827.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0827.txt",
+      "sha256": "56843742d3eefafac94588fbdcd651cd26f08dec1f4588e63b45f18d6186fdb9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0850.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0850.txt",
+      "sha256": "a1f976ecf13f336ba1a1dd841d56d412d9d4ee781b14e2ac121644e8140ed258"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0747.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0747.txt",
+      "sha256": "ba71e018e9632b62702b34bf29522096678ef672ceba9de0c5c4599e7de53015"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0375.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0375.txt",
+      "sha256": "400f06372c761d1dfa35b6b2a5eb77bbf3d483c3d6a7b9c364ca52d2e18a77cd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0613.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0613.txt",
+      "sha256": "85472c9f90fe50a2ed14e04f8bcfd3f0d6f56633da016c557e14e7ff644a8142"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1279.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1279.txt",
+      "sha256": "e8cc0f5601539f047d2eb871ce114d0a86dc404ea226c999d26d4456cc79c29f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1160.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1160.txt",
+      "sha256": "c30a85c9caf0409159c46948d7bf896cf98a6a091fe8d5e665dc6772991f58de"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0876.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0876.txt",
+      "sha256": "68ab25e1b6b28f07218613ffc20c52281d9d4ea4b3ffe6f55764392b57c04602"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0308.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0308.txt",
+      "sha256": "9d85ce2f316e44477f33e83e3dbc8203ecf177fb4fdf2ae3ebfbadc856681ddf"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0382.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0382.txt",
+      "sha256": "4a3696ffb7c9011dd8528baca74e01bfa8a8f388dbe37850ea7023f474fef473"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0406.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0406.txt",
+      "sha256": "ca025b240a85b8ff279201fb869b54818c43ee78c12ea90d8bc8eba570b47b14"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0311.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0311.txt",
+      "sha256": "caec1235603bfda8f7c9e034bc820afbfd8d4b15f343925248f339eb6408b9f8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0319.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0319.txt",
+      "sha256": "f500ac53678b9ed75cb2f7571195ad0a3cbc7667493f5790b6388adbb7469dda"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0506.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0506.txt",
+      "sha256": "d3094f56e6f72a8e177051af7359927bfd9981ae94efaea6d468548424e44fc1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0280.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0280.txt",
+      "sha256": "e85c68193d1670b1360fdb560864b09b517056732a4e6decb93b278b81907432"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0589.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0589.txt",
+      "sha256": "2b0cd20418064660fae0dbcd10201f2b09d563c5077b12b36b053af62af0c127"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0757.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0757.txt",
+      "sha256": "6ba1f3dada71e871e29abe889ac3e49e5f8ac2d3f5b026287ad6c9e45597d607"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1142.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1142.txt",
+      "sha256": "2411d9a519daaa879e28157e1c6685550423393967ee5249016b8642efa46b38"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1178.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1178.txt",
+      "sha256": "2f0e605011460dbe8bd9bbe3276f595753ea57a641f22f665cf968a2dcc9fad6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0937.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0937.txt",
+      "sha256": "0cb87d445d22a573247474475a72eef6ff65c881f715ad398c77aba064660af6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0469.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0469.txt",
+      "sha256": "7f20331849da5df70db36dbc07ed77cce3b9c08dd566c67f21082e06c2a79afd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0783.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0783.txt",
+      "sha256": "93aa6eee35959a6186d59e33a48c188e32c9a8373349ef1f6fccb913143844ae"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0555.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0555.txt",
+      "sha256": "d1d2e8ab928854a1e06048b63c969307f3a13870e4ffe27321b1a8f5fae210a5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1380.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1380.txt",
+      "sha256": "a67117d0a8a9100013e4d3f513e110e1555aa021d2e1306571a527f235444104"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0923.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0923.txt",
+      "sha256": "858a97a1db18a32eccc76cc607d95efd0c65eacf0ded1e2ad8d955083530b908"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1460.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1460.txt",
+      "sha256": "9f8fb950daf5dead7ac31f698c5e99ec62aa50069276d4b5121d1e3690287e4f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0269.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0269.txt",
+      "sha256": "fa2be17c7170398cfc4623a669240a145de02a004117d1cf97c8a361ce17c2c7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0435.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0435.txt",
+      "sha256": "87aa04528d707897f1e89f683a304dea81e705804844ee9f3f275db563d2716f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0606.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0606.txt",
+      "sha256": "1f276bafaf4e4debfa15c20823c0a1708a0abe3a677f2a1ad331cf9ae9054e5a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0433.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0433.txt",
+      "sha256": "7faea5bc82b093325b6cc41ac6deac75206ce3a736cd853a56a22028a2bc1aa1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0353.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0353.txt",
+      "sha256": "a25db472dba61c2bf573ce670dc5c1b0e6c29d4ece1e2c8297c93fa373d98077"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0366.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0366.txt",
+      "sha256": "9ff561ea06a76f7e19957e57c29ff84dbcb67604d214eb939b7e9c0272da9b24"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0484.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0484.txt",
+      "sha256": "b79da0ad77d471cd9768b5a0c52d5361ee36581157f26d135eb04e329774fa2e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0531.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0531.txt",
+      "sha256": "e87da7dd5d4669c4e727222a9de69aaf8cca6a599ceef8b6cc640a010637687a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0104.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0104.txt",
+      "sha256": "fbe57fe59835460323bb8e7cc1304d57e9659354a5b64bd9a9661e8adcefbd48"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0254.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0254.txt",
+      "sha256": "0cd68f4c526c1f93587e3f948b6f3688e1343e3f911830207cc6a5eb632becc9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0378.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0378.txt",
+      "sha256": "d6753fb7dcbd59d0b96702987fa1eef94ffcea15bcfea5e272e57675e6b8f89a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0896.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0896.txt",
+      "sha256": "66ed00d100f214e526837ff7d7c6b066aa4d3da44a82b0acae959e8a57c36e5c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0967.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0967.txt",
+      "sha256": "926d909ed2d9ab34e635ac1b9a22f9a077351114d8271a19ba84264e3bacb40f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0787.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0787.txt",
+      "sha256": "d635b2861b1d54766ac240a9f3ad3737e1bc5e5921ca479646232f4968da2d9f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0579.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0579.txt",
+      "sha256": "02fcab508cbaccbc1a179fd9a69c72474d02c5793395544cdb053261cc6b10cb"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0309.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0309.txt",
+      "sha256": "f4371c9d7b928ff04c8830629c8f48e6089f23734605a33df10cef78965bd5c4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0881.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0881.txt",
+      "sha256": "827c40f53e37eb391713590bcaef7acc8a1ee885418ebafdacbf72dfb63f6344"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0944.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0944.txt",
+      "sha256": "e7fed75c924b4cf51b0b77deb3118964fa244eceee243046fc01c64c60a0e789"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0109.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0109.txt",
+      "sha256": "4dd0aa807429cc60855a8728ba29c0ead2a308993a5de69421a995dabc548515"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0800.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0800.txt",
+      "sha256": "6c04c06d58c6d2e4bc03af70d27cc2623a900e5fb38b75b8640ecf9fd8fff45c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0939.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0939.txt",
+      "sha256": "b18a5c33c23618920305dae13b3d022bdd54962bfd0fb573cfa1724fc85f93ae"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0581.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0581.txt",
+      "sha256": "1b062355c5eb120bd4d0638ed17a9e6705308b66ac72315daa7e1ce222e5a461"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0403.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0403.txt",
+      "sha256": "1d76d0c7d684c80d63cdb3cacefedfb397f10eae341e1ed977c5b5622ed8c29e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0961.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0961.txt",
+      "sha256": "308ebbdb2d97d4bb458ff0bd908ac6161a77c7202a9999589c0fdff4c3a48e33"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1398.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1398.txt",
+      "sha256": "e85eed4d58e0e4e068d8b2edb79b8f1692728cee4fb25e7ae7a7518f7888a86d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1457.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1457.txt",
+      "sha256": "70608418daf71f94506a04e17983ccd824874cde5455af9f944335c332dc5cd7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0393.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0393.txt",
+      "sha256": "68c579c651189c0f0bc506434a3d96957d3e9e4fd734fbf39363dab74bc859fa"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1088.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1088.txt",
+      "sha256": "0c3533414d9d55f9bc57d4a5696564d5663f75be7f116369b0ed17e847490e2e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0428.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0428.txt",
+      "sha256": "03a5637aaef359c033eec63cc41456c82aa7403ea6c36727d968fdec24d5df2c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1405.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1405.txt",
+      "sha256": "5ac7abe39695c252dfab6ea90d78c5fec1a76d5f373bd7ee0febd69112865179"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0260.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0260.txt",
+      "sha256": "c7c158c97c42fcbdab13c4785c2e2dc1a3712bace952e832bf48fd5cbb60fd28"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0778.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0778.txt",
+      "sha256": "d191c179746830d11e83a9d1d71a22a1a2cdf768f2f7978559a7b82c7b7d1771"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0884.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0884.txt",
+      "sha256": "be2f1f6bfe792ebf7cc3319ed1023ba632de47ba9a8df21112b1b9e129040326"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1171.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1171.txt",
+      "sha256": "d31b8cb8e8cf0232a3c78a8ac85b89b956185a4fb6e0987517cc187b5a71d2a6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0383.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0383.txt",
+      "sha256": "564a40619464acf6b98b35ea840543a8ddfb2058d780900ffea90eb25036c098"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0102.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0102.txt",
+      "sha256": "96487e47100ee403243cfcac0cc075ad5a5003f6c585443c1071358d3858790a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0725.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0725.txt",
+      "sha256": "51ff8a8fc4a1d791d9ec420350cc8ad9ced1fc10832db14706d761df29b06142"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0698.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0698.txt",
+      "sha256": "2ed7135ed3b854a2ce1897769f22e14933d7f8ff4a770d634e6bbdc6f78c7503"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0304.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0304.txt",
+      "sha256": "0fa8cb2a980a1c18690d0b9b1e0c2ab2dfd9049ab9ffda51b378ade6de47d78a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0287.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0287.txt",
+      "sha256": "304b276b7d71a534af57de180840d60601cfc5a3430ab7fe0eabb8ba81786725"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0352.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0352.txt",
+      "sha256": "b083027e010f312c6f52f310e383a97e899d79e4f41518f6c9cae2779fd945a0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1410.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1410.txt",
+      "sha256": "d894557abe8a5c365d16bb6e0857e099edd59217f52137ad2842e407f7d17675"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0818.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0818.txt",
+      "sha256": "f4be52644ab2174723e8be019e7c3c0adfc22d148044ba83598c1ae0f0674bc3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0540.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0540.txt",
+      "sha256": "ac986ef690545389ffb49577aac3d170b5b70eef84937d76516a49e651f646a8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0905.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0905.txt",
+      "sha256": "939013e53c4f9bdbcf43cbd65ec8839732f70f8859435b037ca078359c47abdb"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0493.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0493.txt",
+      "sha256": "7d4492477803ab88fb30045395634cec7b36a68b8eb21dc39ba61736724c3cda"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0943.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0943.txt",
+      "sha256": "f278292f32d1d400db20306ad4295aa668aeddcebc2ffc7a49b8374d72c8794f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0667.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0667.txt",
+      "sha256": "1f560b2a8252961fa0419187a33ad45b81792bd4cfc1d9a70b449a04fe9d0b48"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0430.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0430.txt",
+      "sha256": "041d87739913b83dc0f37235ee564a62969f919049f54f47f0574092d80257c6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0493.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0493.txt",
+      "sha256": "1c423ab0dff716bbc57675c71c3eb92e58e51525e804ee4ed3b9c27b887987ce"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1157.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1157.txt",
+      "sha256": "46484a26cff921353e24f72b936aaeb93d8a753f446fca83ae8c9af30b8fba47"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1147.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1147.txt",
+      "sha256": "927083aceb659a0330de141043b7ed9e3d8751c17dbbe638f89c78ba3b15b170"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0766.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0766.txt",
+      "sha256": "fc9270456b041f3562895518b68719d3ebc1eb00ad2a399c1bdff00de4514a49"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0297.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0297.txt",
+      "sha256": "c88c8a853044f9bb0984bc3097d9ac2c2a39722b6bd9196f5184aede14ab23a9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0289.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0289.txt",
+      "sha256": "aab7ebe7c0b2d86c2d2b7ae3e3eb59a3ade9fe1dad02d2f9ce0668938aa339ed"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1275.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1275.txt",
+      "sha256": "15ca1a926013e25e30f691cfee4e1bc069799195ff23d3e3c795ee9f4d3d6cd6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0776.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0776.txt",
+      "sha256": "d91ab62c5cabfbbf7b16f324ebd8c8c843cb07dc188749345d9987fc10418f39"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0700.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0700.txt",
+      "sha256": "69f9c68d39dd8229f42467fcb65ce3d688026b4f67cecfaff73610fa58efed64"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0651.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0651.txt",
+      "sha256": "1442a5e80bc91de2436f49629f3db09e3b1180991f30f10538b77e5cc7302b4d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0315.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0315.txt",
+      "sha256": "87e8f37a0a9c906f7fca63bfbdae2237f2aab7addf812200565037486af49270"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1412.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1412.txt",
+      "sha256": "03ca61794bdc17dfdd20b01d019b934ba1f31df0b1417b8ed6156740a3cd77af"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0431.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0431.txt",
+      "sha256": "83318dcefa4e2f66c1a3b5119ed176bfec79f94f330cf7b143c1c8006d62190a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0357.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0357.txt",
+      "sha256": "b9caa5d29256bd26ef9fab2b0939c03a84743e13375194b19ff6e15d56bc7d80"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0281.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0281.txt",
+      "sha256": "e4bbd0d4365fcabfd8750d44cd36999d3a9a55ee64fdec92b46bbfed6c1693f7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0356.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0356.txt",
+      "sha256": "b9caa5d29256bd26ef9fab2b0939c03a84743e13375194b19ff6e15d56bc7d80"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0392.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0392.txt",
+      "sha256": "168fe7c4821eae6f758da833ab62a90d9809618b11c765d6e139a76efb6bdea7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0697.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0697.txt",
+      "sha256": "2b00c744fcb73a013b9d53624b1c2f2f8563c0591f9e38125aa046847a8e7689"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0261.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0261.txt",
+      "sha256": "f720b6dc3d79a0c37b476648f4e8568b225e3402a6b3fe1416ade53debebc98a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0865.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0865.txt",
+      "sha256": "dbfe646ccc894e38b69792f827ea705f7c61c9917108acce524590101091f2e4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0962.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0962.txt",
+      "sha256": "c68551b56d69e1ba1288b19b8540cb3608eaa591923be743d7b6bc07e30bf7bd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0985.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0985.txt",
+      "sha256": "fe404f96564fb944aa1f4e57ff11e0894530d8180814d8f0e5c178c6ee9249c4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0400.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0400.txt",
+      "sha256": "90dc498e8b4629d8ebe34f80e98231543235a43c507d4eb3d559f6ce194c38a8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0396.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0396.txt",
+      "sha256": "cdc25661e91d2c6502d97ae9b8af3d8fedae0d9b4b0ce2dc33d9f31d4e7f8f86"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0267.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0267.txt",
+      "sha256": "4aefa32e468df77efc6889cc11c9de9e9af7f011d861cccacc9b71af5298d512"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0972.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0972.txt",
+      "sha256": "12c9f0e16a5b8a56b4d497fe0cf5f99aaa39eb77eb4596105bedb06a6c5a53cd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1080.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1080.txt",
+      "sha256": "b8599864114094cbce38216dc278f5eb76ffeec0e52d8b7d496070a717a5c53d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0272.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0272.txt",
+      "sha256": "e2db1224d08ea5b2bb2ad35e6d1970dfb53d95fa1278e998f5ebe690cf7f9854"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0889.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0889.txt",
+      "sha256": "d0f45a3f12ac3067ba8b6a21947b1466ef8f95b4300b6ac58895ee64f769ae46"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0097.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0097.txt",
+      "sha256": "8c77cdd402285f1ed403110a33dfe8a82127262f7c5b5d65e4055c071a886b6e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1302.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1302.txt",
+      "sha256": "6fba18113c1e732c156c2b1dac61b579d28f50beb9cab37fe5ccaf7b28ebffcb"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0296.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0296.txt",
+      "sha256": "42c024d31efb2ce4338c7e152540e5f742adca7554b2f8f1108213d2bc87a74b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0980.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0980.txt",
+      "sha256": "0627ddad2d98e8ffaae6e0da4933ee923cea41575a86240e46b458a74cc9e96e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0470.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0470.txt",
+      "sha256": "765eb87c985954135cc35601fdae57ef77b1e9485b66aa993180ec77cb2aba47"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0483.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0483.txt",
+      "sha256": "63ff0bfcb3759fbe71b33c3032e538feb2fbbf6fa8ea9b3e6c9b54bda0011804"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0983.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0983.txt",
+      "sha256": "9a9d4396b9e39d64d4c078d863f484e72a74fd6547b1443aa9b8cf5e670434d6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1293.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1293.txt",
+      "sha256": "67cc9d1d90e31379bbc611b2962a83405f80fb25f47e4ec8866b39591030a221"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1458.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1458.txt",
+      "sha256": "c3759c6a4d53adae1227381050f3c11e418726f43c346ec5758efea977f0abeb"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0541.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0541.txt",
+      "sha256": "e6403b08acd528ff091ed43023543c05730456b98c541615048fb41705632b44"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0118.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0118.txt",
+      "sha256": "a95c8d31778811fea981d23854944c2ecb94801f54403dd123bbdd0fe77afa50"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1091.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1091.txt",
+      "sha256": "ea8110deb63c6f87c9e74ff608330d7286e06b4f1d4eb53cf6b0b48f48490c87"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0914.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0914.txt",
+      "sha256": "b5691bf3f261dc8c326bd3cdf7c77767442fcaf1d09bc33a236dada773418477"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1187.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1187.txt",
+      "sha256": "675431be61f88ac2546519ccdf8799e93b4ef10d0158bfe280d98bd6140aa56d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1308.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1308.txt",
+      "sha256": "92bb45d3a4733015876a11623e8b07023e33ddc6d0a722495396dfab204c6802"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0288.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0288.txt",
+      "sha256": "5163598ec076af1e1e893e667f891b5b31b2714d172b815a09f676fef6900f80"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0300.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0300.txt",
+      "sha256": "8f9997b65b9f378ae952c6ce9b84564a3d82f60e99bf860894e3716bef777ae3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0490.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0490.txt",
+      "sha256": "08117d0da7f943c6820f041b03786177f18f5c334d3427d09f53505ec4a9ffc2"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0386.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0386.txt",
+      "sha256": "a2f5d9f33d65aee998b8a25d31b82101f0d612e6198046ed003126de8ef093ff"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0774.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0774.txt",
+      "sha256": "89798b82bc5bd4d9023601b1ed714247abd762d626870cfc6dee89b512610ede"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0913.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0913.txt",
+      "sha256": "b6256db92cae0cfd4a6390d21434724e9f7629d86c9aabe3d1dbef2e7e176167"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1432.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1432.txt",
+      "sha256": "9dadfd5cead9b46cfe90902b9a5111176d12477b0405b97460eb53ee66c6f970"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1358.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1358.txt",
+      "sha256": "964de6e8dfbf788393119c8bb89701d1e61c97800495fba1d405909386e99fab"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1355.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1355.txt",
+      "sha256": "cade3aa0ad75b995db4a08b714cec77f139f89eca283d83110fd2cd4dfe98bcf"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0622.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0622.txt",
+      "sha256": "538d1b599ca780c69dbd0f73884bc141b808841ff11d3c2423255da7073ae80a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0730.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0730.txt",
+      "sha256": "a2378a947164c4f96759db8ea88acfce7dfafdea92fcde2029bb40adde61560f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1051.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1051.txt",
+      "sha256": "31cd0ebe042cf48256dda655514e06e9058f294a0583bed00edc685c95651c94"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0474.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0474.txt",
+      "sha256": "48f21ca316902d9a3f1f56d7b48c5ad914bb2474255ccb641caa121b2c885524"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0925.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0925.txt",
+      "sha256": "123a275ea0758fb209eda42706d264e3ccead02b2a222609f73a1010aea199b1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0292.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0292.txt",
+      "sha256": "f453242dce020984d63d8aace3b95d21b7827a698a1c8e1c6f18b13c07f5f488"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0868.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0868.txt",
+      "sha256": "daebe8260e1d49456ed11546876f3f82e9b63822122a01eba2ac8fe7aea7ca5e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0391.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0391.txt",
+      "sha256": "168fe7c4821eae6f758da833ab62a90d9809618b11c765d6e139a76efb6bdea7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0681.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0681.txt",
+      "sha256": "6b34749d2bb6e5ae00a33e18572dbc87cf125d5acff350dcffe0ad2575765ccf"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0355.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0355.txt",
+      "sha256": "60e541fa96cea292ca3d72c2b3c862a14505d83f4f83ed26c9fd176244deab2c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0796.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0796.txt",
+      "sha256": "2a2ac68edcc5bd8970270ffb25941d6984acc3a0c566b67724af4c62a95dd146"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0465.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0465.txt",
+      "sha256": "58db17332d7c981b453003c7aa7398945cfbf22b85b02095a98cea8845d9144d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0634.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0634.txt",
+      "sha256": "2e93219990c0d62d7cba9aff2359dfc31e55d2425b87092842dfab75e67ff7dc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1343.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1343.txt",
+      "sha256": "d6843c13a583bd6d6dfcc23ea7a9237a50f4a8d920fb99f9f4e5a4635e107ecb"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0874.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0874.txt",
+      "sha256": "5d83fa697e5dbc75b6e96879497969eedf091e2428406842b2fa25a5b04b3f73"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1055.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1055.txt",
+      "sha256": "0830991830588f31dfcb6a8b1f1fb436ec7e034fd2946114a65b6447060f728b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0630.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0630.txt",
+      "sha256": "af5b7d09ff467b4b11a7f65ee25eede10e4aefcfea855ecd2a90bd779d79fb6b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0282.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0282.txt",
+      "sha256": "8e546c5f0ffda7b213f138956fab1dc6722d0d9ee8dd46ceabde7b40f1e0c343"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0385.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0385.txt",
+      "sha256": "a2f5d9f33d65aee998b8a25d31b82101f0d612e6198046ed003126de8ef093ff"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1431.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1431.txt",
+      "sha256": "81b8f3126e4660347866bdc20416e1eae2006fd7025d95ce8b309986c8a096fd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0363.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0363.txt",
+      "sha256": "41427a0abf6363230f62450babfda2674712fc71a34b26857c6c9336bf7ce36b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0388.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0388.txt",
+      "sha256": "f4fabffd66adb385ec8462b25b726a5209ebebb95a4efa9ed3d01cf7a0c01ba8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0700.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0700.txt",
+      "sha256": "926785276a1df7d039004aeef247bb91ebacae9ce8d4573d5480b983226614c9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0398.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0398.txt",
+      "sha256": "b757f7dd7d853aab061aa59585240c13c0a840668a51fbea78b500c845241ff1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0113.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0113.txt",
+      "sha256": "80d1d711a4ece7017bbf0cbc5c4e6d9c67f2c24ae6c4742bfd4fa6df5ecc3e14"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0712.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0712.txt",
+      "sha256": "71f0082c4a66b3ed63414f1ef1545ba253f3f368a3d609a4b7c742acb7a942a5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0307.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0307.txt",
+      "sha256": "a8464b35da590e342c72de5fad13e18a872ce689d189b7faf668c2c775e40d32"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1117.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1117.txt",
+      "sha256": "c9370903f1157b9030d404e502ba5597bc4ba9ccf96783e7fceed56e9f6a8a18"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0432.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0432.txt",
+      "sha256": "62883e1d0f2cf8803261ef2c955a57925612251ed1af1d1d95102549409a21ce"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0781.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0781.txt",
+      "sha256": "c860de0fafd2a1fc36e6a751abd29c561c1e87313216ee054544ba1af6463c1b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0367.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0367.txt",
+      "sha256": "9ff561ea06a76f7e19957e57c29ff84dbcb67604d214eb939b7e9c0272da9b24"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0560.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0560.txt",
+      "sha256": "2948d9a3e40550ff5a15a1c18daf007c1542c3922f16eb856657e2e50d12e294"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0312.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0312.txt",
+      "sha256": "58ea2ce90e665106ec85db19de1e3adee07261a5a0141e7eaecd607a002914f2"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0854.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0854.txt",
+      "sha256": "8986157366a94148ddf5860aedab3be5ffd9e858b6794b8ac889205d12bb715b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0439.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0439.txt",
+      "sha256": "094415d11c1991b9c5c9be6307fe67294d1efcbda9039a92d050de7fede378c9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0609.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0609.txt",
+      "sha256": "4f48ccdc42dab859e3710c66a04fd23e9ae18560cfa6789f2c377ec208f64d0e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0438.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0438.txt",
+      "sha256": "dc3da73c16b6787c2548cb019b9c869110e7652a3436ae349208d29180e67b20"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0120.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0120.txt",
+      "sha256": "2b3bd4c05db2ad8882e2ec09b688b07d164fa0ad0968fa1655051ceb14e51653"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0359.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0359.txt",
+      "sha256": "a0c2d5ba153a5258fee9d7a999944dcf5829370d39b967f17fd95633758afce0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0526.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0526.txt",
+      "sha256": "c4826fba0652eb3feffdd679bcb6dabde80eb3f4f859fca43d05356b87e70dc7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0362.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0362.txt",
+      "sha256": "41427a0abf6363230f62450babfda2674712fc71a34b26857c6c9336bf7ce36b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0098.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0098.txt",
+      "sha256": "aade0f079456fa101b1abecad03f8450db5255f4371d73d6e57a3ee53d92e943"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0437.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0437.txt",
+      "sha256": "2606542b1550764cd0ededdeed98f3281bada7a0c2af38487aeaeb9756b34da9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0426.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0426.txt",
+      "sha256": "c7498b0509db20b2cf635ca77464991b061a80c575c7c8d870ff9c658d712e2a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0111.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0111.txt",
+      "sha256": "a3b72f65678dca968575cc2f3c8d720deeeb1ba03cfb83377faa40c3d6743c6a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0122.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0122.txt",
+      "sha256": "2669dcdd941cf2452b45c437634b35dd2b5fd4767cc33bee5442cf915bbf89e1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0707.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0707.txt",
+      "sha256": "1a1f24e3571e04cd9546236890bc0cbe70da05bdc01bcb2852ffdb1859999737"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1099.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1099.txt",
+      "sha256": "ccd3f466292078cb5837f97300d0cabe6aa7eb708c67191680135fb8d9fae608"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1326.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1326.txt",
+      "sha256": "0c168552baec846cd3ab11e712d69880c83f165b6b4cf8cb830fb08d605c04ea"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0370.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0370.txt",
+      "sha256": "b3456c432fee49d4e9d88a69623eea7d6ef2200a1fca485e07c735ff21cc48f7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1385.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1385.txt",
+      "sha256": "874cb42d840f3106e9fd81f1f55a77a53c45967132ebbb9eae24dfc4851a38ba"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1230.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1230.txt",
+      "sha256": "f810490e40fa4500eb5382d45d39bf2fb509ce31e8372a945d1d292a25b5763c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0119.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0119.txt",
+      "sha256": "88ebc338acebfad8ec68947a482eb0fa659663c0b83e2ab9b049d262f287e8fc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1260.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1260.txt",
+      "sha256": "0b956500f0116300c130adcafdd2bc0e69084fb72b0a3c989aa208d074ea8ed9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0397.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0397.txt",
+      "sha256": "b757f7dd7d853aab061aa59585240c13c0a840668a51fbea78b500c845241ff1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0891.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0891.txt",
+      "sha256": "f91ebe7280000360e92a4cbe16ae1453f0a6ab372ba7b428fb1ef4c31f023eec"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0323.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0323.txt",
+      "sha256": "8cddc7c08f270ec0e956c572d475540199e79b93002522e1180c0aec0ecf0e4b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0360.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0360.txt",
+      "sha256": "a0c2d5ba153a5258fee9d7a999944dcf5829370d39b967f17fd95633758afce0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1072.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1072.txt",
+      "sha256": "8938622f605b64a0eee6fd0cfc5da64b64da290a0856c240584cad65139318df"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1261.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1261.txt",
+      "sha256": "7d5c725c331bedb48d2e72ff3e339972084acc4eb34460f84d72225c4d673135"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1103.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1103.txt",
+      "sha256": "6fdf6aea14cf93fc9499c70ed020221cec0f806c5da3defb411039f93aed96a1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0322.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0322.txt",
+      "sha256": "9d089b058cc7d758d11c2623693c2f18a2c67ff9e63d294a0d8233b97e8eff0f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0411.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0411.txt",
+      "sha256": "1f847eb1b08d147cb3ae54f9e50a9a574a4ed1867267fa380feaa9a8a31b21f3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0821.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0821.txt",
+      "sha256": "0ef9726349daba1c345b95c02be55e4115590378711fd21d2e1bad8884044123"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0840.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0840.txt",
+      "sha256": "4d18ea203ea3f6eb7c8186c7b6412248562bd12a07350e5f02a2f21d571e2fba"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0409.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0409.txt",
+      "sha256": "8a60e33a3d0cdceafdca2675b3dd349923eb0c549f1ce3bbb4759cd9cc6a4b75"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0519.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0519.txt",
+      "sha256": "5004e8bcdd5e6ced309a1ad6e986edfa0082b4fa43869f1e02bd376c99e8f737"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0293.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0293.txt",
+      "sha256": "1ed8f685c4fc62e973138b9dc6c3f8194dd9f09bb7a02df6dac0cd40597b8112"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0867.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0867.txt",
+      "sha256": "bae2d0610aca54b6334d97281a18ed849c27d06ec3f8f8ebbea4b4de76cd6622"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0264.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0264.txt",
+      "sha256": "cddcaf6dc1fb389b142657180063d2acd788bd48cabaa9afe9eb61dec96a2ace"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0361.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0361.txt",
+      "sha256": "7118ad831a9a331fb46347cb08c30336c32fcee8955de0b232a634c19173e309"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1269.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1269.txt",
+      "sha256": "56e1a3ef9b349593fd539ce21059b1c0aa8da84f2d7d867c7a3216f40ff497da"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1031.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1031.txt",
+      "sha256": "5c6a82549760b6030b60481d09668f3618d1652af83bac18b5a435c9a052525e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0796.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0796.txt",
+      "sha256": "bbf867893b928089a58edf0d5548d42c9628c421d8aaaec7722b5fd5a1541812"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0371.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0371.txt",
+      "sha256": "b3456c432fee49d4e9d88a69623eea7d6ef2200a1fca485e07c735ff21cc48f7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0818.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0818.txt",
+      "sha256": "aea2b52c2399c5b11d8a275687b8b45832f6d66c9c46e236d164c2fdff60cd2a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0358.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0358.txt",
+      "sha256": "d7f6e87e866747f9c8a09627775cc43ccb8ee6e5e672c26dd35a6ba9810878fc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0114.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0114.txt",
+      "sha256": "333b5edc7c7fb1f473c0c0e40fecd9bed58c3a02552507ce96a0da35dd70df97"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0110.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0110.txt",
+      "sha256": "eaeceb32032e50a0012bc7ce8fe82901787585c49c1f92f93998070544d1e2cd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0921.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0921.txt",
+      "sha256": "d519646b01d6459279aea7318a4baf6efbab2188e85fb54908c1a006025b7e8b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0265.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0265.txt",
+      "sha256": "9b02c10e5b87e4e40f7778be8b6e931e7ca2c82c5749286aea91a6ebe2d07c71"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0869.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0869.txt",
+      "sha256": "76c5f21a0f9e87f77ca4fa3631dfb21d0b68f16dc0de672b01d6a6e8f13f6830"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1379.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1379.txt",
+      "sha256": "041e0e1ccc5d47e3ee050e331b1676641e510d4c064a9f1d1b3a28e4377b6612"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0696.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0696.txt",
+      "sha256": "948ab39bbc2ee02692cc23a5e7e8214328a54ad2a4c817c569b12f28af0eedec"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0407.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0407.txt",
+      "sha256": "7c3d55291222be551993afe1e6ab64afca4a34a2c7dfd6671589ba2438d6fd82"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0389.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0389.txt",
+      "sha256": "ac00013799abb73ac6da9b277990b1e91679aafb6f4bdf1de981f383d3784af9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0294.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0294.txt",
+      "sha256": "f1fcba7be40b0493a308e490fedf31aa5ff78a0070b7c2f1089648647fcce1ff"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0666.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0666.txt",
+      "sha256": "290f1668782bb593626452ec09c5e1702fc4470c63d7732638d3df6ed55082c7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0918.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0918.txt",
+      "sha256": "e6b19cbfba5f57652e7748d0af14577509f9494dc2c32e70201aa0f3494acf0e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0966.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0966.txt",
+      "sha256": "cc49ca2364d77e09eda480f8a6cbaba01aa074cbeb25f983949a4a52826728e1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1209.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1209.txt",
+      "sha256": "0434f101a9acae1dec10b042c32e96ec0f4b562c750ec2ce9132285237838b14"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0454.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0454.txt",
+      "sha256": "7a739c9e08fb8433e6f95d3e821d737c0c1e4c4aa3ce1ff2acd9edbc7afaaf36"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1032.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1032.txt",
+      "sha256": "57f0d08565ffe1a50b2ddcffee11d98d2da5d9de7dcf49cac3aae67b11a7ed9c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0408.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0408.txt",
+      "sha256": "7c3d55291222be551993afe1e6ab64afca4a34a2c7dfd6671589ba2438d6fd82"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0802.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0802.txt",
+      "sha256": "f3e55dd0dcf5dc15c5ae87a50e364eb9db23d49a159f07e63d38548e074efff9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0310.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0310.txt",
+      "sha256": "b032cc2c6947eeee1d41061dee6f237ea80d87cc28d77c44e1bbaaa5c351df34"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1323.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1323.txt",
+      "sha256": "989c3556b6a9fd3790de555d79687cb3dbaf69be23449854ebd48616af3f843d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0621.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0621.txt",
+      "sha256": "1e4b0123e446e7b46a31b2e21ba620ef9e26e40f1f62420474a2b6a634deeb4e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0511.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0511.txt",
+      "sha256": "9ef54a38df08dfe67a41a3c39623a68f7b7862c1f93f9b59466d95469f05e92b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0271.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0271.txt",
+      "sha256": "f0063a0c6253886c8b4b0d6ace2e102f5604dffac7125563e2e20a419a675ed8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0116.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0116.txt",
+      "sha256": "3946a657d62d8d5c8e0bcc98273c526052f36dada63591e81910efa07e1ef533"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0865.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0865.txt",
+      "sha256": "138c0d98ee15772282bb5b71ec5837b60b0fc91c4d2d8aca712e7f0b4f0fba25"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1290.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1290.txt",
+      "sha256": "f8a1111b13a57fbe4d779835377ad0420f7b4c10e12f02330ec62d5b6c7ef0bd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0405.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0405.txt",
+      "sha256": "ca025b240a85b8ff279201fb869b54818c43ee78c12ea90d8bc8eba570b47b14"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0656.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0656.txt",
+      "sha256": "51b1dc15b541d264a6a0e18c4629ffac2df9e5c0f695d84928120b924f60b87a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0602.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0602.txt",
+      "sha256": "ec9e49de2d191136a237e1c286058bcd1e5b81f2af970655dfd712c364b64657"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0716.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0716.txt",
+      "sha256": "ff5c7115dce80e2b6b6b7876fd38aa4b0cd8324874d34254e67eaac609943aba"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1252.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1252.txt",
+      "sha256": "f390f6de70aa881e42947011643a7fc5593fd58d7e7642fcbc228e8e55d64e94"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0259.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0259.txt",
+      "sha256": "339f71b48439767b03dc07380fb38d4621f935f8b5a858bcd6b76444c94d3b6b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0124.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0124.txt",
+      "sha256": "118b8fedbbf597524482d495a8cfb005b86ac20785ea40dceecf96b30b70c75d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0320.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0320.txt",
+      "sha256": "953dc6df201ddf8db61c5445122e97198b8c07931206e99aa2edb91f3a36f95d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0313.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0313.txt",
+      "sha256": "41370656bf3c3db57bfbf0eb25e518357b79bb4c5f2dca2ccf64bbaf9ed223a7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0593.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0593.txt",
+      "sha256": "a21c775cc7e52d75cd709e8b78d674a19b380aa0e5cb55e4d12b5e804a0aabf8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0933.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0933.txt",
+      "sha256": "baccf92f1e1c6af82a3e935770426b4350f071508dc060c77a03d9456c128d42"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1019.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1019.txt",
+      "sha256": "3038175519510ea507ca42fe35a3fcc5399c1572ceb1408b3b64d8009526b15d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0468.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0468.txt",
+      "sha256": "b6dc268a22ca5521c29e43cfeef0c4f851312cc1a0605b2f1eb72d2a5ee7bcb9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1195.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1195.txt",
+      "sha256": "1f29d833575bba0cb1b562fc2d373826572bf0e65c07889f321bb0ee4e1b30b8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0410.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0410.txt",
+      "sha256": "e349261338e05713ddfaf129c65deecdf86788b3b0ef0502074906628ccb97dd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1378.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1378.txt",
+      "sha256": "2a874ba9d765b54b2858c41dc7c46f0c949b0c688f5001e2e6d7fc12fb6d94fa"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0770.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0770.txt",
+      "sha256": "719ce25ad74ecbbca2374087eb2007be68a90a115c0e5afd7c890f1bbd9f918a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0427.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0427.txt",
+      "sha256": "53d24ea74e1bbfcc671e635b2806deb25c51b89db3ce72f613afa330c255b5d3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0910.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0910.txt",
+      "sha256": "2173e4ebee828071e7169a466bb266d03c2186db7e40356be3e28807c21c8025"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1414.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1414.txt",
+      "sha256": "7967724dc6c6136855a2c4170de42e3cac0c28197427287f40e6ed01d6612fd8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1360.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1360.txt",
+      "sha256": "6b6dc60586e9c5868725a3c2b20a1cc32ea7bb0006fdce8e9acca4f6a957e81d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1149.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1149.txt",
+      "sha256": "9f8c504a7bb632f2c7e394733949948642199e8d2be2ba4c45af39e62b1826d6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0429.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0429.txt",
+      "sha256": "52c2938a0e9811246280776d50f99b7831f4d3c3944381a321ba0a2e53e20385"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0861.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0861.txt",
+      "sha256": "f6224f79c3b57953f11d36bd8317ada631fbf4bcda89cd3b35798427928841ff"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0317.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0317.txt",
+      "sha256": "488b6f9d5cbddf1253d6df2e74626416d190e29d6eece62b6d47d23ad97a8fed"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0121.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0121.txt",
+      "sha256": "ca5b543a7dc528aa4d58b2292c6abac27adfd0d1ba24d10f348d67471d8495b8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1459.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1459.txt",
+      "sha256": "84b07eaee9d0c68e9e91ce74c727d9484e14f052d3c54802e06c634f64fae343"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0754.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0754.txt",
+      "sha256": "14aae94e5ca68bee5d3e27f6e7502121aa4399ac67ae31a66ea7bffb8d9faa5a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1411.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1411.txt",
+      "sha256": "cc890ab8f2c9b9e2cd62fdc829bb482b90ff604d1a5a5494db6b7e3f9941fe85"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0368.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0368.txt",
+      "sha256": "49c5126b6645d1527c3eb392ce992d6c2d01628408c90f1c2606f847e3280d77"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0314.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0314.txt",
+      "sha256": "dce123189c3e57a2476049cb7427950457f4e6e83396959a0253b1cd8fa04694"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0374.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0374.txt",
+      "sha256": "e039d503b6049d162dc789e7a92c5f81f7dacb34d0e662b9b7f0f3a1e8edd06e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0739.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0739.txt",
+      "sha256": "3199a19390c4dd829c2e02da0a39ab7ed34321d6b62db68d2819aaa8213c3137"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0998.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0998.txt",
+      "sha256": "c7bda11a646a236a7e4be2dd072d090f23bfb70b16817aaa4a90fa5d690d0ab5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0638.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0638.txt",
+      "sha256": "139dee2e09fc743db9e59f37c9e804ee68ab33b287d74f8e4377c24d7896592d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0316.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0316.txt",
+      "sha256": "ed10dbce2084eb9072376119a820cabe164440fa1feefe7a4871be448bbbc3dc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0524.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0524.txt",
+      "sha256": "cf282f6e4ae6f0b3e6580fab1dee5f2e5b74ba1c2b8c3f940bb0d3314c2a930e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0951.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0951.txt",
+      "sha256": "2fcc4f51d54a4d4de31f09643d9824744ef510611706ee43141deae8a508beb4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0820.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0820.txt",
+      "sha256": "ae36e508178309b520bce13cbcdd4d9d9bb2d1e394b3f7a6d1166682e4b42f82"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0423.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0423.txt",
+      "sha256": "53526ac6276e85480d3fef026c26aae49ba7d126b6c5d881ee87a25c6ed8a7ad"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0302.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0302.txt",
+      "sha256": "6447d52e8b3e328d244b681a0e26c936362ca1f0214ba2db9d1290e93e1fa34a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0689.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0689.txt",
+      "sha256": "88c7f7318d8ea5f0d0b7a025b07adfd6e7f18ff08c2ea831b724730098ecf0a4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0276.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0276.txt",
+      "sha256": "239eee3cd6003b8b46506488158f4ef30bc878a59b3d6ee4d9fdcef4652363db"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0275.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0275.txt",
+      "sha256": "56a7ae65ab9b7ddebfe787953b71711938b3c733169be94f332f85ec0abf296a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0257.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0257.txt",
+      "sha256": "9be1b889da4d535799d757bc13a12d68447b06d6a9447826a65e4db33ef97cab"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0955.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0955.txt",
+      "sha256": "2b1dd5a24234c7d69c7d44c23e1b54a04c9208e60cc4eded34ab2a26405f783c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0789.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0789.txt",
+      "sha256": "9addcf87176a8f0f56c0be8660f64057936184e41042388beb62df5126feab80"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0720.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0720.txt",
+      "sha256": "4a1c2673e3ff07f750efcd87f6f2efb1090586db0e4e2666681dcfd2f946fa6f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1041.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1041.txt",
+      "sha256": "027dfb829daa736e5c2fb3480e7e2aae24afdbcdc73cfd6ecaaac6905ac7dc52"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1220.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1220.txt",
+      "sha256": "8dfdb602db5aca4300be305d2219c4b7390f684a0192264ae2b24648dabaf483"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0548.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0548.txt",
+      "sha256": "5e753c0998851038f13e857998d15722fbd884d601fa3b7b8990e858007a92c4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0262.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0262.txt",
+      "sha256": "2a91216ded7e31614c810dcb2345c8c7cf9c5c6c7a190debf342a601bf953468"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0693.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0693.txt",
+      "sha256": "3deeed1152c39fe371606f58626aef452efde31665e6011f17bc7f9e7993b5e5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0654.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0654.txt",
+      "sha256": "77ffd83a05fa1338f4b577e783a2827e83a904808a218c312d641371f5b4767f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1014.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1014.txt",
+      "sha256": "ce271ec91c021c46ecca87e3a1ca714993a8b39647b939ca6413ba9ae9afc055"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1040.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1040.txt",
+      "sha256": "027dfb829daa736e5c2fb3480e7e2aae24afdbcdc73cfd6ecaaac6905ac7dc52"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0373.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0373.txt",
+      "sha256": "17c5d9377edea0db253e7e3938ea0eaf9686396e9e8f81caea71d8e3d6e21654"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0835.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0835.txt",
+      "sha256": "37898b951cc258a4a72e38952ad38e788ffaa1909109eb421a2011d43d7ab38d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0591.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0591.txt",
+      "sha256": "d477fc1f79ce221fe928f1b5694e588471e909c13f2bb877e21ca0561a67910c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1289.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1289.txt",
+      "sha256": "397d5063d83437aa695d24aa01606a4a1a459b8d1c651ce70d8ad554778ec7b2"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0455.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0455.txt",
+      "sha256": "80214a3eaa7b735c60521d2492563678dcfa16ed8a0d4888c0a42a3d3c418c01"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0759.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0759.txt",
+      "sha256": "109a7fe08d01146330726d1fcd37b99103503f070e1d67ee46a80891e9c5d509"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1206.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1206.txt",
+      "sha256": "d16597e17566539115f4a97b071f1c907653702903c44eb98473e9f451f72467"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0619.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0619.txt",
+      "sha256": "f7d0000becbf4ff549b27ef43eda4728b35b3db4bcb95be04bf706da16885b3c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0376.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0376.txt",
+      "sha256": "b4bcafbe78a03cad279d42902995ef8550f06a401dee3bc775d80b03c842eea0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0564.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0564.txt",
+      "sha256": "72c03f4fc378261075491c15ce92a19a8633b23b9a5d275c7bd2cb7de92a6b44"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1242.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1242.txt",
+      "sha256": "445e33511e33d4c61f460c680e2a9cb4a800ee7c295913686a7d76dc9836b57b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0657.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0657.txt",
+      "sha256": "40bdc83bd2164bb5d612a5e8863f7d19077905e6a9de5a4c2f09a9083d83a7e5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0505.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0505.txt",
+      "sha256": "6e102dce4033407112c6d3fd494844da608ec4d462b0ac560eaf7d326dd99430"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0642.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0642.txt",
+      "sha256": "2a2f610785fbf2cb97e19ada706582474b022ffae4136c22c4eba3fdfcafedd3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0436.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0436.txt",
+      "sha256": "18630118a0cc4b98010c3113021798d76124df47328bab59e7da3883c7bfce5d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0268.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0268.txt",
+      "sha256": "7fef1ae175b92d63e165296b17d686f90fcdf2a81762b9a648024548ade488f3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0550.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0550.txt",
+      "sha256": "88cebdea74a38dedea67a2518c82c2d0ce539a97944e82c73daf0927c81b9f3c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1304.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1304.txt",
+      "sha256": "da283b390622ee7303ed57b584ce20f401c050a2aead784c641a85d9f5c0e890"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0695.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0695.txt",
+      "sha256": "166c58e84576dbe599353ad87097cbbdd6839125c3edba0288becd056bb29bf0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1390.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1390.txt",
+      "sha256": "4fcae22ac714e24cca79a5ad2f947bac32dad1defd5e27dd5510a3afae8de41f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0277.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0277.txt",
+      "sha256": "c96e8c80eceb70d101dd0ac88c4a9d0a3d172c0392a7afd55bfac2c234fd1e2c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1119.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1119.txt",
+      "sha256": "1dccfb8b269f4fe4d0131317ee94c33a0740ccdf594eb1ba6f5542a584f676c6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0870.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0870.txt",
+      "sha256": "eeb320c12ed89a00753e451ffb1a1be7e32a367913d19dfb1b89424e50534207"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1097.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1097.txt",
+      "sha256": "7e675b5cf251936d615a3cea537c6e7d440c6f1e3de9cc1b5ed8880ab767b0ec"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1214.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1214.txt",
+      "sha256": "fa2b56e96219afffab771e1056f288189b1354392c4188dade30d6ff8b805a39"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0256.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0256.txt",
+      "sha256": "81f59d8fbfab13e9e4e5df53d26835b793d9ddf77e1f7e339cc783f460e9359c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0425.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0425.txt",
+      "sha256": "4600875a435ec3a958fca6f996ad3effb72b9c05a7e6eeff8a28f1dd05c6035f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0693.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0693.txt",
+      "sha256": "20ea788752b4a8d10dfcf8bceea2cf41d8254309910c7ad7853ada36531c1afc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0561.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0561.txt",
+      "sha256": "ca3c84520a15e0ad9d016ce7aa47a7bf5dd210f8bd2df634a60b26f64977721a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0728.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0728.txt",
+      "sha256": "1d3c3127eab961fba332d4a6b68eecd7dc7c1f4a19f8868df5bf38450f428d3c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1337.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1337.txt",
+      "sha256": "6c69723575ce1c3b40e828b64d247aceaf50f87b937093321720a080e6ffd5c1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0372.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0372.txt",
+      "sha256": "17c5d9377edea0db253e7e3938ea0eaf9686396e9e8f81caea71d8e3d6e21654"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0982.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0982.txt",
+      "sha256": "ef54d55b321de222ec1cb834e927ffd3e4808bafe295f7553d40beede2963749"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1309.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1309.txt",
+      "sha256": "e0240cffaf970f26c13a7d692c81eab5002bcb362c45c37f9e94132d4e58e02c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0440.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0440.txt",
+      "sha256": "6fc0f2aed40a301c6048a93fdd07f4d85deb4f2e2d03c85a25ebd2cf8980a350"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1154.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1154.txt",
+      "sha256": "827e13ff06b3051bdd8914607ef1d83890ec7d44bff66a9bca4bf2ff42169cea"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0782.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0782.txt",
+      "sha256": "fe2033cb6b4c7ee00bf9a902cb0582901425184341425a35939aa4dd07330905"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0511.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0511.txt",
+      "sha256": "137715c094613c82dfef7381b7f11ae5bad87b30f53a5bfb78bb51cb1b6891bd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0379.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0379.txt",
+      "sha256": "d6753fb7dcbd59d0b96702987fa1eef94ffcea15bcfea5e272e57675e6b8f89a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0591.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0591.txt",
+      "sha256": "c2c2c21e1378fcf453e242c99f65816edf9b4a54843052359aefa18a8af9c5fa"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0953.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0953.txt",
+      "sha256": "c2af054f233d1922d68cdcabc141eab6fafc6bdb069d4b712ccc517805f89787"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0255.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0255.txt",
+      "sha256": "084b96cda7e85333f4c2a5173b09885daa65678bd4d336e44c9bd6b79908a007"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1001.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1001.txt",
+      "sha256": "7931aab4c340f903b18db335be682f2be450421d2d40570a638cb9d662bfd522"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0769.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0769.txt",
+      "sha256": "79642176572bfc18e1a904fce83bd66b7699f53714a6523e7dc28d4d94ac19f7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0853.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0853.txt",
+      "sha256": "c7f03eeafc3ef2acd50f3f9f38c771a8550c3e1cdcad745379cfb1adad325db4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1221.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1221.txt",
+      "sha256": "8dfdb602db5aca4300be305d2219c4b7390f684a0192264ae2b24648dabaf483"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0832.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0832.txt",
+      "sha256": "8f4019f0aa41bd38883c8f126d0889324e212519d73f012c92ddc1d706d2d889"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0298.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0298.txt",
+      "sha256": "f3ca97e51783f40e9137b78ff0ec4263f52019b813d08bbad5032bee354f96dc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0876.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0876.txt",
+      "sha256": "2a36448e870d21eceae2e6f198ae799592620a1a9a7d3301ea2734827a4b85de"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0381.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0381.txt",
+      "sha256": "4a3696ffb7c9011dd8528baca74e01bfa8a8f388dbe37850ea7023f474fef473"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0464.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0464.txt",
+      "sha256": "eadfe7f4cfe4d62928298feaa65e51cd79e8af5b20ea05d4696afab4d9d97807"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1413.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1413.txt",
+      "sha256": "5a204d3771c419ace4f4bf3bb91f56493fb4fd7b4efdbaf0e3c80791603ba819"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0811.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0811.txt",
+      "sha256": "5ac7362f5c940f8340b2a96e2c1d70a357b44670279f852ff3bf85c823be3ee8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0394.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0394.txt",
+      "sha256": "bb95765c4eebdc1b675aeb474390f9fd888b2a553b43d24aa6efea75877f45f8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0115.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0115.txt",
+      "sha256": "63ced7d3c07fa4df09308eccde1c4eb645062114e72c48fbe06ff4b69e26ccfe"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0671.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0671.txt",
+      "sha256": "3e3ef6b1ca6dce7956438618b0cbb9ef436f92562ce02e273f13e46e02dd9a2c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0574.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0574.txt",
+      "sha256": "ae0620cbae4ab888d7cb73d5260ed6c7cbb66cd4e130a79a15e89276de6ebfff"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0283.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0283.txt",
+      "sha256": "547059c4bcd351367cc0621fb3b0e4fb75a229faa16a453f3d4cb2a951608c07"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0690.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0690.txt",
+      "sha256": "e7bedfd868ef915624c54007704e9f2d63c16f5faa026a74450a5046bd511948"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1317.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1317.txt",
+      "sha256": "f4055e13f5fd4a5c7bfb0af369dcf5001af199b62bca7505b9bcfd720d793b48"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0650.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0650.txt",
+      "sha256": "6d4a78d2469908b918650b14dd8a7f7888a998f4918a3e8e9e9a6fbe8714852e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0817.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0817.txt",
+      "sha256": "91f59ed536d3dc8f5d2a2414e568467138b070ca8cd04edef6cf899638357bef"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1002.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1002.txt",
+      "sha256": "35c151ea478cfcb47a844defcbf3d366d9fa531757e9df2a307d97a8bd88df51"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0532.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0532.txt",
+      "sha256": "bdff0f97e1270bc897d890a26023973d262c3f8fc9526ef907658017489fd92a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1188.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1188.txt",
+      "sha256": "d689a5078ccc8825b6391c7d14d86b4538594dc75292525221288e5f9b48ada2"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1114.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1114.txt",
+      "sha256": "184a5bfb8265db49c50bee81a57c5ecca590034df296f41269e2e32037826d81"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1433.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1433.txt",
+      "sha256": "f6027e9e92b45032c53f13075213d7ca3b2e06cf00780f61e5bd31d17ee28da8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0736.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0736.txt",
+      "sha256": "94bb5b607b81439c371e5d63cbe9bceeb1acdbf210270f350e10a33954729a92"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1255.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1255.txt",
+      "sha256": "fb5fb6c4257ec7a507609d8049d8e61f8eaeba9d258d67ccd5239ce08929b5a0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0502.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0502.txt",
+      "sha256": "51239c69c0fe9be24d929b1257853b103ee157add03b5716fc47f65de4e69992"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0831.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0831.txt",
+      "sha256": "924e421f014b14838e445fb965a9230245ef3dd2d96fbdd0a647eaf33d23b093"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1228.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1228.txt",
+      "sha256": "67e463a827af7170feaadd5c314545f9780e4052d9324706fd8f51dd1e1e4141"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0266.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0266.txt",
+      "sha256": "a601d58179db31e8dea6458693c8f4e89f40bf0bbe326b51cc90fb89807c4c0b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0826.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0826.txt",
+      "sha256": "e47b15a2b0a592833fba903c4fca561cd145bde5e0adeade378fc4ea2b9458e7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0299.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0299.txt",
+      "sha256": "dc6255fa4cc8a8a3991dc4875c01305d2b28bb1d0fceba74e5ce79810c85eb17"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0445.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0445.txt",
+      "sha256": "3268b572c7fdba53eb4274b8315e1ee807c00fa1eba3900baa3d76ea85d572a0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0107.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0107.txt",
+      "sha256": "2e7c3e7d6b1d784c9b79589fb7da334c0bb3b387860a0095d94089a5842f6e39"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0779.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0779.txt",
+      "sha256": "1ff7747e0b1d303371ec0fa893e8a49432efdba126a0be0be47c038c240778ff"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0301.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0301.txt",
+      "sha256": "bd33c35760cbf5cabd65857e3876699078433fc0ac77ef98e3f030b453f781b0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0802.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0802.txt",
+      "sha256": "563a6dd62419a08fcbedb798b6c09febb7b3c08b98f0f8e0ba821843e72bb329"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0252.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0252.txt",
+      "sha256": "7e2930d4414ff10bde6009c130939bd3c444dc785c3fdbc0028df1b6812061ab"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0899.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0899.txt",
+      "sha256": "19c594876573cadf9f1842a3101f68afbf95080bf649ebe547d7e2600a3b4830"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0290.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0290.txt",
+      "sha256": "05c42f08f3911179815f04b2fdaa6a7589320c3ebb0ce91a64f5d8e5342ec819"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0305.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0305.txt",
+      "sha256": "16b2dc2a7d52a2db4e3a1560be27c2ed5262ea59adbb76be5dd633ac4e1d3b63"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0893.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0893.txt",
+      "sha256": "a180b114612a8a0bcecf0f738c1167b9c5c882a189d8222d44e9514dc566e60a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0273.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0273.txt",
+      "sha256": "84a52530b8b86e46beae0b0978e36b63f1712510df13ffdff768077d96549d59"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0745.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0745.txt",
+      "sha256": "c1d9dc30e958035ebf9d3d70d07f7094fda17489e32c3b66842669a892d73c34"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1328.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1328.txt",
+      "sha256": "8044cd956f8b9206d3e01784186936737938bbe74598fbd0a6e871d2c319691d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0354.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0354.txt",
+      "sha256": "60e541fa96cea292ca3d72c2b3c862a14505d83f4f83ed26c9fd176244deab2c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0840.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0840.txt",
+      "sha256": "cb7d4f8ae607c92d984d21f37348cc8d460e6dfa2b75293a771e3cf570618da6"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0703.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0703.txt",
+      "sha256": "4b272f9392d28796960bdd678ab18b1be870cdccb339aaa2ec3c9669034cc1ff"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0451.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0451.txt",
+      "sha256": "106e18dde31393eca8f1c4e4e458677312697d67e9ab6c33ee5a8f365002ab0f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0778.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0778.txt",
+      "sha256": "1957c6b93b9ea1d0f1f3e919cc22b40feba23f1ed27cbc55f5a8d575b874d044"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0962.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0962.txt",
+      "sha256": "d4159c42c5a3d03783c9731f1d2b4430110801b266a17680494bb484c5ffec3f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0364.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0364.txt",
+      "sha256": "9fc627e7ecfbcbd60d78b59a1d551f06c5c12755f0661f711c33756ee06ed059"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0461.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0461.txt",
+      "sha256": "bbda6a2d421c83f32a56839531273e4bda66aa69e95cfd106f68c3d5b0487d36"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0270.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0270.txt",
+      "sha256": "77b7f248843aec72bed8aacb8decf8107a6e3e61f0988166a799cbc5ddfa2cdc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0318.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0318.txt",
+      "sha256": "9274f8749d537ce733d10e645a80d74f42eabebdaba930699274ac003e244de3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0784.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0784.txt",
+      "sha256": "06fb0c188c064be7343cea1e3d4dd1c3e578858c04acf4a8dcc2f7990d2d39a8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0567.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0567.txt",
+      "sha256": "618843df2a3f9c15154fb3dc86b230994a581286a40f2115471525bdf774c921"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1332.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1332.txt",
+      "sha256": "1cba010bf4950f3758a39fe2e31bff8b58e2e13d1fe54afd7ff2401a445ad10c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0103.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0103.txt",
+      "sha256": "8023b98f12fc19c91cc379bf0fb2440f828effc67588c2784905c65867392aca"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0117.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0117.txt",
+      "sha256": "129d39613494e456bd9d62d9113daa0d3ff4972304a9bb3b5368df879f7ce450"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0978.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0978.txt",
+      "sha256": "7816dec391377786a4eb78e254d74cd27829c5de0c0a19bc91248f73a38d12a4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_1006.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_1006.txt",
+      "sha256": "8b1181a5bbc40664b6b6b95d50e1849ce226170e4148cf953ff913b9ccd4bbe0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0518.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0518.txt",
+      "sha256": "8c994c97441af2f9ce37ca8d7d71ca75eaa997c5ed4cb2d772a5cb0aed8bb26f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0768.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0768.txt",
+      "sha256": "7f8dcc8832346d40fc41b2328d35ed938752f00900662d0bd763228e64e23dd1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0849.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0849.txt",
+      "sha256": "fe8f05f06feab7308a0379187e02b0c83d10130c709f2c329bb7573e2e7b0ff7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0390.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0390.txt",
+      "sha256": "ac00013799abb73ac6da9b277990b1e91679aafb6f4bdf1de981f383d3784af9"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1028.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1028.txt",
+      "sha256": "7ba4c767520a6620ae112ecdf2aaac6ee685733fa2d664e9825087cd2db27f6c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0303.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0303.txt",
+      "sha256": "4996bfdea8dccf78705b648fba5d54064e14a25dadfec9946b0996f4af109b2e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0106.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0106.txt",
+      "sha256": "69a70779947f309e64545264a085fc59418bd4de7fe835e66e03e3b9a83a6650"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0380.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0380.txt",
+      "sha256": "b76b66036ddca000dbfa075c28a2802c40f8fa0a583057c79f2779ffcb4fd50d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0387.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0387.txt",
+      "sha256": "f4fabffd66adb385ec8462b25b726a5209ebebb95a4efa9ed3d01cf7a0c01ba8"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0108.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0108.txt",
+      "sha256": "55568fcbbfa4ed0af0b696cd6825841dd787bba9bfadb2a385e55f8ad013546f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0105.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0105.txt",
+      "sha256": "823ebc8a85237af5f01722c77caf2bf11583ae7b63ed99fcfa5b788b19ff7d24"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0676.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0676.txt",
+      "sha256": "4baff97b1fd0d9c8664718e7869d8b441fefccb3415f748f608ff0360cab0f77"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0615.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0615.txt",
+      "sha256": "be154b3d9f88123d170161a1dc213a5cf30496b329784699b6b724b5d2b8ee6d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1014.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1014.txt",
+      "sha256": "f825462855694e156d3c7964e48918342c015b6fd6f25cce2ee9eb39f24d6b8a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0286.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0286.txt",
+      "sha256": "4bbfa1c3f102a4b1336bde14988f6b86c7d9b10b0335b32fa10d62ac85e89e6b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1301.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1301.txt",
+      "sha256": "5c3331abfd3f9213ba610f4ee38ee029cfa716092c400ea9e07f7aef6b52fce1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0684.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0684.txt",
+      "sha256": "f1dc582164998f449151aea7c14f960d2f3bd759173729be8f39517e9ff6cbf0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0099.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0099.txt",
+      "sha256": "d04e790a4c2ac5f5b3c1a6d803857c8c55432cfedc3cdf1c37e53f8ab6a0a53c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1415.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1415.txt",
+      "sha256": "8c8a807095ea8807207ce91eaf176d505f0337c0f1ff289db86fc1dc61e75dd2"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0395.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0395.txt",
+      "sha256": "a0b52d72fb65755ee6462e76fe09c33a3a420973df580a3a65f82753277b08d7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1263.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1263.txt",
+      "sha256": "5230e91c23bcfbb79476e5a8e6b481fefb66fff1bae89f9d223cceec96814732"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1182.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1182.txt",
+      "sha256": "a89d1e0414dd86a405e2a400696a7a910266b234532e1ade039d5e50703ec521"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0402.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0402.txt",
+      "sha256": "2d060a2ed38780c5421550a00cc8d98486cde767b227f6c49b5e5df5fab25c20"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1278.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1278.txt",
+      "sha256": "c81855376470738ca784c6b28a458de8701b7f2b07bda7770010a37f86913a81"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0404.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0404.txt",
+      "sha256": "1d76d0c7d684c80d63cdb3cacefedfb397f10eae341e1ed977c5b5622ed8c29e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1015.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1015.txt",
+      "sha256": "7e0358dac1a054ade081eb647e9efcc59a3da3ce955ad4d18c9f96c6e634fb53"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0552.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0552.txt",
+      "sha256": "390125e0f323618faab5c1958d44536e44699392976af2e47c5b6dc2d972f886"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0291.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0291.txt",
+      "sha256": "b3285164d873e3b6857a526d24e43123e9c32d50e230dc6b9c17768c3ec14b52"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0434.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0434.txt",
+      "sha256": "54cd79c4c8e06a95c081f5424684efd11b9e222a25fb5c64cceb32aab2d0f491"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0123.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0123.txt",
+      "sha256": "ce39dd9b36a269ea6fb646bb55ed7994d8e84460e5fc54c3f590b1f85ec9b52b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0306.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0306.txt",
+      "sha256": "e2c74841d536a966d2905bb81c144f33761ed43aae0a6dea36b088fc4a5c8a5a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0274.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0274.txt",
+      "sha256": "fd34691c2d7fb0ebdf81d0b6509929671c5dd1596d7f9237bb0612e27372c627"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0263.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0263.txt",
+      "sha256": "c3ed634aeea54f961c716e4b26b525de84efcc612e37933ad161da89ac92f671"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0424.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0424.txt",
+      "sha256": "a8e8a1267b71f8cf8872481210b466aa400f608d76778c534bf7647ae2e8ddac"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0788.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0788.txt",
+      "sha256": "73219d355b250c52da59ac5aa2d99f06d955d38e23e20a5d3ce5c1ea7d5d9860"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0553.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0553.txt",
+      "sha256": "9d33aea75c383e0cbe7cfadebc83b443ff82a8e7954709ff086162bc9035df1a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0949.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0949.txt",
+      "sha256": "03a33eb285fda2ce947a35c5ecea38529126024c446d7b82b163d12d6052c933"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0384.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0384.txt",
+      "sha256": "564a40619464acf6b98b35ea840543a8ddfb2058d780900ffea90eb25036c098"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0536.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0536.txt",
+      "sha256": "5de08bf3aa289fba0f0e21bde7452a864f23055a71c9924cc99431f89ebd8e6a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_1250.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_1250.txt",
+      "sha256": "54d9e7e16d194db19949c6d0c283612ec3b616d3a44e1aaf0b5fb9b2bd22d057"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0585.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0585.txt",
+      "sha256": "4f7b3bb551e396b4a964e150456387d3df3b5aa8a3e12d0d92c22fcb4f2eb434"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/unhealthy_0278.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/unhealthy_0278.txt",
+      "sha256": "42b1940663497fc6e0db69a6eba1a416de36e995bd22187a6b2eb7ff16f26ddc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0830.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0830.txt",
+      "sha256": "c2694bc6df14eda34bd76be21c6b756f8fc41e801df5b7aeb4e8811d378ca489"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/evaluation/paper_test_diagnostics/labels/healthy_0954.txt",
+      "destination": "results/final_experiment/evaluation/paper_test_diagnostics/labels/healthy_0954.txt",
+      "sha256": "d4f5ebd8f213c8f7edf8a55655cdf58499df94ab3735a5e039c5b0387aaaaeb3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/04_qualitative/ground_truth_test_examples.png",
+      "destination": "paper_figures/04_qualitative/ground_truth_test_examples.png",
+      "sha256": "3dd711759176f932227324be396dd643a4093a207043c14d8d5547e921a78f57"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/confusion_matrix_normalized.png",
+      "destination": "paper_figures/05_ultralytics_outputs/confusion_matrix_normalized.png",
+      "sha256": "269ce4152fab2faf9a218f647ea485b14f0f8ca6ed46de916bad21cc37a9d802"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/BoxF1_curve.png",
+      "destination": "paper_figures/05_ultralytics_outputs/BoxF1_curve.png",
+      "sha256": "476fba4b81aa34bb67eac840aaca268ff0f5f271fb4beafd8374a28543719acc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/val_batch2_labels.jpg",
+      "destination": "paper_figures/05_ultralytics_outputs/val_batch2_labels.jpg",
+      "sha256": "3cb96c5446c8cc79bc57bec45d789fc6e34e6c2c101f87e10a3b4b3e197bb124"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/confusion_matrix.png",
+      "destination": "paper_figures/05_ultralytics_outputs/confusion_matrix.png",
+      "sha256": "ea6422bc5e4290997ea9f5530eadfec39fe3b168690b645081f72d9668c3e0fc"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/val_batch0_labels.jpg",
+      "destination": "paper_figures/05_ultralytics_outputs/val_batch0_labels.jpg",
+      "sha256": "c4e2510005eb82df6a1d4697e3cbc7df87ad89cac522386bd8a3aed772e2aeda"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/BoxP_curve.png",
+      "destination": "paper_figures/05_ultralytics_outputs/BoxP_curve.png",
+      "sha256": "ea97e6687a02e5c3be0d56a5e6b2cadc616318657470a3da5fdd89a2bfcbe340"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/val_batch0_pred.jpg",
+      "destination": "paper_figures/05_ultralytics_outputs/val_batch0_pred.jpg",
+      "sha256": "a79da34c66cb90e1ca302476f9820b9be7cd8ee8a8bf28fdb8b17d58230da458"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/val_batch1_labels.jpg",
+      "destination": "paper_figures/05_ultralytics_outputs/val_batch1_labels.jpg",
+      "sha256": "fa720a8b3fa7a35d8f8c2ea6edca6d6c824b31b3fe9b0fa64a5da40c4f4f969b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/BoxPR_curve.png",
+      "destination": "paper_figures/05_ultralytics_outputs/BoxPR_curve.png",
+      "sha256": "b3f5504eaf872b21e86acb38f60c0b280507af59170cf88f0f64b4b1cc675069"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/BoxR_curve.png",
+      "destination": "paper_figures/05_ultralytics_outputs/BoxR_curve.png",
+      "sha256": "256061d87c5653000e6c98bbe417e5ecc40fa5a54cd388ba89cf5c9f7dd89861"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/val_batch2_pred.jpg",
+      "destination": "paper_figures/05_ultralytics_outputs/val_batch2_pred.jpg",
+      "sha256": "72acbcf1970a6cfe2e45d5c21d649ebc2e87630e1973a89c84d54ed3726d1c21"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/05_ultralytics_outputs/val_batch1_pred.jpg",
+      "destination": "paper_figures/05_ultralytics_outputs/val_batch1_pred.jpg",
+      "sha256": "9a68a75e94d31d21e6e9bbdd3c441180db898fd2eea8d3c088c9e39df1496acd"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/02_training/training_dfl_loss.png",
+      "destination": "paper_figures/02_training/training_dfl_loss.png",
+      "sha256": "4b9412f1b10a3282a5bee2e8df1f778e51126ac4a82b68f04d5d741600fa06e0"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/02_training/training_classification_loss.pdf",
+      "destination": "paper_figures/02_training/training_classification_loss.pdf",
+      "sha256": "3383decb1d07464dea49ebe53fdc1bed6df460d65dc4eba194e976934bb7ea93"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/02_training/training_box_loss.png",
+      "destination": "paper_figures/02_training/training_box_loss.png",
+      "sha256": "b271b2eca368eeb248703a181b3b195907e3b104734c4179f7ca82b9f4ef190f"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/02_training/training_classification_loss.png",
+      "destination": "paper_figures/02_training/training_classification_loss.png",
+      "sha256": "703d7ab2c758f1a3d445c4be4111f1f14caf5838fcf2ddfafa3cb1868d4979d5"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/02_training/training_box_loss.pdf",
+      "destination": "paper_figures/02_training/training_box_loss.pdf",
+      "sha256": "d4b629a73de625a8c2175fe2f347f9a66663eff63d88b93bd92acbd93dbb5ff4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/02_training/all_training_losses.pdf",
+      "destination": "paper_figures/02_training/all_training_losses.pdf",
+      "sha256": "e369c18ae703b199bd1e0d2d9552c99f6a6b7f8667f615e7363d7c267e3a0844"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/02_training/all_training_losses.png",
+      "destination": "paper_figures/02_training/all_training_losses.png",
+      "sha256": "ba64bae1925207cd515877f8c0ba9ace8386396dd1fd3f5d48974d6099f3c588"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/02_training/training_dfl_loss.pdf",
+      "destination": "paper_figures/02_training/training_dfl_loss.pdf",
+      "sha256": "3360f544612a0607deb74642bb8165a5c304eb5594e4329e4a23055d9925659e"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/bbox_center_heatmap.png",
+      "destination": "paper_figures/01_dataset/bbox_center_heatmap.png",
+      "sha256": "bd5931f4fcfc9e09bdd571e8f4f9c51c9076d6edf3a4ca39a29a5c7badfc4c59"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/overall_class_distribution.pdf",
+      "destination": "paper_figures/01_dataset/overall_class_distribution.pdf",
+      "sha256": "8bf77dfd5bc815da903c775d41251915fe4f830962f0850275831c1592274405"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/bounding_box_statistics.csv",
+      "destination": "paper_figures/01_dataset/bounding_box_statistics.csv",
+      "sha256": "5249dba28e0dc65b9e03679fba3fa010c99b85fc06ae063606ecd1fc0cc12961"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/dataset_split_distribution.png",
+      "destination": "paper_figures/01_dataset/dataset_split_distribution.png",
+      "sha256": "053ae0597f80e0afd444929c71de503093811f92a03f78015783644f635dd1b3"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/class_instances_by_split.pdf",
+      "destination": "paper_figures/01_dataset/class_instances_by_split.pdf",
+      "sha256": "694770ae45d743c614f09054df8f4bfc24d9307f8a87d09db9226d2d2af79b49"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/bounding_box_area_distribution.png",
+      "destination": "paper_figures/01_dataset/bounding_box_area_distribution.png",
+      "sha256": "1f23899d599ece7ec0ca0f5d65108add48588c7a52571aef76f77928aea27d88"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/objects_per_image_distribution.png",
+      "destination": "paper_figures/01_dataset/objects_per_image_distribution.png",
+      "sha256": "0019eee0377b701f2a0103c4e2abad13b51a866baeed8f0bb32597d6bab9b692"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/image_level_statistics.csv",
+      "destination": "paper_figures/01_dataset/image_level_statistics.csv",
+      "sha256": "3ba06a11a915433352dfcec5dca6f8d298a4b8631f5c582abc1a01ce656b8bac"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/class_instances_by_split.png",
+      "destination": "paper_figures/01_dataset/class_instances_by_split.png",
+      "sha256": "01e8fc1b2e5dffe3df96b96605f8ff2e9f3d9c86bca5d264bc606c3b9ae9b4da"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/dataset_split_distribution.pdf",
+      "destination": "paper_figures/01_dataset/dataset_split_distribution.pdf",
+      "sha256": "69e13f6ff187dcbba5ee1bfd2b47697dab8d91930aec8b8e6a60807c2aa032bb"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/bbox_width_vs_height.png",
+      "destination": "paper_figures/01_dataset/bbox_width_vs_height.png",
+      "sha256": "dac2cd2e51f6f2637bd6bdca7c6ed72fe2040f9d0849bddc972765e906016892"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/bounding_box_aspect_ratio.png",
+      "destination": "paper_figures/01_dataset/bounding_box_aspect_ratio.png",
+      "sha256": "29bfd25e17e8a353b15caee976f6ad323e5c063ef163a1652dd1f4f2468c9eef"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/overall_class_distribution.png",
+      "destination": "paper_figures/01_dataset/overall_class_distribution.png",
+      "sha256": "827fcde4da5fc5e7e15d5b523576883848d0d0491cc0374425b554a5f3c2a1b7"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/01_dataset/image_class_composition.png",
+      "destination": "paper_figures/01_dataset/image_class_composition.png",
+      "sha256": "135812e3888245de75316bc6d1ae249f42fe88d9a5093ae83f77c70fc92a49bb"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/overall_test_metrics.csv",
+      "destination": "paper_figures/03_test_metrics/overall_test_metrics.csv",
+      "sha256": "47d416989c874b1034c762dcbf9cbd085970f06273147b655fcde6279501fea4"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/confusion_matrix_normalized.csv",
+      "destination": "paper_figures/03_test_metrics/confusion_matrix_normalized.csv",
+      "sha256": "d20f5be762c5a5f555e898e82366ce8aafc575e5ee309734586d512197ce8931"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/classwise_test_performance.pdf",
+      "destination": "paper_figures/03_test_metrics/classwise_test_performance.pdf",
+      "sha256": "b9f009a50c5e78e64e3e228f45acf997aaebc4b9633911ebd3e9816e6231802d"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/classwise_test_performance.png",
+      "destination": "paper_figures/03_test_metrics/classwise_test_performance.png",
+      "sha256": "839b90294407bafde562cc2c7559810e94992f1d901be92d5b7933d961974550"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/prediction_confidences.csv",
+      "destination": "paper_figures/03_test_metrics/prediction_confidences.csv",
+      "sha256": "7aeca84d324a021dd55dc0e1c58d7ff471d626b4a2f0e980cfaf922c52c39c53"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/classwise_test_metrics.csv",
+      "destination": "paper_figures/03_test_metrics/classwise_test_metrics.csv",
+      "sha256": "dfa72c56e6e1661036a311dcfe00f64d32dcb96fadc59b431311b6f491475c6c"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/train_test_performance_comparison.png",
+      "destination": "paper_figures/03_test_metrics/train_test_performance_comparison.png",
+      "sha256": "214f2952ce6ddddc4add58ec8c1e81cbe1b870077d25e5100f08103a8c51d0a2"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/confusion_matrix_raw.csv",
+      "destination": "paper_figures/03_test_metrics/confusion_matrix_raw.csv",
+      "sha256": "6e1094dca59cb2fd44af758a68d95d72bc21124615f5e03ccf26cb77318fbd9b"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/train_test_performance_comparison.pdf",
+      "destination": "paper_figures/03_test_metrics/train_test_performance_comparison.pdf",
+      "sha256": "836b27da173c23dcce07f20a8a15d946b01596de06c7163562a3c7af45ac7c0a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/model_efficiency.csv",
+      "destination": "paper_figures/03_test_metrics/model_efficiency.csv",
+      "sha256": "ea7d25b86e3ea01a6c3398c56800226ec0a13a7fe602d24b57be7db5863f0856"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/model_processing_time.png",
+      "destination": "paper_figures/03_test_metrics/model_processing_time.png",
+      "sha256": "57d4c060f3342ade7aefeb84768f971ea62413f2ae424074d0198c49ca243c8a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/03_test_metrics/prediction_confidence_distribution.png",
+      "destination": "paper_figures/03_test_metrics/prediction_confidence_distribution.png",
+      "sha256": "a208156116b4cf012345e18d29e97a9cf6ec8f306714b5dbc3bbd07215f0f3a1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/04_qualitative/prediction_samples/image0.jpg",
+      "destination": "paper_figures/04_qualitative/prediction_samples/image0.jpg",
+      "sha256": "807f0ba443d825c05e178c23de68bfc5292245718654cca00a8df2e7a21ff569"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/04_qualitative/prediction_samples/image4.jpg",
+      "destination": "paper_figures/04_qualitative/prediction_samples/image4.jpg",
+      "sha256": "4fd12b1772b165067a28cae6ee08e8f7ec280f06b37391e76a80f64592b5cbc1"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/04_qualitative/prediction_samples/image5.jpg",
+      "destination": "paper_figures/04_qualitative/prediction_samples/image5.jpg",
+      "sha256": "acc75927045e153947c7ef3ace62a864abe247730c8fde977372d331b7f54b8a"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/04_qualitative/prediction_samples/image1.jpg",
+      "destination": "paper_figures/04_qualitative/prediction_samples/image1.jpg",
+      "sha256": "9b723432ab0d39e7f436d9355962682f015673d969cd72deb20e86d28b7c4154"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/04_qualitative/prediction_samples/image3.jpg",
+      "destination": "paper_figures/04_qualitative/prediction_samples/image3.jpg",
+      "sha256": "39904cd991c56bf7c1a555d3de18e7241f5680979d91670d07b726df392ba615"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/complete_paper_graphs/04_qualitative/prediction_samples/image2.jpg",
+      "destination": "paper_figures/04_qualitative/prediction_samples/image2.jpg",
+      "sha256": "c756201fba1a993cb00ee20cd7bdfcb57c1ed02cb77bf262d8bcfb98b65bec76"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/train_test_metrics_80_20_noval.csv",
+      "destination": "results/final_experiment/train_test_metrics_80_20_noval.csv",
+      "sha256": "e64609061b2e34ed2c45b0975f4ba426f1f3b7017586064c7d026f6f183f3530"
+    },
+    {
+      "source": "Bitol_80_20_NoVal_Research/paper_artifacts/dataset_audit_80_20.csv",
+      "destination": "results/final_experiment/dataset_audit_80_20.csv",
+      "sha256": "8c040971f6fe64ad88a690cd5785e48ea3afdd0a5033cc8b0cad91a387d356f6"
+    }
+  ]
+}

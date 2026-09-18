@@ -1,0 +1,2 @@
+Parameters,Model size (MB),Preprocess (ms/image),Inference (ms/image),Postprocess (ms/image),Approx. FPS
+3006038,5.960306167602539,1.5541349103821265,6.5357443360506835,1.6045408940929995,153.00476098553517

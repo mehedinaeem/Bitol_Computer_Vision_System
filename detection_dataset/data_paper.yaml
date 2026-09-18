@@ -1,7 +1,7 @@
 # Paths are resolved relative to this YAML by the publication scripts.
 path: .
 train: images/train
-# Final experiment validation membership is not available. Do not use test here.
+# Imported final experiment used val: false. Do not use test for new training validation.
 val: null
 test: images/test
 nc: 2
