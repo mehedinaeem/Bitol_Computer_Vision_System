@@ -43,7 +43,6 @@ Thumbs.db
 /annotation_backup/
 
 # Local historical evidence and generated artifacts
-/archive/development/
 .venv-*/
 /runs/
 /resized_images/

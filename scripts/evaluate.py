@@ -12,7 +12,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--model', type=Path, required=True,
                         help='Verified final checkpoint; not bundled with this release')
-    parser.add_argument('--data', type=Path, default=ROOT / 'configs/data.yaml')
+    parser.add_argument('--data', type=Path, default=ROOT / 'detection_dataset/data_paper.yaml')
     parser.add_argument('--imgsz', type=int, default=640)
     parser.add_argument('--batch', type=int, default=4)
     parser.add_argument('--device', default=None)

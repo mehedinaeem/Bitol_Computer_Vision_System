@@ -10,7 +10,7 @@ from common import ROOT, check_training_splits, load_data, record_environment
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--data', type=Path, default=ROOT / 'configs/data.yaml')
+    parser.add_argument('--data', type=Path, default=ROOT / 'detection_dataset/data_paper.yaml')
     parser.add_argument('--model', default='yolov8n.pt')
     parser.add_argument('--epochs', type=int, default=50)
     parser.add_argument('--imgsz', type=int, default=640)

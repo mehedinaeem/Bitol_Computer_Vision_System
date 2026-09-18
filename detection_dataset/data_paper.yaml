@@ -1,5 +1,5 @@
 # Paths are resolved relative to this YAML by the publication scripts.
-path: ../detection_dataset
+path: .
 train: images/train
 # Final experiment validation membership is not available. Do not use test here.
 val: null

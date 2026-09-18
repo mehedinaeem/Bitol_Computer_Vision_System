@@ -14,7 +14,7 @@ The rounded paper metrics remain exactly: precision 81.36%, recall 74.30%, F1 77
 
 ## Validation protocol
 
-The original dataset YAML is preserved byte-for-byte and maps validation and testing to `images/test`. The publication YAML resolves paths relative to its own location and sets validation to null. It is not an executable reconstruction of an unknown validation protocol.
+The original dataset YAML is preserved byte-for-byte and maps validation and testing to `images/test`. The publication YAML (`detection_dataset/data_paper.yaml`) resolves paths relative to its own location and sets validation to null. It is not an executable reconstruction of an unknown validation protocol.
 
 `train.py` intentionally refuses to train without an explicit validation partition. It also rejects exact-byte overlap between train/validation/test. These are workflow checks, not changes to the stored dataset or a newly proposed split. Supplying a future independent split would define a different experiment unless original final membership can be recovered. There is no generated 80/10/10 or other invented partition.
 
@@ -28,7 +28,7 @@ The old conflict notes singled out `healthy_0717.txt` for semantic review. No ac
 
 ## Environment and hardware
 
-The final experiment's package versions and Python/CUDA/PyTorch environment are unavailable. `requirements.txt` therefore lists dependencies without guessed historical pins. `requirements-observed.txt` pins versions actually found in the local cleanup environment; these are not claimed as final-experiment versions or a portable GPU lock. `environment_observed.json` records that distinction and observed Python/PyTorch versions.
+The final experiment's package versions and Python/CUDA/PyTorch environment are unavailable. `requirements.txt` therefore lists dependencies without guessed historical pins. `docs/requirements-observed.txt` pins versions actually found in the local cleanup environment; these are not claimed as final-experiment versions or a portable GPU lock. `environment_observed.json` records that distinction and observed Python/PyTorch versions.
 
 Author-reported efficiency is 6.54 ms/image on NVIDIA Tesla T4, approximately 3.01 million parameters, and 5.96 MB model size. Timing boundaries, warm-up, precision mode, batch size for timing, and checkpoint identity require confirmation. No local speed benchmark was run.
 
