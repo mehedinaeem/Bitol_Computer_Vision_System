@@ -1,0 +1,2 @@
+split,precision,recall,f1,map50,map50_95,source
+test,0.8136,0.7430,0.7767,0.8704,0.5933,author_reported_not_locally_reproduced

@@ -1,0 +1,410 @@
+split,category,path,line,details
+train,invalid_coordinate,labels/train/healthy_0019.txt,2,bottom edge > 1: 0 0.558594 0.641602 0.259766 0.716797
+train,invalid_coordinate,labels/train/healthy_0019.txt,4,right edge > 1: 0 0.863770 0.302246 0.272461 0.473633
+train,invalid_coordinate,labels/train/healthy_0021.txt,5,right edge > 1: 0 0.813477 0.524902 0.373047 0.522461
+train,invalid_coordinate,labels/train/healthy_0023.txt,2,bottom edge > 1: 0 0.500000 0.660645 0.251953 0.678711
+train,invalid_coordinate,labels/train/healthy_0047.txt,5,right edge > 1: 0 0.794434 0.376465 0.411133 0.602539
+train,invalid_coordinate,labels/train/healthy_0131.txt,4,right edge > 1: 0 0.860352 0.495605 0.279297 0.493164
+train,invalid_coordinate,labels/train/healthy_0134.txt,1,bottom edge > 1: 0 0.533203 0.624512 0.332031 0.750977
+train,invalid_coordinate,labels/train/healthy_0140.txt,3,right edge > 1: 0 0.815430 0.442383 0.369141 0.472656
+train,invalid_coordinate,labels/train/healthy_0145.txt,2,bottom edge > 1: 0 0.210449 0.518555 0.319336 0.962891
+train,invalid_coordinate,labels/train/healthy_0164.txt,2,bottom edge > 1: 0 0.415527 0.577637 0.239258 0.844727
+train,invalid_coordinate,labels/train/healthy_0164.txt,4,right edge > 1: 0 0.787598 0.547363 0.424805 0.739258
+train,invalid_coordinate,labels/train/healthy_0187.txt,2,bottom edge > 1: 0 0.583008 0.562012 0.265625 0.875977
+train,invalid_coordinate,labels/train/healthy_0217.txt,4,bottom edge > 1: 0 0.292969 0.638184 0.486328 0.723633
+train,invalid_coordinate,labels/train/healthy_0224.txt,2,right edge > 1: 0 0.594727 0.829590 0.810547 0.340820
+train,invalid_coordinate,labels/train/healthy_0228.txt,2,bottom edge > 1: 0 0.534668 0.678223 0.286133 0.643555
+train,invalid_coordinate,labels/train/healthy_0236.txt,3,bottom edge > 1: 0 0.139648 0.653809 0.271484 0.692383
+train,invalid_coordinate,labels/train/healthy_0246.txt,1,bottom edge > 1: 0 0.333496 0.532227 0.432617 0.935547
+train,invalid_coordinate,labels/train/healthy_0246.txt,2,bottom edge > 1: 0 0.734375 0.584473 0.498047 0.831055
+train,invalid_coordinate,labels/train/healthy_0249.txt,1,bottom edge > 1: 0 0.455078 0.537598 0.546875 0.924805
+train,invalid_coordinate,labels/train/healthy_0257.txt,1,right edge > 1: 0 0.853516 0.623047 0.292969 0.644531
+train,invalid_coordinate,labels/train/healthy_0261.txt,1,bottom edge > 1: 0 0.560547 0.582520 0.212891 0.834961
+train,invalid_coordinate,labels/train/healthy_0261.txt,2,bottom edge > 1: 0 0.734863 0.581055 0.333008 0.837891
+train,invalid_coordinate,labels/train/healthy_0261.txt,3,bottom edge > 1: 0 0.391113 0.587891 0.235352 0.824219
+train,invalid_coordinate,labels/train/healthy_0269.txt,2,bottom edge > 1: 0 0.817383 0.622559 0.355469 0.754883
+train,invalid_coordinate,labels/train/healthy_0270.txt,2,right edge > 1: 0 0.770020 0.512207 0.459961 0.747070
+train,invalid_coordinate,labels/train/healthy_0273.txt,3,right edge > 1: 0 0.794434 0.418457 0.411133 0.741211
+train,invalid_coordinate,labels/train/healthy_0274.txt,1,right edge > 1: 0 0.685059 0.460938 0.629883 0.882812
+train,invalid_coordinate,labels/train/healthy_0275.txt,1,right edge > 1: 0 0.700684 0.453125 0.598633 0.798828
+train,invalid_coordinate,labels/train/healthy_0279.txt,2,right edge > 1: 0 0.804688 0.429199 0.390625 0.805664
+train,invalid_coordinate,labels/train/healthy_0287.txt,1,bottom edge > 1: 1 0.454102 0.640137 0.300781 0.719727
+train,invalid_coordinate,labels/train/healthy_0295.txt,2,right edge > 1: 0 0.735352 0.484375 0.529297 0.794922
+train,invalid_coordinate,labels/train/healthy_0319.txt,2,right edge > 1: 0 0.502930 0.179688 0.994141 0.339844
+train,invalid_coordinate,labels/train/healthy_0323.txt,1,right edge > 1: 0 0.532227 0.512695 0.935547 0.591797
+train,invalid_coordinate,labels/train/healthy_0339.txt,2,bottom edge > 1: 0 0.678223 0.530762 0.432617 0.938477
+train,invalid_coordinate,labels/train/healthy_0340.txt,2,bottom edge > 1: 0 0.669434 0.528809 0.485352 0.942383
+train,invalid_coordinate,labels/train/healthy_0345.txt,2,right edge > 1: 0 0.818848 0.518066 0.362305 0.928711
+train,invalid_coordinate,labels/train/healthy_0351.txt,2,bottom edge > 1: 0 0.727539 0.562012 0.464844 0.875977
+train,invalid_coordinate,labels/train/healthy_0449.txt,1,bottom edge > 1: 0 0.558105 0.856934 0.682617 0.286133
+train,invalid_coordinate,labels/train/healthy_0723.txt,1,bottom edge > 1: 0 0.491699 0.556641 0.436523 0.886719
+train,invalid_coordinate,labels/train/healthy_0735.txt,2,right edge > 1: 0 0.844727 0.486816 0.310547 0.541992
+train,invalid_coordinate,labels/train/healthy_0754.txt,1,bottom edge > 1: 0 0.476562 0.629395 0.292969 0.741211
+train,invalid_coordinate,labels/train/healthy_0758.txt,2,bottom edge > 1: 1 0.177734 0.691895 0.238281 0.616211
+train,invalid_coordinate,labels/train/healthy_0786.txt,3,bottom edge > 1: 0 0.381348 0.843262 0.708008 0.313477
+train,invalid_coordinate,labels/train/healthy_0824.txt,2,right edge > 1: 0 0.659180 0.786133 0.681641 0.263672
+train,invalid_coordinate,labels/train/healthy_0857.txt,2,right edge > 1: 0 0.657227 0.747070 0.685547 0.333984
+train,invalid_coordinate,labels/train/healthy_0872.txt,4,bottom edge > 1: 0 0.650879 0.801270 0.442383 0.397461
+train,invalid_coordinate,labels/train/healthy_0973.txt,1,right edge > 1: 0 0.585938 0.508301 0.828125 0.481445
+train,invalid_coordinate,labels/train/healthy_0987.txt,1,right edge > 1: 0 0.594727 0.251465 0.810547 0.239258
+train,invalid_coordinate,labels/train/healthy_0989.txt,4,right edge > 1: 0 0.900391 0.493652 0.199219 0.903320
+train,invalid_coordinate,labels/train/healthy_1008.txt,1,bottom edge > 1: 0 0.502930 0.594727 0.826172 0.810547
+train,invalid_coordinate,labels/train/healthy_1011.txt,1,right edge > 1: 0 0.596680 0.666504 0.806641 0.459961
+train,invalid_coordinate,labels/train/healthy_1016.txt,1,bottom edge > 1: 0 0.359375 0.546387 0.580078 0.907227
+train,invalid_coordinate,labels/train/healthy_1020.txt,1,right edge > 1: 0 0.813477 0.505859 0.373047 0.929688
+train,invalid_coordinate,labels/train/healthy_1065.txt,1,bottom edge > 1: 0 0.288086 0.562012 0.474609 0.875977
+train,invalid_coordinate,labels/train/healthy_1102.txt,1,right edge > 1: 0 0.827637 0.476074 0.344727 0.881836
+train,invalid_coordinate,labels/train/healthy_1104.txt,5,right edge > 1: 0 0.900391 0.433105 0.199219 0.815430
+train,invalid_coordinate,labels/train/healthy_1116.txt,2,right edge > 1: 0 0.554688 0.680664 0.890625 0.474609
+train,invalid_coordinate,labels/train/healthy_1120.txt,1,right edge > 1: 0 0.572266 0.265625 0.855469 0.457031
+train,invalid_coordinate,labels/train/healthy_1120.txt,2,right edge > 1: 0 0.506348 0.692871 0.987305 0.502930
+train,invalid_coordinate,labels/train/healthy_1143.txt,2,right edge > 1: 0 0.582520 0.805176 0.834961 0.344727
+train,invalid_coordinate,labels/train/healthy_1237.txt,1,bottom edge > 1: 0 0.446289 0.525391 0.515625 0.949219
+train,invalid_coordinate,labels/train/healthy_1245.txt,1,right edge > 1: 0 0.594727 0.458008 0.810547 0.816406
+train,invalid_coordinate,labels/train/healthy_1294.txt,2,bottom edge > 1: 0 0.536621 0.771973 0.836914 0.456055
+train,invalid_coordinate,labels/train/healthy_1306.txt,2,right edge > 1: 0 0.787598 0.369141 0.424805 0.718750
+train,invalid_coordinate,labels/train/healthy_1310.txt,2,bottom edge > 1: 1 0.476562 0.850098 0.714844 0.299805
+train,invalid_coordinate,labels/train/healthy_1359.txt,1,right edge > 1: 0 0.687012 0.514648 0.625977 0.617188
+train,invalid_coordinate,labels/train/healthy_1403.txt,2,bottom edge > 1: 0 0.706543 0.541016 0.235352 0.917969
+train,invalid_coordinate,labels/train/unhealthy_0005.txt,2,bottom edge > 1: 1 0.590332 0.582520 0.434570 0.834961
+train,invalid_coordinate,labels/train/unhealthy_0007.txt,2,bottom edge > 1: 1 0.567383 0.603516 0.486328 0.792969
+train,invalid_coordinate,labels/train/unhealthy_0024.txt,1,bottom edge > 1: 1 0.454102 0.532227 0.416016 0.935547
+train,invalid_coordinate,labels/train/unhealthy_0040.txt,3,right edge > 1: 1 0.787598 0.593750 0.424805 0.519531
+train,invalid_coordinate,labels/train/unhealthy_0067.txt,2,bottom edge > 1: 1 0.476562 0.801270 0.900391 0.397461
+train,invalid_coordinate,labels/train/unhealthy_0073.txt,1,right edge > 1: 1 0.513184 0.593750 0.973633 0.453125
+train,invalid_coordinate,labels/train/unhealthy_0119.txt,1,bottom edge > 1: 1 0.500488 0.513184 0.434570 0.973633
+train,invalid_coordinate,labels/train/unhealthy_0131.txt,2,bottom edge > 1: 1 0.499512 0.860352 0.877930 0.279297
+train,invalid_coordinate,labels/train/unhealthy_0138.txt,1,bottom edge > 1: 1 0.394043 0.515137 0.504883 0.969727
+train,invalid_coordinate,labels/train/unhealthy_0151.txt,1,bottom edge > 1: 1 0.411621 0.572266 0.366211 0.855469
+train,invalid_coordinate,labels/train/unhealthy_0180.txt,1,bottom edge > 1: 1 0.520508 0.523438 0.576172 0.953125
+train,invalid_coordinate,labels/train/unhealthy_0190.txt,1,bottom edge > 1: 1 0.392578 0.551270 0.677734 0.897461
+train,invalid_coordinate,labels/train/unhealthy_0196.txt,1,bottom edge > 1: 1 0.457031 0.568848 0.390625 0.862305
+train,invalid_coordinate,labels/train/unhealthy_0198.txt,1,bottom edge > 1: 1 0.458496 0.547852 0.512695 0.904297
+train,invalid_coordinate,labels/train/unhealthy_0221.txt,1,bottom edge > 1: 1 0.554688 0.551270 0.568359 0.897461
+train,invalid_coordinate,labels/train/unhealthy_0248.txt,1,bottom edge > 1: 1 0.596191 0.565430 0.438477 0.869141
+train,invalid_coordinate,labels/train/unhealthy_0363.txt,2,right edge > 1: 1 0.528809 0.427246 0.942383 0.348633
+train,invalid_coordinate,labels/train/unhealthy_0364.txt,1,right edge > 1: 1 0.513184 0.363281 0.973633 0.548828
+train,invalid_coordinate,labels/train/unhealthy_0367.txt,2,bottom edge > 1: 1 0.738281 0.528809 0.386719 0.942383
+train,invalid_coordinate,labels/train/unhealthy_0368.txt,3,right edge > 1: 1 0.860352 0.500000 0.279297 0.763672
+train,invalid_coordinate,labels/train/unhealthy_0370.txt,2,bottom edge > 1: 1 0.751465 0.582520 0.465820 0.834961
+train,invalid_coordinate,labels/train/unhealthy_0380.txt,1,bottom edge > 1: 1 0.376953 0.690430 0.751953 0.619141
+train,invalid_coordinate,labels/train/unhealthy_0384.txt,3,right edge > 1: 1 0.791016 0.353027 0.417969 0.530273
+train,invalid_coordinate,labels/train/unhealthy_0390.txt,1,bottom edge > 1: 1 0.421875 0.541016 0.371094 0.917969
+train,invalid_coordinate,labels/train/unhealthy_0391.txt,3,right edge > 1: 1 0.848145 0.305176 0.303711 0.583008
+train,invalid_coordinate,labels/train/unhealthy_0408.txt,1,right edge > 1: 1 0.640137 0.504395 0.719727 0.426758
+train,invalid_coordinate,labels/train/unhealthy_0409.txt,1,right edge > 1: 1 0.509766 0.644043 0.980469 0.413086
+train,invalid_coordinate,labels/train/unhealthy_0410.txt,2,bottom edge > 1: 1 0.466797 0.806641 0.912109 0.386719
+train,invalid_coordinate,labels/train/unhealthy_0415.txt,2,bottom edge > 1: 1 0.693359 0.648438 0.228516 0.703125
+train,invalid_coordinate,labels/train/unhealthy_0729.txt,3,right edge > 1: 1 0.750977 0.517090 0.498047 0.860352
+train,invalid_coordinate,labels/train/unhealthy_0884.txt,3,right edge > 1: 1 0.780762 0.354492 0.438477 0.642578
+train,invalid_coordinate,labels/train/unhealthy_0891.txt,2,bottom edge > 1: 1 0.532715 0.860352 0.772461 0.279297
+train,invalid_coordinate,labels/train/unhealthy_0911.txt,2,right edge > 1: 1 0.835938 0.477051 0.328125 0.813477
+train,invalid_coordinate,labels/train/unhealthy_0969.txt,1,right edge > 1: 1 0.813477 0.488281 0.373047 0.730469
+train,invalid_coordinate,labels/train/unhealthy_0975.txt,2,right edge > 1: 1 0.535645 0.840820 0.928711 0.310547
+train,invalid_coordinate,labels/train/unhealthy_1026.txt,5,right edge > 1: 1 0.806641 0.640625 0.386719 0.175781
+train,invalid_coordinate,labels/train/unhealthy_1027.txt,2,right edge > 1: 1 0.733887 0.572754 0.532227 0.680664
+train,invalid_coordinate,labels/train/unhealthy_1081.txt,2,bottom edge > 1: 1 0.332031 0.638184 0.302734 0.723633
+train,invalid_coordinate,labels/train/unhealthy_1096.txt,1,bottom edge > 1: 1 0.390625 0.650391 0.353516 0.699219
+train,invalid_coordinate,labels/train/unhealthy_1110.txt,1,right edge > 1: 1 0.532227 0.507324 0.935547 0.397461
+train,invalid_coordinate,labels/train/unhealthy_1229.txt,2,bottom edge > 1: 1 0.365723 0.521973 0.444336 0.956055
+train,invalid_coordinate,labels/train/unhealthy_1408.txt,1,right edge > 1: 1 0.534180 0.529297 0.931641 0.380859
+test,invalid_coordinate,labels/test/healthy_0108.txt,2,right edge > 1: 0 0.709473 0.485840 0.581055 0.907227
+test,invalid_coordinate,labels/test/healthy_0730.txt,4,bottom edge > 1: 0 0.446289 0.803223 0.412109 0.393555
+test,invalid_coordinate,labels/test/healthy_0874.txt,3,bottom edge > 1: 0 0.433105 0.813477 0.516602 0.373047
+test,invalid_coordinate,labels/test/healthy_0983.txt,2,right edge > 1: 0 0.666016 0.488281 0.667969 0.185547
+test,invalid_coordinate,labels/test/healthy_1221.txt,2,right edge > 1: 1 0.898438 0.415527 0.203125 0.823242
+test,invalid_coordinate,labels/test/healthy_1278.txt,3,right edge > 1: 0 0.875977 0.618652 0.248047 0.577148
+test,invalid_coordinate,labels/test/healthy_1326.txt,1,bottom edge > 1: 0 0.321777 0.513184 0.608398 0.973633
+test,invalid_coordinate,labels/test/unhealthy_0263.txt,3,right edge > 1: 1 0.801270 0.559570 0.397461 0.533203
+test,invalid_coordinate,labels/test/unhealthy_0506.txt,4,right edge > 1: 1 0.794434 0.811523 0.411133 0.285156
+test,invalid_coordinate,labels/test/unhealthy_0769.txt,1,right edge > 1: 1 0.587891 0.427246 0.824219 0.463867
+,exact_duplicate_image,images/train/unhealthy_1428.jpg,,sha256=00bec303bec40a99d695aa1d867c2dcf8d567e383d143e7bd5d907f5f6d0a6d4; files=images/train/unhealthy_1428.jpg; images/test/unhealthy_0411.jpg
+,train_test_overlap,images/train/unhealthy_1428.jpg,,sha256=00bec303bec40a99d695aa1d867c2dcf8d567e383d143e7bd5d907f5f6d0a6d4; files=images/train/unhealthy_1428.jpg; images/test/unhealthy_0411.jpg
+,exact_duplicate_image,images/train/unhealthy_1430.jpg,,sha256=019cdf6702c432cd4fc3e8bad776856402e774a942669416da0e2506505ba42a; files=images/train/unhealthy_1430.jpg; images/test/unhealthy_1405.jpg
+,train_test_overlap,images/train/unhealthy_1430.jpg,,sha256=019cdf6702c432cd4fc3e8bad776856402e774a942669416da0e2506505ba42a; files=images/train/unhealthy_1430.jpg; images/test/unhealthy_1405.jpg
+,exact_duplicate_image,images/train/unhealthy_1115.jpg,,sha256=0235ba1faefd1c07f8b19b88b282f48cf552fadc2d2f5283578126d5667608e5; files=images/train/unhealthy_1115.jpg; images/test/unhealthy_1051.jpg
+,train_test_overlap,images/train/unhealthy_1115.jpg,,sha256=0235ba1faefd1c07f8b19b88b282f48cf552fadc2d2f5283578126d5667608e5; files=images/train/unhealthy_1115.jpg; images/test/unhealthy_1051.jpg
+,exact_duplicate_image,images/test/healthy_1040.jpg,,sha256=050bf17b8da010517df19ab389a2a0e9dcea2a3269d020d44181c28d11b2ef1e; files=images/test/healthy_1040.jpg; images/test/healthy_1041.jpg
+,exact_duplicate_image,images/train/healthy_0335.jpg,,sha256=062e9d5b17d7ad6b196d48cba0fba0fd1c758760e05ad41604b74b52eda64dc6; files=images/train/healthy_0335.jpg; images/train/healthy_0336.jpg
+,exact_duplicate_image,images/train/healthy_1071.jpg,,sha256=082295546add0394536f9f847c3a2891d5b9a2563606e09ef6e7a63860ff38db; files=images/train/healthy_1071.jpg; images/train/healthy_1070.jpg
+,exact_duplicate_image,images/train/healthy_0317.jpg,,sha256=08e8c67f895ce733106951b74635bc71ab2c2f1f5d74186be9ac1418d3fc8dd9; files=images/train/healthy_0317.jpg; images/train/healthy_0318.jpg
+,exact_duplicate_image,images/train/unhealthy_0580.jpg,,sha256=0a5b90762cb24248795c723aed8c851e63dd76f5d2255034cb981ad2399b7ec7; files=images/train/unhealthy_0580.jpg; images/test/unhealthy_0579.jpg
+,train_test_overlap,images/train/unhealthy_0580.jpg,,sha256=0a5b90762cb24248795c723aed8c851e63dd76f5d2255034cb981ad2399b7ec7; files=images/train/unhealthy_0580.jpg; images/test/unhealthy_0579.jpg
+,exact_duplicate_image,images/train/healthy_1052.jpg,,sha256=0a89e2753096f02a9d91edac6ed08076cb246d3c87beefcb116c26a6d14618a0; files=images/train/healthy_1052.jpg; images/train/healthy_1053.jpg
+,exact_duplicate_image,images/train/healthy_0144.jpg,,sha256=0a962fc3c6792ee30d4f2f08b05fbdcff2a69631e764af9fee8da5625d998f82; files=images/train/healthy_0144.jpg; images/train/healthy_0143.jpg
+,exact_duplicate_image,images/train/healthy_0088.jpg,,sha256=0c02c4ab0457a45505fded3b79e191df3a6282458ea536cba3db2dbb8d6de708; files=images/train/healthy_0088.jpg; images/test/healthy_1458.jpg
+,train_test_overlap,images/train/healthy_0088.jpg,,sha256=0c02c4ab0457a45505fded3b79e191df3a6282458ea536cba3db2dbb8d6de708; files=images/train/healthy_0088.jpg; images/test/healthy_1458.jpg
+,exact_duplicate_image,images/train/healthy_0305.jpg,,sha256=0c58e97df380651d1f3edf0381e4e3cff712c33d1d3d6b647f1165002186715b; files=images/train/healthy_0305.jpg; images/train/healthy_0306.jpg
+,exact_duplicate_image,images/train/healthy_1148.jpg,,sha256=0d0393b6b0e79b248c70414f5f80993d968c9baf916ce9b7449c9a0deb538678; files=images/train/healthy_1148.jpg; images/test/healthy_1149.jpg
+,train_test_overlap,images/train/healthy_1148.jpg,,sha256=0d0393b6b0e79b248c70414f5f80993d968c9baf916ce9b7449c9a0deb538678; files=images/train/healthy_1148.jpg; images/test/healthy_1149.jpg
+,exact_duplicate_image,images/train/unhealthy_0106.jpg,,sha256=0f049b5df456a87f2dc3ca63d111c36d157c00bac52b2807b1fac3438c764055; files=images/train/unhealthy_0106.jpg; images/test/unhealthy_1433.jpg
+,train_test_overlap,images/train/unhealthy_0106.jpg,,sha256=0f049b5df456a87f2dc3ca63d111c36d157c00bac52b2807b1fac3438c764055; files=images/train/unhealthy_0106.jpg; images/test/unhealthy_1433.jpg
+,exact_duplicate_image,images/train/healthy_0275.jpg,,sha256=103f0f9518aae695aeda72d03c8d9d64ad848730fa7767640829031c7b5cb019; files=images/train/healthy_0275.jpg; images/train/healthy_0274.jpg
+,exact_duplicate_image,images/test/healthy_0354.jpg,,sha256=1112e776a1b8c41bcd4dff78307fc46e82a4a2c9825d0d61d15361dd50c05774; files=images/test/healthy_0354.jpg; images/test/healthy_0355.jpg
+,exact_duplicate_image,images/train/healthy_1259.jpg,,sha256=11ee3f4aebec5aa65e00d19011a39092f11db793991bc32087f183e9d43e444e; files=images/train/healthy_1259.jpg; images/test/healthy_1260.jpg
+,train_test_overlap,images/train/healthy_1259.jpg,,sha256=11ee3f4aebec5aa65e00d19011a39092f11db793991bc32087f183e9d43e444e; files=images/train/healthy_1259.jpg; images/test/healthy_1260.jpg
+,exact_duplicate_image,images/train/unhealthy_0595.jpg,,sha256=1363158647a68166e630dae67f9c8b11738068ce284130257265b98450421c93; files=images/train/unhealthy_0595.jpg; images/test/unhealthy_0594.jpg
+,train_test_overlap,images/train/unhealthy_0595.jpg,,sha256=1363158647a68166e630dae67f9c8b11738068ce284130257265b98450421c93; files=images/train/unhealthy_0595.jpg; images/test/unhealthy_0594.jpg
+,exact_duplicate_image,images/train/healthy_1179.jpg,,sha256=138db40ea4127127965309b83a34b1dfac2ed618302566da4903f5e50c4e7fc7; files=images/train/healthy_1179.jpg; images/test/healthy_1178.jpg
+,train_test_overlap,images/train/healthy_1179.jpg,,sha256=138db40ea4127127965309b83a34b1dfac2ed618302566da4903f5e50c4e7fc7; files=images/train/healthy_1179.jpg; images/test/healthy_1178.jpg
+,exact_duplicate_image,images/train/unhealthy_1121.jpg,,sha256=14f2a2fbc8be22222597d55e6ad06e07afae688a05f9135c626c8140a95b664e; files=images/train/unhealthy_1121.jpg; images/test/healthy_1119.jpg
+,train_test_overlap,images/train/unhealthy_1121.jpg,,sha256=14f2a2fbc8be22222597d55e6ad06e07afae688a05f9135c626c8140a95b664e; files=images/train/unhealthy_1121.jpg; images/test/healthy_1119.jpg
+,exact_duplicate_image,images/train/healthy_0291.jpg,,sha256=1a4555bc833b1fb94dbd89d55fb12bde8bf243fda0e175f2ed4a481282f42651; files=images/train/healthy_0291.jpg; images/train/healthy_0292.jpg
+,exact_duplicate_image,images/train/healthy_1081.jpg,,sha256=1d201db2812b17ae699bba189c0d1c262c8d82953be59fe9c39daeb447e5a18b; files=images/train/healthy_1081.jpg; images/test/healthy_1080.jpg
+,train_test_overlap,images/train/healthy_1081.jpg,,sha256=1d201db2812b17ae699bba189c0d1c262c8d82953be59fe9c39daeb447e5a18b; files=images/train/healthy_1081.jpg; images/test/healthy_1080.jpg
+,exact_duplicate_image,images/train/unhealthy_1116.jpg,,sha256=1de6e536c689c5e67955fa58be2a77977cfbe4d9006c6146fd752114ef3058b9; files=images/train/unhealthy_1116.jpg; images/train/unhealthy_1117.jpg
+,exact_duplicate_image,images/train/healthy_1280.jpg,,sha256=1e87a94f5580028e08ce913dee2fa03add8e3b1e6b2d508c8fe564597c7a630f; files=images/train/healthy_1280.jpg; images/train/healthy_1281.jpg
+,exact_duplicate_image,images/train/healthy_1448.jpg,,sha256=1ed8d536824b3b19e52e3db3f3d4f3503dcad853d5c396a2eda515119d9c863c; files=images/train/healthy_1448.jpg; images/test/healthy_0878.jpg
+,train_test_overlap,images/train/healthy_1448.jpg,,sha256=1ed8d536824b3b19e52e3db3f3d4f3503dcad853d5c396a2eda515119d9c863c; files=images/train/healthy_1448.jpg; images/test/healthy_0878.jpg
+,exact_duplicate_image,images/train/healthy_1108.jpg,,sha256=1f6438a29d8b6cfe4122622da5a5f6ac4cd45b7e15e6449df2fe132e923bef6e; files=images/train/healthy_1108.jpg; images/train/unhealthy_1118.jpg
+,exact_duplicate_image,images/train/healthy_1084.jpg,,sha256=1fe9d71e7ed3cdf4e9aaec3576bec41983587b53c76be3ca111c9e726edb85d5; files=images/train/healthy_1084.jpg; images/train/healthy_1085.jpg
+,exact_duplicate_image,images/train/healthy_1223.jpg,,sha256=204cc2bb53b5a1e0d9e6c8029e39b1d902c0157553a92a88ec78aeb1ae2c6d18; files=images/train/healthy_1223.jpg; images/train/healthy_1222.jpg
+,exact_duplicate_image,images/train/healthy_1064.jpg,,sha256=2062af1af6f56f8ff61f2f38211183c839c85919e50581703dac561fe979085e; files=images/train/healthy_1064.jpg; images/train/healthy_1065.jpg
+,exact_duplicate_image,images/train/healthy_1194.jpg,,sha256=214460569cc18919da709fa019d12b1e027e0b0dd1a9db29feb729501f6a12b6; files=images/train/healthy_1194.jpg; images/test/healthy_1195.jpg
+,train_test_overlap,images/train/healthy_1194.jpg,,sha256=214460569cc18919da709fa019d12b1e027e0b0dd1a9db29feb729501f6a12b6; files=images/train/healthy_1194.jpg; images/test/healthy_1195.jpg
+,exact_duplicate_image,images/train/healthy_1173.jpg,,sha256=25b745765eb33e7c8c54c68c128675fd35cf8fdbde365d599ab733ed52e8236f; files=images/train/healthy_1173.jpg; images/test/healthy_1172.jpg
+,train_test_overlap,images/train/healthy_1173.jpg,,sha256=25b745765eb33e7c8c54c68c128675fd35cf8fdbde365d599ab733ed52e8236f; files=images/train/healthy_1173.jpg; images/test/healthy_1172.jpg
+,exact_duplicate_image,images/train/healthy_1442.jpg,,sha256=25cae9ddc962a6a6818e8f3e46262c2e4d3a17d22a4472a837260b3c2190f4ac; files=images/train/healthy_1442.jpg; images/test/healthy_0707.jpg
+,train_test_overlap,images/train/healthy_1442.jpg,,sha256=25cae9ddc962a6a6818e8f3e46262c2e4d3a17d22a4472a837260b3c2190f4ac; files=images/train/healthy_1442.jpg; images/test/healthy_0707.jpg
+,exact_duplicate_image,images/train/unhealthy_1418.jpg,,sha256=261a8283048d29d694ab074b643b60f95a7ccfd06b75525d3699e6ccacf42740; files=images/train/unhealthy_1418.jpg; images/train/unhealthy_1419.jpg; images/test/unhealthy_0391.jpg; images/test/unhealthy_0392.jpg
+,train_test_overlap,images/train/unhealthy_1418.jpg,,sha256=261a8283048d29d694ab074b643b60f95a7ccfd06b75525d3699e6ccacf42740; files=images/train/unhealthy_1418.jpg; images/train/unhealthy_1419.jpg; images/test/unhealthy_0391.jpg; images/test/unhealthy_0392.jpg
+,exact_duplicate_image,images/train/unhealthy_1232.jpg,,sha256=26719195744216d313944083685fb281116e43100aa03aa0411b7ba6820de5a9; files=images/train/unhealthy_1232.jpg; images/train/unhealthy_1233.jpg
+,exact_duplicate_image,images/train/healthy_1219.jpg,,sha256=285807771c79466d2f62dba0a5c9a5dee993eb47bc9d3b409461d35da8f983d5; files=images/train/healthy_1219.jpg; images/train/healthy_1218.jpg
+,exact_duplicate_image,images/train/healthy_1033.jpg,,sha256=2875c8f6f71f57762c545cdc2aae2a12deba56d9819539f4bb80bdbffd14bc31; files=images/train/healthy_1033.jpg; images/test/healthy_1032.jpg
+,train_test_overlap,images/train/healthy_1033.jpg,,sha256=2875c8f6f71f57762c545cdc2aae2a12deba56d9819539f4bb80bdbffd14bc31; files=images/train/healthy_1033.jpg; images/test/healthy_1032.jpg
+,exact_duplicate_image,images/test/healthy_0368.jpg,,sha256=2a17b4b58ba8ed8ee153b30c96570478eb4e28a8dcc2c4d411a69916b4842124; files=images/test/healthy_0368.jpg; images/test/healthy_0369.jpg
+,exact_duplicate_image,images/train/healthy_1237.jpg,,sha256=2abfd98148dd9b71631a3c2acbf938f165e3e49d4df074510343c6c83ec28c6e; files=images/train/healthy_1237.jpg; images/train/healthy_1238.jpg
+,exact_duplicate_image,images/train/unhealthy_1413.jpg,,sha256=2d12792d0ab663891c39f576c46f30c3a6c24744519d9950582d993c7b15cb5e; files=images/train/unhealthy_1413.jpg; images/train/unhealthy_1412.jpg; images/test/unhealthy_0373.jpg; images/test/unhealthy_0372.jpg
+,train_test_overlap,images/train/unhealthy_1413.jpg,,sha256=2d12792d0ab663891c39f576c46f30c3a6c24744519d9950582d993c7b15cb5e; files=images/train/unhealthy_1413.jpg; images/train/unhealthy_1412.jpg; images/test/unhealthy_0373.jpg; images/test/unhealthy_0372.jpg
+,exact_duplicate_image,images/train/healthy_1150.jpg,,sha256=2d7a55bae9203b803058f8cf112170f7e46d20d5d4f07a09963811a2a52945f1; files=images/train/healthy_1150.jpg; images/train/healthy_1151.jpg
+,exact_duplicate_image,images/train/healthy_1155.jpg,,sha256=2edc1e272ee16ece69fa431575af1ebc6b01913dd2842bd61948f18371463507; files=images/train/healthy_1155.jpg; images/test/healthy_1154.jpg
+,train_test_overlap,images/train/healthy_1155.jpg,,sha256=2edc1e272ee16ece69fa431575af1ebc6b01913dd2842bd61948f18371463507; files=images/train/healthy_1155.jpg; images/test/healthy_1154.jpg
+,exact_duplicate_image,images/train/unhealthy_0585.jpg,,sha256=309eabc7537d1b8436f05c9e2af92ec709480747ac5cb8e1a5b87dc2711f2a82; files=images/train/unhealthy_0585.jpg; images/train/unhealthy_0584.jpg
+,exact_duplicate_image,images/train/healthy_1163.jpg,,sha256=31de701abd95c43159fb87e40a338a6022b04b4d7dcdb52e9fb9798a35f6edb2; files=images/train/healthy_1163.jpg; images/train/healthy_1162.jpg
+,exact_duplicate_image,images/train/healthy_1018.jpg,,sha256=31f8206c7ec881a583495039585655147d215153ee71b7548ada80db9d817cee; files=images/train/healthy_1018.jpg; images/train/healthy_1019.jpg
+,exact_duplicate_image,images/train/healthy_0323.jpg,,sha256=3371c0c6d3c29e4668facdb4b2f3c541c579f81ca7d77849de1fd1b859d7fb5e; files=images/train/healthy_0323.jpg; images/train/healthy_0324.jpg
+,exact_duplicate_image,images/train/healthy_1030.jpg,,sha256=3503aeee1f8b9f1688491f9e745142ea00a51de093810c0099865eed18c61595; files=images/train/healthy_1030.jpg; images/test/healthy_1031.jpg
+,train_test_overlap,images/train/healthy_1030.jpg,,sha256=3503aeee1f8b9f1688491f9e745142ea00a51de093810c0099865eed18c61595; files=images/train/healthy_1030.jpg; images/test/healthy_1031.jpg
+,exact_duplicate_image,images/train/unhealthy_0805.jpg,,sha256=3511ffb7de1b4b2b94903b821de8f286e2f36c316e0f070ec14d1c01f87b03fd; files=images/train/unhealthy_0805.jpg; images/train/unhealthy_0350.jpg; images/train/unhealthy_0629.jpg
+,exact_duplicate_image,images/test/healthy_1317.jpg,,sha256=3641ba18a89d598b861a0b0c337fe714499ea510000cc748c45980637e7ad361; files=images/test/healthy_1317.jpg; images/test/healthy_1318.jpg
+,exact_duplicate_image,images/train/healthy_1078.jpg,,sha256=3718703af60966e631ae83df0f9a42e1e4bdade434de08fdbc6e12d230fe81e5; files=images/train/healthy_1078.jpg; images/train/healthy_1079.jpg
+,exact_duplicate_image,images/train/healthy_1224.jpg,,sha256=3856211cffe4ffc73bf28b9de1ea0984fb459a53ff4bf57c97f505ba488d7cf1; files=images/train/healthy_1224.jpg; images/train/healthy_1225.jpg
+,exact_duplicate_image,images/train/healthy_0267.jpg,,sha256=3a1dc344a0d043d3a0a6916a65cadb008ae6d0705fe24c094d13c09ca33c2a73; files=images/train/healthy_0267.jpg; images/train/healthy_0268.jpg
+,exact_duplicate_image,images/test/healthy_0367.jpg,,sha256=3ad747e50ee6ea9baa435287ea8392992e3bac2fabcb7d41fd125a3392266f78; files=images/test/healthy_0367.jpg; images/test/healthy_0366.jpg
+,exact_duplicate_image,images/train/healthy_1042.jpg,,sha256=3f48d7be84af5be778f02c34e1df18b3a2cc44a41e73e70a9710a24d41591b79; files=images/train/healthy_1042.jpg; images/train/healthy_1043.jpg
+,exact_duplicate_image,images/train/healthy_0319.jpg,,sha256=40d82f7912d3e352cf5a1555a1c93e24d56fbb0458da9a78102fb122ef4b22aa; files=images/train/healthy_0319.jpg; images/train/healthy_0320.jpg
+,exact_duplicate_image,images/train/healthy_1125.jpg,,sha256=45e93fc1b224a27cd839cfa521994e5a67dc58d789cb1987461f59d733f7416e; files=images/train/healthy_1125.jpg; images/train/healthy_1124.jpg
+,exact_duplicate_image,images/test/healthy_0377.jpg,,sha256=4611faeb06dec8d5be49795bd5e400504ac654fb74af40c14c82c7ef3cad2cef; files=images/test/healthy_0377.jpg; images/test/healthy_0376.jpg
+,exact_duplicate_image,images/train/healthy_1161.jpg,,sha256=4724e3dfbfd23def948682a22b8ccfdd1f418680169803a00ad30439dc94336e; files=images/train/healthy_1161.jpg; images/test/healthy_1160.jpg
+,train_test_overlap,images/train/healthy_1161.jpg,,sha256=4724e3dfbfd23def948682a22b8ccfdd1f418680169803a00ad30439dc94336e; files=images/train/healthy_1161.jpg; images/test/healthy_1160.jpg
+,exact_duplicate_image,images/train/healthy_1102.jpg,,sha256=47562e3b8464443f7724bbbcca005da31332c73a51d899c822235d4ab1a45d07; files=images/train/healthy_1102.jpg; images/test/healthy_1103.jpg
+,train_test_overlap,images/train/healthy_1102.jpg,,sha256=47562e3b8464443f7724bbbcca005da31332c73a51d899c822235d4ab1a45d07; files=images/train/healthy_1102.jpg; images/test/healthy_1103.jpg
+,exact_duplicate_image,images/train/healthy_1098.jpg,,sha256=4895be8a1e831f360372f1125dc16574bde81cef39eb7bccbb1d9327d84a3ae9; files=images/train/healthy_1098.jpg; images/test/healthy_1099.jpg
+,train_test_overlap,images/train/healthy_1098.jpg,,sha256=4895be8a1e831f360372f1125dc16574bde81cef39eb7bccbb1d9327d84a3ae9; files=images/train/healthy_1098.jpg; images/test/healthy_1099.jpg
+,exact_duplicate_image,images/train/healthy_1133.jpg,,sha256=4b6272092443948057be1896a6f6d8d116c810f454a9e83e150dca47d4764c05; files=images/train/healthy_1133.jpg; images/train/healthy_1132.jpg
+,exact_duplicate_image,images/train/healthy_1022.jpg,,sha256=4d645e85ac44b712cbb0f1c4127313e989baa8f8ad51a2794f8680279afbe594; files=images/train/healthy_1022.jpg; images/test/healthy_1023.jpg
+,train_test_overlap,images/train/healthy_1022.jpg,,sha256=4d645e85ac44b712cbb0f1c4127313e989baa8f8ad51a2794f8680279afbe594; files=images/train/healthy_1022.jpg; images/test/healthy_1023.jpg
+,exact_duplicate_image,images/train/healthy_0328.jpg,,sha256=4f042bee059da463bc70ed8f33c7068ff73e4aa4dc31786ee7ea7949dcc685d9; files=images/train/healthy_0328.jpg; images/train/healthy_0327.jpg
+,exact_duplicate_image,images/test/healthy_0573.jpg,,sha256=4f19d2292f22c54d30fffa4628bbff795e5cad261b3d55465d1f03010d344c22; files=images/test/healthy_0573.jpg; images/test/healthy_0574.jpg
+,exact_duplicate_image,images/train/healthy_0340.jpg,,sha256=4ff1e94c6ec63fdd5645cbc2a936a577e81bd49c3d3deef7412ffcda6960f9da; files=images/train/healthy_0340.jpg; images/train/healthy_0339.jpg
+,exact_duplicate_image,images/train/unhealthy_1210.jpg,,sha256=524a0ec028a5d92cf04e9e66fec47913b0c15deb610d77a0c282bedf6d31ef83; files=images/train/unhealthy_1210.jpg; images/train/unhealthy_1211.jpg
+,exact_duplicate_image,images/train/unhealthy_1415.jpg,,sha256=52d5b48d32130ef3b5770e4c78940aabbe45f0e6dedc0385b6ce54fc7c23d24f; files=images/train/unhealthy_1415.jpg; images/train/unhealthy_1414.jpg; images/test/unhealthy_0379.jpg; images/test/unhealthy_0378.jpg
+,train_test_overlap,images/train/unhealthy_1415.jpg,,sha256=52d5b48d32130ef3b5770e4c78940aabbe45f0e6dedc0385b6ce54fc7c23d24f; files=images/train/unhealthy_1415.jpg; images/train/unhealthy_1414.jpg; images/test/unhealthy_0379.jpg; images/test/unhealthy_0378.jpg
+,exact_duplicate_image,images/test/healthy_0397.jpg,,sha256=53c1c4580b377c1bee9e06a8ce50fecdc02fd870dd9cc47d848b5f6bfb46bd81; files=images/test/healthy_0397.jpg; images/test/healthy_0398.jpg
+,exact_duplicate_image,images/train/unhealthy_1423.jpg,,sha256=54e0319909620e4d6739f42b825ec2d8209eb0abd04e66c7818d737434628f90; files=images/train/unhealthy_1423.jpg; images/train/unhealthy_1422.jpg; images/test/unhealthy_0404.jpg; images/test/unhealthy_0403.jpg
+,train_test_overlap,images/train/unhealthy_1423.jpg,,sha256=54e0319909620e4d6739f42b825ec2d8209eb0abd04e66c7818d737434628f90; files=images/train/unhealthy_1423.jpg; images/train/unhealthy_1422.jpg; images/test/unhealthy_0404.jpg; images/test/unhealthy_0403.jpg
+,exact_duplicate_image,images/train/healthy_1447.jpg,,sha256=5792e32b031a5e567ac29cd7a28e864f1c543076c96ece78f64a68b40484f2ee; files=images/train/healthy_1447.jpg; images/test/healthy_0876.jpg
+,train_test_overlap,images/train/healthy_1447.jpg,,sha256=5792e32b031a5e567ac29cd7a28e864f1c543076c96ece78f64a68b40484f2ee; files=images/train/healthy_1447.jpg; images/test/healthy_0876.jpg
+,exact_duplicate_image,images/train/healthy_1215.jpg,,sha256=59932e0dae5f91dbf2b1f532492bad2ac8dda4d6e8e31a91ba095fbc95f016dd; files=images/train/healthy_1215.jpg; images/test/healthy_1214.jpg
+,train_test_overlap,images/train/healthy_1215.jpg,,sha256=59932e0dae5f91dbf2b1f532492bad2ac8dda4d6e8e31a91ba095fbc95f016dd; files=images/train/healthy_1215.jpg; images/test/healthy_1214.jpg
+,exact_duplicate_image,images/train/healthy_0280.jpg,,sha256=59e0aabd97796b572dd8a7366a8333b49f7a81148f383da3e58c7c9455334373; files=images/train/healthy_0280.jpg; images/train/healthy_0281.jpg
+,exact_duplicate_image,images/train/unhealthy_0442.jpg,,sha256=5a11b0bd2f6f2c28b8eba896b36fe3cacbe35d02b26aa4e27c0bb58c77b5c1fe; files=images/train/unhealthy_0442.jpg; images/train/unhealthy_0443.jpg
+,exact_duplicate_image,images/train/healthy_1116.jpg,,sha256=5c2bdc277b2b40310d6e5bef320c5b49de5244251a91e73115f4109176897b7e; files=images/train/healthy_1116.jpg; images/test/healthy_1117.jpg
+,train_test_overlap,images/train/healthy_1116.jpg,,sha256=5c2bdc277b2b40310d6e5bef320c5b49de5244251a91e73115f4109176897b7e; files=images/train/healthy_1116.jpg; images/test/healthy_1117.jpg
+,exact_duplicate_image,images/train/healthy_1115.jpg,,sha256=5c7fc31d031a3bad9ed36b43b241606c7dc720dca64d0257085b926c903a6663; files=images/train/healthy_1115.jpg; images/test/healthy_1114.jpg
+,train_test_overlap,images/train/healthy_1115.jpg,,sha256=5c7fc31d031a3bad9ed36b43b241606c7dc720dca64d0257085b926c903a6663; files=images/train/healthy_1115.jpg; images/test/healthy_1114.jpg
+,exact_duplicate_image,images/train/healthy_1140.jpg,,sha256=60f110c53d2bb38709b8d95aeae536212a10f1e4dd6dd3ca211aa2a4fffe0449; files=images/train/healthy_1140.jpg; images/train/healthy_1141.jpg
+,exact_duplicate_image,images/train/unhealthy_1410.jpg,,sha256=610abe8cc2a7b6624e450bbf6e9f590daca0a8cb6568a7b34c587cd5b20498d8; files=images/train/unhealthy_1410.jpg; images/train/unhealthy_1411.jpg; images/test/unhealthy_0371.jpg; images/test/unhealthy_0370.jpg
+,train_test_overlap,images/train/unhealthy_1410.jpg,,sha256=610abe8cc2a7b6624e450bbf6e9f590daca0a8cb6568a7b34c587cd5b20498d8; files=images/train/unhealthy_1410.jpg; images/train/unhealthy_1411.jpg; images/test/unhealthy_0371.jpg; images/test/unhealthy_0370.jpg
+,exact_duplicate_image,images/test/healthy_0401.jpg,,sha256=6263502b786616770e99a34b65845a950aa695fd5569c0ca703257eb48576a87; files=images/test/healthy_0401.jpg; images/test/healthy_0402.jpg
+,exact_duplicate_image,images/train/healthy_1164.jpg,,sha256=6505de5f08f4284a25b95e1fc6d925004d1569cab2feb0dfef2038cceaa07787; files=images/train/healthy_1164.jpg; images/train/healthy_1165.jpg
+,exact_duplicate_image,images/train/healthy_1453.jpg,,sha256=65a3c797f309d20885235d1454c57dd66bf223df34655ab351a182d14e7799d7; files=images/train/healthy_1453.jpg; images/train/unhealthy_1207.jpg; images/test/healthy_1206.jpg
+,train_test_overlap,images/train/healthy_1453.jpg,,sha256=65a3c797f309d20885235d1454c57dd66bf223df34655ab351a182d14e7799d7; files=images/train/healthy_1453.jpg; images/train/unhealthy_1207.jpg; images/test/healthy_1206.jpg
+,exact_duplicate_image,images/train/healthy_1455.jpg,,sha256=670070362dc957cd56999a8a14e8b4551c17585cee6321f9975fba694971a696; files=images/train/healthy_1455.jpg; images/train/unhealthy_1229.jpg; images/test/healthy_1228.jpg
+,train_test_overlap,images/train/healthy_1455.jpg,,sha256=670070362dc957cd56999a8a14e8b4551c17585cee6321f9975fba694971a696; files=images/train/healthy_1455.jpg; images/train/unhealthy_1229.jpg; images/test/healthy_1228.jpg
+,exact_duplicate_image,images/train/healthy_1121.jpg,,sha256=68ee40bcb8def424192fc954361c3fa4786b7d6c1487fb01405e73b7846c18a6; files=images/train/healthy_1121.jpg; images/train/healthy_1120.jpg
+,exact_duplicate_image,images/train/healthy_1100.jpg,,sha256=69108be81f090c29475b699f4c605350abe315818f8f74914b71363936fdebe7; files=images/train/healthy_1100.jpg; images/train/healthy_1101.jpg
+,exact_duplicate_image,images/train/unhealthy_1216.jpg,,sha256=6aba77c4e5d2e86d71b0b288081e6adedd65678d4f06931d2419774f9f6ea6a1; files=images/train/unhealthy_1216.jpg; images/train/unhealthy_1217.jpg
+,exact_duplicate_image,images/train/unhealthy_0104.jpg,,sha256=6c97ed63f0cf0b5ec84b0e14c275fafa8e03cd44572137452033b5bac9042a0c; files=images/train/unhealthy_0104.jpg; images/test/unhealthy_1431.jpg
+,train_test_overlap,images/train/unhealthy_0104.jpg,,sha256=6c97ed63f0cf0b5ec84b0e14c275fafa8e03cd44572137452033b5bac9042a0c; files=images/train/unhealthy_0104.jpg; images/test/unhealthy_1431.jpg
+,exact_duplicate_image,images/train/healthy_1056.jpg,,sha256=6f757dffb64ef5634698700e34c50a9a2092bbdcdbfd09681f064f8e4f1e58bd; files=images/train/healthy_1056.jpg; images/train/healthy_1057.jpg
+,exact_duplicate_image,images/train/healthy_0326.jpg,,sha256=7091bc335ce8a65dd4d3f3de553f55091e9e992f95cbf844867f98194df32f5b; files=images/train/healthy_0326.jpg; images/train/healthy_0325.jpg
+,exact_duplicate_image,images/train/healthy_1134.jpg,,sha256=71ae4b6f9d3670e8b3a8fcd091fbf59f04ee9423080268a177fb352a6c12cb8f; files=images/train/healthy_1134.jpg; images/train/healthy_1135.jpg
+,exact_duplicate_image,images/train/healthy_0087.jpg,,sha256=71f9862dc6acac9b98d1d4670584dd643cbbc537a9c4edb6d9d95fdc5ba66826; files=images/train/healthy_0087.jpg; images/test/healthy_1457.jpg
+,train_test_overlap,images/train/healthy_0087.jpg,,sha256=71f9862dc6acac9b98d1d4670584dd643cbbc537a9c4edb6d9d95fdc5ba66826; files=images/train/healthy_0087.jpg; images/test/healthy_1457.jpg
+,exact_duplicate_image,images/train/unhealthy_1042.jpg,,sha256=722698b4a5226092a4f07b11d6adf60779b260efd1c5b79ef2f7430f7cf06041; files=images/train/unhealthy_1042.jpg; images/train/healthy_0344.jpg
+,exact_duplicate_image,images/train/healthy_1445.jpg,,sha256=7264fa65e5b30518c35f5c84bd15b14dbf15462988cb19c11fd6d7d17b1e5889; files=images/train/healthy_1445.jpg; images/test/healthy_0796.jpg
+,train_test_overlap,images/train/healthy_1445.jpg,,sha256=7264fa65e5b30518c35f5c84bd15b14dbf15462988cb19c11fd6d7d17b1e5889; files=images/train/healthy_1445.jpg; images/test/healthy_0796.jpg
+,exact_duplicate_image,images/train/healthy_1067.jpg,,sha256=73e2d89f62de91669d54116b79392431b14888689bde3e82cd62a2945d8bd34e; files=images/train/healthy_1067.jpg; images/train/healthy_1066.jpg
+,exact_duplicate_image,images/train/unhealthy_1113.jpg,,sha256=740a32f051ecf399da6d551ef5add2d549637c1b5705699442c246cd141b9153; files=images/train/unhealthy_1113.jpg; images/train/unhealthy_1114.jpg
+,exact_duplicate_image,images/train/unhealthy_0804.jpg,,sha256=752e6c70478de8f01348bd28bef27c456643fc3a1e86ec45c3c750f54b8d0c30; files=images/train/unhealthy_0804.jpg; images/train/unhealthy_0349.jpg; images/train/unhealthy_0628.jpg
+,exact_duplicate_image,images/train/healthy_1029.jpg,,sha256=7703ee04a7ec0340f7b08fffdb64a7f891f5d9c747a98572ccdd205e382829f0; files=images/train/healthy_1029.jpg; images/test/healthy_1028.jpg
+,train_test_overlap,images/train/healthy_1029.jpg,,sha256=7703ee04a7ec0340f7b08fffdb64a7f891f5d9c747a98572ccdd205e382829f0; files=images/train/healthy_1029.jpg; images/test/healthy_1028.jpg
+,exact_duplicate_image,images/test/healthy_0387.jpg,,sha256=79a0c350731fe63e2817c42c75ad540ce262ea7342113d8e67b4b67d9b60f367; files=images/test/healthy_0387.jpg; images/test/healthy_0388.jpg
+,exact_duplicate_image,images/train/unhealthy_0829.jpg,,sha256=79d35866515e07a5c90e4c247112cecca7fda222b8da56d1681abb4123c46fdc; files=images/train/unhealthy_0829.jpg; images/train/unhealthy_0853.jpg
+,exact_duplicate_image,images/train/unhealthy_1416.jpg,,sha256=7a08487150c8bd50964e4cced8eba5e5fac31f627b354789e9946523b2fda70f; files=images/train/unhealthy_1416.jpg; images/train/unhealthy_1417.jpg; images/test/unhealthy_0383.jpg; images/test/unhealthy_0384.jpg
+,train_test_overlap,images/train/unhealthy_1416.jpg,,sha256=7a08487150c8bd50964e4cced8eba5e5fac31f627b354789e9946523b2fda70f; files=images/train/unhealthy_1416.jpg; images/train/unhealthy_1417.jpg; images/test/unhealthy_0383.jpg; images/test/unhealthy_0384.jpg
+,exact_duplicate_image,images/train/healthy_1094.jpg,,sha256=7a0c63c788fe9be6794334e65c04e24aef20c85ed58e28216a4ee3fd745f8404; files=images/train/healthy_1094.jpg; images/train/healthy_1095.jpg
+,exact_duplicate_image,images/train/healthy_0279.jpg,,sha256=7b0b67258f44922250735192330de6d6682d901e196c51c3f4319a83335b8026; files=images/train/healthy_0279.jpg; images/train/healthy_0278.jpg
+,exact_duplicate_image,images/train/healthy_1036.jpg,,sha256=7b4c79b1f636ecf04f5dc478553c4ae8bf5680e89666782dc2f490bf8d5fe08d; files=images/train/healthy_1036.jpg; images/train/healthy_1037.jpg
+,exact_duplicate_image,images/train/healthy_1183.jpg,,sha256=7c71c1d23d2fda0a9aa770392affa3d61853610967230ede87ba992f52ae1046; files=images/train/healthy_1183.jpg; images/test/healthy_1182.jpg
+,train_test_overlap,images/train/healthy_1183.jpg,,sha256=7c71c1d23d2fda0a9aa770392affa3d61853610967230ede87ba992f52ae1046; files=images/train/healthy_1183.jpg; images/test/healthy_1182.jpg
+,exact_duplicate_image,images/train/healthy_1167.jpg,,sha256=7cc70f3fb6be727c36ca4dfa0b84ee3578c18bfc35e28fa549be787733c1f4c7; files=images/train/healthy_1167.jpg; images/train/healthy_1166.jpg
+,exact_duplicate_image,images/train/healthy_1112.jpg,,sha256=7d6453a032e31d678412079cebd64ff4993b1ae62a592240511586bd0ea90efe; files=images/train/healthy_1112.jpg; images/train/unhealthy_1120.jpg
+,exact_duplicate_image,images/train/healthy_1073.jpg,,sha256=7df5e6d7ae4e415928cd062239a89cb602187e19300c50ec55b543c2eaad6829; files=images/train/healthy_1073.jpg; images/test/healthy_1072.jpg
+,train_test_overlap,images/train/healthy_1073.jpg,,sha256=7df5e6d7ae4e415928cd062239a89cb602187e19300c50ec55b543c2eaad6829; files=images/train/healthy_1073.jpg; images/test/healthy_1072.jpg
+,exact_duplicate_image,images/train/healthy_1007.jpg,,sha256=7e3ea8805c1e02e32ba0005f11a68252fb55fd258309ff7bb6486ec735d88a3a; files=images/train/healthy_1007.jpg; images/train/healthy_1006.jpg
+,exact_duplicate_image,images/train/healthy_1035.jpg,,sha256=7e553933f843499a4a741e483136219d15bb9882889ff870fe183b5e4409c349; files=images/train/healthy_1035.jpg; images/train/healthy_1034.jpg
+,exact_duplicate_image,images/train/healthy_1199.jpg,,sha256=7ee6787a138ec46dcb611a020cacc8ba6913920f590d9e5ac43d59db2fa0131e; files=images/train/healthy_1199.jpg; images/train/healthy_1198.jpg
+,exact_duplicate_image,images/train/healthy_0289.jpg,,sha256=8115cd8b9e41fbcc4eaaf29d2b93794824a2adc5fe11da648bb9c7a91fe5fd11; files=images/train/healthy_0289.jpg; images/train/healthy_0290.jpg
+,exact_duplicate_image,images/train/healthy_1156.jpg,,sha256=830cbdcc3342408bbe8cc4596e7928908e2c972fdb09d0cdf84cf2b01f89c27a; files=images/train/healthy_1156.jpg; images/test/healthy_1157.jpg
+,train_test_overlap,images/train/healthy_1156.jpg,,sha256=830cbdcc3342408bbe8cc4596e7928908e2c972fdb09d0cdf84cf2b01f89c27a; files=images/train/healthy_1156.jpg; images/test/healthy_1157.jpg
+,exact_duplicate_image,images/train/healthy_0314.jpg,,sha256=83c71c3e288ec720368671562425a9934221b7373ca9845d029a32d6ce30d4f7; files=images/train/healthy_0314.jpg; images/train/healthy_0313.jpg
+,exact_duplicate_image,images/train/healthy_1013.jpg,,sha256=84a90d3fd82ca67ba990af15f14a2aa17872b42193fdd1b44d3820572b2ad859; files=images/train/healthy_1013.jpg; images/train/unhealthy_1112.jpg
+,exact_duplicate_image,images/train/healthy_0272.jpg,,sha256=84f4a1a065a543f3bdd59e1e763e8f2cf50195e7ff67385a97b620365b7b38f2; files=images/train/healthy_0272.jpg; images/train/healthy_0273.jpg
+,exact_duplicate_image,images/train/healthy_0322.jpg,,sha256=860e3386da3b0dd1778b1ed6eda69f8dc07fe1d063ed7274b0aed77956e1cdfa; files=images/train/healthy_0322.jpg; images/train/healthy_0321.jpg
+,exact_duplicate_image,images/train/unhealthy_0441.jpg,,sha256=8685bce0c8f9eaf82288e034c0c1c7a3708be80c8c1703a79918b76ac1dbe071; files=images/train/unhealthy_0441.jpg; images/test/unhealthy_0440.jpg
+,train_test_overlap,images/train/unhealthy_0441.jpg,,sha256=8685bce0c8f9eaf82288e034c0c1c7a3708be80c8c1703a79918b76ac1dbe071; files=images/train/unhealthy_0441.jpg; images/test/unhealthy_0440.jpg
+,exact_duplicate_image,images/test/healthy_0381.jpg,,sha256=877dc3f7c126144889933f06c1c62a3a5019273351c7846a1c24889e0534634a; files=images/test/healthy_0381.jpg; images/test/healthy_0382.jpg
+,exact_duplicate_image,images/test/unhealthy_0363.jpg,,sha256=8870251eb850178ea37cb363632a1622d04413ebebacb6d61932f58280b62f0d; files=images/test/unhealthy_0363.jpg; images/test/unhealthy_0362.jpg
+,exact_duplicate_image,images/train/unhealthy_1231.jpg,,sha256=88f559d46074f11f0b9a9ee5632e64b95a6f4e9e5b288b62ad104898b8ee8116; files=images/train/unhealthy_1231.jpg; images/train/healthy_1456.jpg; images/test/healthy_1230.jpg
+,train_test_overlap,images/train/unhealthy_1231.jpg,,sha256=88f559d46074f11f0b9a9ee5632e64b95a6f4e9e5b288b62ad104898b8ee8116; files=images/train/unhealthy_1231.jpg; images/train/healthy_1456.jpg; images/test/healthy_1230.jpg
+,exact_duplicate_image,images/train/healthy_0276.jpg,,sha256=8918dd5024c2bd76803c5941c3f0c7ca27ecaeb9b271fcc5f0ad50b8966a1bf5; files=images/train/healthy_0276.jpg; images/train/healthy_0277.jpg
+,exact_duplicate_image,images/train/healthy_0312.jpg,,sha256=892f09cc7439fc52f1d15492cb4f4ece970c3441fb0887a8e22c56e20eb55e4e; files=images/train/healthy_0312.jpg; images/train/healthy_0311.jpg
+,exact_duplicate_image,images/train/healthy_1076.jpg,,sha256=8996dca4236c10634d9490fe90576dd8855e64477526570582e76d1f5e4c7574; files=images/train/healthy_1076.jpg; images/train/healthy_1077.jpg
+,exact_duplicate_image,images/test/healthy_0357.jpg,,sha256=8a901a65b9b720e3cd828940386473d40c1720db8467ccfea90218a15766903b; files=images/test/healthy_0357.jpg; images/test/healthy_0356.jpg
+,exact_duplicate_image,images/train/healthy_1096.jpg,,sha256=8c1d171e2ffb0122fabe9831879ea97bfb28ebfedaa7326af78c98ee2d6ee44a; files=images/train/healthy_1096.jpg; images/test/healthy_1097.jpg
+,train_test_overlap,images/train/healthy_1096.jpg,,sha256=8c1d171e2ffb0122fabe9831879ea97bfb28ebfedaa7326af78c98ee2d6ee44a; files=images/train/healthy_1096.jpg; images/test/healthy_1097.jpg
+,exact_duplicate_image,images/train/healthy_0309.jpg,,sha256=8d174d18b4424ef13e2d280ee304470f670eddbcda32b8229ee0100487f02502; files=images/train/healthy_0309.jpg; images/train/healthy_0310.jpg
+,exact_duplicate_image,images/train/healthy_1153.jpg,,sha256=8e453c9c984937a632a0c1ee1c9a72c58cf9df95e5da410f122d8685b5ae0cdb; files=images/train/healthy_1153.jpg; images/train/healthy_1152.jpg
+,exact_duplicate_image,images/train/healthy_0296.jpg,,sha256=8f123719cefc54dc7e03e8a9c7fe95861acca7bcd7547cda78782164089e6d80; files=images/train/healthy_0296.jpg; images/train/healthy_0295.jpg
+,exact_duplicate_image,images/train/healthy_1186.jpg,,sha256=917fa7aef40a9d01550595e67fbea063ea6459731e01d61b337db97b200fb423; files=images/train/healthy_1186.jpg; images/test/healthy_1187.jpg
+,train_test_overlap,images/train/healthy_1186.jpg,,sha256=917fa7aef40a9d01550595e67fbea063ea6459731e01d61b337db97b200fb423; files=images/train/healthy_1186.jpg; images/test/healthy_1187.jpg
+,exact_duplicate_image,images/train/healthy_1122.jpg,,sha256=9454b0380d87fc96fc0818063e90c7af15ccc31df887d64c62da20d7543894eb; files=images/train/healthy_1122.jpg; images/train/healthy_1123.jpg
+,exact_duplicate_image,images/test/healthy_1221.jpg,,sha256=94639ff74384f1bed5126b93fe02f5b5b7a56bf3f576cc9862ac52162eb0de41; files=images/test/healthy_1221.jpg; images/test/healthy_1220.jpg
+,exact_duplicate_image,images/train/healthy_1110.jpg,,sha256=961f93379d527e1e84c6ff08ded8c1ce16c0b038a3aea11d369ee9dd5aabfdd9; files=images/train/healthy_1110.jpg; images/train/unhealthy_1119.jpg
+,exact_duplicate_image,images/train/healthy_0304.jpg,,sha256=96ffa30e86bb95b047a196c6657f863847bbce7d3ed28089495e8b13e01e5f30; files=images/train/healthy_0304.jpg; images/train/healthy_0303.jpg
+,exact_duplicate_image,images/train/healthy_1087.jpg,,sha256=976ab1bb8edd41134899c9620fdfe869f5fe0d452282bb15f99f04d18d40f51c; files=images/train/healthy_1087.jpg; images/train/healthy_1086.jpg
+,exact_duplicate_image,images/train/unhealthy_0590.jpg,,sha256=9930beebd4a66b4c2cbd3e8d5556c477669ad6932e31be00c8397043d0874cd7; files=images/train/unhealthy_0590.jpg; images/test/unhealthy_0589.jpg
+,train_test_overlap,images/train/unhealthy_0590.jpg,,sha256=9930beebd4a66b4c2cbd3e8d5556c477669ad6932e31be00c8397043d0874cd7; files=images/train/unhealthy_0590.jpg; images/test/unhealthy_0589.jpg
+,exact_duplicate_image,images/train/healthy_1451.jpg,,sha256=9aaad5fd50602a1eb173bdf70eb9899d0daa99d03227b61c8730e7e273172ab0; files=images/train/healthy_1451.jpg; images/test/healthy_0905.jpg
+,train_test_overlap,images/train/healthy_1451.jpg,,sha256=9aaad5fd50602a1eb173bdf70eb9899d0daa99d03227b61c8730e7e273172ab0; files=images/train/healthy_1451.jpg; images/test/healthy_0905.jpg
+,exact_duplicate_image,images/train/unhealthy_0587.jpg,,sha256=9b39797230290894b2671d28922f3451aeeb6a2d64592ace5e08ccdbe904cfbb; files=images/train/unhealthy_0587.jpg; images/train/unhealthy_0588.jpg
+,exact_duplicate_image,images/train/healthy_0090.jpg,,sha256=9c5bdafe9871a29f43ddd8405b58d3924bfafb7f9f44686c224e5a3d88287dad; files=images/train/healthy_0090.jpg; images/test/healthy_1460.jpg
+,train_test_overlap,images/train/healthy_0090.jpg,,sha256=9c5bdafe9871a29f43ddd8405b58d3924bfafb7f9f44686c224e5a3d88287dad; files=images/train/healthy_0090.jpg; images/test/healthy_1460.jpg
+,exact_duplicate_image,images/train/healthy_0349.jpg,,sha256=9d189086f9a0ba81c26cb9a7bdfbc00a77df1b0ccc4a48bc9bf9d7dec8599236; files=images/train/healthy_0349.jpg; images/train/healthy_0350.jpg
+,exact_duplicate_image,images/train/healthy_1061.jpg,,sha256=9d3cf20b0e41b78bc2d5dc2ee6079b08724ee0ec72c9bb438d62e592f8ed6873; files=images/train/healthy_1061.jpg; images/train/healthy_1060.jpg
+,exact_duplicate_image,images/train/healthy_1176.jpg,,sha256=9da3b162c2a9615c032759dea24f70bed31f0719be5157b7f6aad631d8a855ff; files=images/train/healthy_1176.jpg; images/train/healthy_1177.jpg
+,exact_duplicate_image,images/train/healthy_1450.jpg,,sha256=9de2fa458693b8a880431dee98256a193d42d60571a866ed0c9ee09ae4137c1c; files=images/train/healthy_1450.jpg; images/test/healthy_0899.jpg
+,train_test_overlap,images/train/healthy_1450.jpg,,sha256=9de2fa458693b8a880431dee98256a193d42d60571a866ed0c9ee09ae4137c1c; files=images/train/healthy_1450.jpg; images/test/healthy_0899.jpg
+,exact_duplicate_image,images/train/unhealthy_1429.jpg,,sha256=9e59415c3295b63ec16ca7c4221e8e41689741d4d7605611c39a7a2e71cd7abf; files=images/train/unhealthy_1429.jpg; images/test/unhealthy_0438.jpg
+,train_test_overlap,images/train/unhealthy_1429.jpg,,sha256=9e59415c3295b63ec16ca7c4221e8e41689741d4d7605611c39a7a2e71cd7abf; files=images/train/unhealthy_1429.jpg; images/test/unhealthy_0438.jpg
+,exact_duplicate_image,images/train/healthy_0337.jpg,,sha256=9f4d5ae0e64963e5e1470b9bb5d06eae8e185ce01152e953b40ebad34b9f8cef; files=images/train/healthy_0337.jpg; images/train/healthy_0338.jpg
+,exact_duplicate_image,images/train/healthy_1136.jpg,,sha256=a163752ea7ec5a6acca015d4937c3654310b30b5f86839391a217253b3c8b094; files=images/train/healthy_1136.jpg; images/train/healthy_1137.jpg
+,exact_duplicate_image,images/train/unhealthy_1212.jpg,,sha256=a35d6710c9b82bc02ca922084ba61f79e1ae2c50712e64794fc9d0f28253c1eb; files=images/train/unhealthy_1212.jpg; images/train/unhealthy_1213.jpg
+,exact_duplicate_image,images/train/healthy_1045.jpg,,sha256=a39387d76119fcaf3713911eb616548e7db7fb9f4b0b66a207f4a554cec59252; files=images/train/healthy_1045.jpg; images/train/healthy_1044.jpg
+,exact_duplicate_image,images/train/healthy_1107.jpg,,sha256=a3e00f3d59865c89c843e77fa17fb99171a7cf7098a8a22d56cf642b3c773393; files=images/train/healthy_1107.jpg; images/train/healthy_1106.jpg
+,exact_duplicate_image,images/train/healthy_1143.jpg,,sha256=a6053f855aabccd595f5304f914dc782d6fdad2276779f8c86e700a13b514d3b; files=images/train/healthy_1143.jpg; images/test/healthy_1142.jpg
+,train_test_overlap,images/train/healthy_1143.jpg,,sha256=a6053f855aabccd595f5304f914dc782d6fdad2276779f8c86e700a13b514d3b; files=images/train/healthy_1143.jpg; images/test/healthy_1142.jpg
+,exact_duplicate_image,images/train/healthy_1059.jpg,,sha256=a62cc5ca880f57ac98689372860b7eea7f27f28028735c0fdf723efc582ca96d; files=images/train/healthy_1059.jpg; images/train/healthy_1058.jpg
+,exact_duplicate_image,images/train/healthy_1130.jpg,,sha256=a7010fa6b0072d75ee83b928660c49636ff02dae9a84ac8b82d38c21274c9af6; files=images/train/healthy_1130.jpg; images/train/healthy_1131.jpg
+,exact_duplicate_image,images/train/healthy_1054.jpg,,sha256=a7779192d759ab7137f869249b0d79ff81c841e2581278425801b8f5b0f98717; files=images/train/healthy_1054.jpg; images/test/healthy_1055.jpg
+,train_test_overlap,images/train/healthy_1054.jpg,,sha256=a7779192d759ab7137f869249b0d79ff81c841e2581278425801b8f5b0f98717; files=images/train/healthy_1054.jpg; images/test/healthy_1055.jpg
+,exact_duplicate_image,images/train/unhealthy_1034.jpg,,sha256=aa42e470a08bc37b6b69d5b3c1617cbb93605af58733a3f261f8142f81f28c64; files=images/train/unhealthy_1034.jpg; images/train/unhealthy_1035.jpg
+,exact_duplicate_image,images/train/healthy_1247.jpg,,sha256=abd004af1d002128df7720e5ff6b4b8c303bec3e068d4788af6547670738fb14; files=images/train/healthy_1247.jpg; images/train/healthy_1246.jpg
+,exact_duplicate_image,images/train/healthy_1068.jpg,,sha256=adc4075c0cdc7828d3c2c47294bbf6b1f62e12330ea22b3691ba5aab8e05aa52; files=images/train/healthy_1068.jpg; images/train/healthy_1069.jpg
+,exact_duplicate_image,images/train/healthy_1062.jpg,,sha256=b14371c6e2ec05c0f3c152e6132d392489101cd0113926a843a9d23b848ef847; files=images/train/healthy_1062.jpg; images/train/healthy_1063.jpg
+,exact_duplicate_image,images/train/healthy_0287.jpg,,sha256=b2594bf503233a7a1c3a9c4f60a985189b87b51ed96a24c62c269e0250e50efd; files=images/train/healthy_0287.jpg; images/train/healthy_0288.jpg
+,exact_duplicate_image,images/train/healthy_1093.jpg,,sha256=b335a3037dabe9e971786ff8a26a5db6b5ba0a9d9a319adc53883cb0728e1166; files=images/train/healthy_1093.jpg; images/train/healthy_1092.jpg
+,exact_duplicate_image,images/test/unhealthy_0386.jpg,,sha256=b3a69a50ae1bed0b7c8c8490074ecddeb87f11600b4dd4c1a659ea6e106ee6b1; files=images/test/unhealthy_0386.jpg; images/test/unhealthy_0385.jpg
+,exact_duplicate_image,images/train/healthy_1204.jpg,,sha256=b45a44bbc7c797b045a3dea1bba63099eb3888e622471a02f20095b621f6d0d6; files=images/train/healthy_1204.jpg; images/train/healthy_1205.jpg
+,exact_duplicate_image,images/train/healthy_0271.jpg,,sha256=b82763b4e4c3c6eb5b191c63f818afffdd9494199675ea3cab4a8920dfc685ef; files=images/train/healthy_0271.jpg; images/train/healthy_0270.jpg
+,exact_duplicate_image,images/train/healthy_1008.jpg,,sha256=ba92a496571316a809c195ddec26194b4ed9ccb7838984e7e9edf661047e7144; files=images/train/healthy_1008.jpg; images/train/healthy_1009.jpg
+,exact_duplicate_image,images/train/healthy_1169.jpg,,sha256=bab5bce5349e7ce3de14b26a30af274405eb9028d7aa29ab1ce03641727837de; files=images/train/healthy_1169.jpg; images/train/healthy_1168.jpg
+,exact_duplicate_image,images/train/healthy_1026.jpg,,sha256=bb794a0e644c795c249b5ac2bff720c53ad872d6426a5d46886757fb0593332c; files=images/train/healthy_1026.jpg; images/train/healthy_1027.jpg
+,exact_duplicate_image,images/train/healthy_1449.jpg,,sha256=bcaf0985510acda7476b526b8af65f1a522d04f3d3f280ede5a6539a1ab106d4; files=images/train/healthy_1449.jpg; images/test/healthy_0897.jpg
+,train_test_overlap,images/train/healthy_1449.jpg,,sha256=bcaf0985510acda7476b526b8af65f1a522d04f3d3f280ede5a6539a1ab106d4; files=images/train/healthy_1449.jpg; images/test/healthy_0897.jpg
+,exact_duplicate_image,images/train/unhealthy_0581.jpg,,sha256=bd3f3d376ebf6964e9b09bfdf3667a4083a4d0e67dd4d0787a9e87ee53aaa6ee; files=images/train/unhealthy_0581.jpg; images/train/unhealthy_0582.jpg
+,exact_duplicate_image,images/train/unhealthy_0105.jpg,,sha256=be1c201babcca2cf4845ced81a90f4c17ed9325b535716b39ca21249c261d46e; files=images/train/unhealthy_0105.jpg; images/test/unhealthy_1432.jpg
+,train_test_overlap,images/train/unhealthy_0105.jpg,,sha256=be1c201babcca2cf4845ced81a90f4c17ed9325b535716b39ca21249c261d46e; files=images/train/unhealthy_0105.jpg; images/test/unhealthy_1432.jpg
+,exact_duplicate_image,images/train/healthy_1105.jpg,,sha256=c18754d1506ad3404ef3510fa1d6164a259e95e1346f82e065e5c1f1dc10c25b; files=images/train/healthy_1105.jpg; images/train/healthy_1104.jpg
+,exact_duplicate_image,images/train/healthy_1203.jpg,,sha256=c3f7fe36cc040693ca064111759d369b896020eb3e2c2b2e71a103f8052dc722; files=images/train/healthy_1203.jpg; images/train/healthy_1202.jpg
+,exact_duplicate_image,images/test/healthy_0360.jpg,,sha256=cd465e10d0e34c18396bade9ec762ea3377c2982c8eca740caea6afee170e138; files=images/test/healthy_0360.jpg; images/test/healthy_0359.jpg
+,exact_duplicate_image,images/train/healthy_1144.jpg,,sha256=d123e44b24c8fe24eb1bc1dbd2bc936156e1955836ea3200c946cbf7d2cf5588; files=images/train/healthy_1144.jpg; images/train/healthy_1145.jpg
+,exact_duplicate_image,images/train/healthy_1038.jpg,,sha256=d1b45c4fd867d1217eb514753bad36a7dcdc9622055f84fe4100128623a3fd38; files=images/train/healthy_1038.jpg; images/train/healthy_1039.jpg
+,exact_duplicate_image,images/train/healthy_0294.jpg,,sha256=d1c46a4ac8db321e38fe87433c7f65f7fc6ea2e33fa0e02e7b3c0c1cc419daf3; files=images/train/healthy_0294.jpg; images/train/healthy_0293.jpg
+,exact_duplicate_image,images/train/healthy_1197.jpg,,sha256=d22702839733b8bf519c73785c1f723cc26cf207d7f545a3e63aa00ba751668e; files=images/train/healthy_1197.jpg; images/train/healthy_1196.jpg
+,exact_duplicate_image,images/train/healthy_1016.jpg,,sha256=d28e4aa524f49fea638fe395f0220884d12e3a1879f2c7cbbe4646c9dbc1ddbf; files=images/train/healthy_1016.jpg; images/train/healthy_1017.jpg
+,exact_duplicate_image,images/train/healthy_0851.jpg,,sha256=d5da3a9c9d2e6fed17b11e64ab54114f0a423526c18a29b06415e04cb118664b; files=images/train/healthy_0851.jpg; images/train/unhealthy_0821.jpg
+,exact_duplicate_image,images/train/healthy_1235.jpg,,sha256=d65203f6c063045ef8c0a9137aebec1095404d5cabb24bb827ac98bd8d7057ec; files=images/train/healthy_1235.jpg; images/train/healthy_1236.jpg
+,exact_duplicate_image,images/train/healthy_0334.jpg,,sha256=d6734a93ecd93f070f0ef662d4241d941e73aa1792e1f5d83a08fa56cc7ec88a; files=images/train/healthy_0334.jpg; images/train/healthy_0333.jpg
+,exact_duplicate_image,images/train/unhealthy_1227.jpg,,sha256=d679ef59063dd7f52246e7f55e24ed55116d32cf40dd0e9a84cccf33b699c240; files=images/train/unhealthy_1227.jpg; images/train/healthy_1226.jpg
+,exact_duplicate_image,images/train/healthy_1446.jpg,,sha256=d6975bc16fda7d1d109e7ce2bb39f3b63fe93c097fcfd2d88299d1cc82c70b19; files=images/train/healthy_1446.jpg; images/test/healthy_0867.jpg
+,train_test_overlap,images/train/healthy_1446.jpg,,sha256=d6975bc16fda7d1d109e7ce2bb39f3b63fe93c097fcfd2d88299d1cc82c70b19; files=images/train/healthy_1446.jpg; images/test/healthy_0867.jpg
+,exact_duplicate_image,images/train/healthy_1015.jpg,,sha256=d870e608b27aa4f0047f884488fa9c908ec98ea84735098b2540d80bcefd013b; files=images/train/healthy_1015.jpg; images/test/healthy_1014.jpg
+,train_test_overlap,images/train/healthy_1015.jpg,,sha256=d870e608b27aa4f0047f884488fa9c908ec98ea84735098b2540d80bcefd013b; files=images/train/healthy_1015.jpg; images/test/healthy_1014.jpg
+,exact_duplicate_image,images/train/healthy_1191.jpg,,sha256=d9ab009c26490d81b2646eaa93fdc70a99166353ae621d96688f2cad1ded0ed8; files=images/train/healthy_1191.jpg; images/train/healthy_1190.jpg
+,exact_duplicate_image,images/train/healthy_1011.jpg,,sha256=daa1bd7acd409601f1c957f06ddcde2556513a27634212469ac736c0daff0d1e; files=images/train/healthy_1011.jpg; images/train/healthy_1010.jpg
+,exact_duplicate_image,images/train/unhealthy_1427.jpg,,sha256=ddb8fd7b20ae49437a193ea04d6be058b31145755291e2446a5ab6393dcfab5a; files=images/train/unhealthy_1427.jpg; images/train/unhealthy_1426.jpg; images/test/unhealthy_0407.jpg; images/test/unhealthy_0408.jpg
+,train_test_overlap,images/train/unhealthy_1427.jpg,,sha256=ddb8fd7b20ae49437a193ea04d6be058b31145755291e2446a5ab6393dcfab5a; files=images/train/unhealthy_1427.jpg; images/train/unhealthy_1426.jpg; images/test/unhealthy_0407.jpg; images/test/unhealthy_0408.jpg
+,exact_duplicate_image,images/train/healthy_1185.jpg,,sha256=e020d45f287b60a2b966b98fecf7b97c33b1ebd922cc26d87cdce36d115f3c4a; files=images/train/healthy_1185.jpg; images/train/healthy_1184.jpg
+,exact_duplicate_image,images/train/healthy_1046.jpg,,sha256=e23708d9a39829037ee908167454ba341942ecb08497003ef470f09274d19800; files=images/train/healthy_1046.jpg; images/train/healthy_1047.jpg
+,exact_duplicate_image,images/train/unhealthy_0848.jpg,,sha256=e3e49d5ede914b1a6ac8fbe0b71899b753a375ca4eb8057619e6fedb5b3af62e; files=images/train/unhealthy_0848.jpg; images/train/healthy_0868.jpg
+,exact_duplicate_image,images/train/healthy_1138.jpg,,sha256=e4b54d3e9bf06ebf0ef1d626056a53ec4b0035f81f21f0349badef6e80335e84; files=images/train/healthy_1138.jpg; images/train/healthy_1139.jpg
+,exact_duplicate_image,images/train/healthy_1025.jpg,,sha256=e4bbdf061657b8a8ae96af05d5c57477ef37668f1f5dd79091824b0ab3a722f6; files=images/train/healthy_1025.jpg; images/train/healthy_1024.jpg
+,exact_duplicate_image,images/test/unhealthy_0390.jpg,,sha256=e4ceaf132775c014528816fae6105d41b12b59d15815c11576c8496a274cb706; files=images/test/unhealthy_0390.jpg; images/test/unhealthy_0389.jpg
+,exact_duplicate_image,images/train/healthy_0286.jpg,,sha256=e527478317cf26d2c2d42678b1b53a984df30407b55f6c58a03e0086ebfddc34; files=images/train/healthy_0286.jpg; images/train/healthy_0285.jpg
+,exact_duplicate_image,images/train/unhealthy_1425.jpg,,sha256=e75a2d42b816d1c5e58844f6e2ea4e09e31cfae86475aee8c4b0059571cf2a28; files=images/train/unhealthy_1425.jpg; images/train/unhealthy_1424.jpg; images/test/unhealthy_0406.jpg; images/test/unhealthy_0405.jpg
+,train_test_overlap,images/train/unhealthy_1425.jpg,,sha256=e75a2d42b816d1c5e58844f6e2ea4e09e31cfae86475aee8c4b0059571cf2a28; files=images/train/unhealthy_1425.jpg; images/train/unhealthy_1424.jpg; images/test/unhealthy_0406.jpg; images/test/unhealthy_0405.jpg
+,exact_duplicate_image,images/train/healthy_1146.jpg,,sha256=e7ee92082a9edb896688c0f6ed91850ab2907f86a49866164e39c93fd88d08cd; files=images/train/healthy_1146.jpg; images/test/healthy_1147.jpg
+,train_test_overlap,images/train/healthy_1146.jpg,,sha256=e7ee92082a9edb896688c0f6ed91850ab2907f86a49866164e39c93fd88d08cd; files=images/train/healthy_1146.jpg; images/test/healthy_1147.jpg
+,exact_duplicate_image,images/train/healthy_1089.jpg,,sha256=ebc730f6506a229421d4306e86bf1f1956fe5746f56313418a643fc00317efe5; files=images/train/healthy_1089.jpg; images/test/healthy_1088.jpg
+,train_test_overlap,images/train/healthy_1089.jpg,,sha256=ebc730f6506a229421d4306e86bf1f1956fe5746f56313418a643fc00317efe5; files=images/train/healthy_1089.jpg; images/test/healthy_1088.jpg
+,exact_duplicate_image,images/train/healthy_1170.jpg,,sha256=ed09d99a5c64d26808c27144035c1a2f460e5b6d7ce0c5081b21d6e1bcd304cb; files=images/train/healthy_1170.jpg; images/test/healthy_1171.jpg
+,train_test_overlap,images/train/healthy_1170.jpg,,sha256=ed09d99a5c64d26808c27144035c1a2f460e5b6d7ce0c5081b21d6e1bcd304cb; files=images/train/healthy_1170.jpg; images/test/healthy_1171.jpg
+,exact_duplicate_image,images/train/healthy_0301.jpg,,sha256=eddcbb5689cd1e6cd710902aa393687ad3c5718f94ff32ea8b8de26b0e43b9ea; files=images/train/healthy_0301.jpg; images/train/healthy_0302.jpg
+,exact_duplicate_image,images/train/unhealthy_1208.jpg,,sha256=ef00cbf9a6a323fd485ea280cba8c49969f28bb93940607cdb968ee8e922d30c; files=images/train/unhealthy_1208.jpg; images/train/healthy_1454.jpg; images/test/healthy_1209.jpg
+,train_test_overlap,images/train/unhealthy_1208.jpg,,sha256=ef00cbf9a6a323fd485ea280cba8c49969f28bb93940607cdb968ee8e922d30c; files=images/train/unhealthy_1208.jpg; images/train/healthy_1454.jpg; images/test/healthy_1209.jpg
+,exact_duplicate_image,images/train/healthy_0307.jpg,,sha256=efbb41a1752980cd9acc38160f07f0dbbee096d7604dd02c9f49bbc68aec3177; files=images/train/healthy_0307.jpg; images/train/healthy_0308.jpg
+,exact_duplicate_image,images/train/healthy_1452.jpg,,sha256=f03e4d824710154315650754d0f2b5f4608f00da98bf713586975eb7b12dd255; files=images/train/healthy_1452.jpg; images/test/healthy_0972.jpg
+,train_test_overlap,images/train/healthy_1452.jpg,,sha256=f03e4d824710154315650754d0f2b5f4608f00da98bf713586975eb7b12dd255; files=images/train/healthy_1452.jpg; images/test/healthy_0972.jpg
+,exact_duplicate_image,images/train/healthy_1082.jpg,,sha256=f09edaa3cc7ff2c434e9eca64115b50b366692c35fbdc1abb0ffaac6ace870f7; files=images/train/healthy_1082.jpg; images/train/healthy_1083.jpg
+,exact_duplicate_image,images/train/unhealthy_1129.jpg,,sha256=f11c1c0e6ecde13558d6ad4a8ef8284d3447d031e230bc2d3121dcf5ef97329d; files=images/train/unhealthy_1129.jpg; images/train/unhealthy_1128.jpg
+,exact_duplicate_image,images/train/unhealthy_1126.jpg,,sha256=f130fad7bad77563d4cf0e41080a0a3a5896ff8f3a5bd5dc1ce9bab4b208cd63; files=images/train/unhealthy_1126.jpg; images/train/unhealthy_1127.jpg
+,exact_duplicate_image,images/train/healthy_1443.jpg,,sha256=f183b21128255d08c7ae9ac96fe6e8e69583dc6d36857d5cf84fb8d94c4949b8; files=images/train/healthy_1443.jpg; images/test/healthy_0716.jpg
+,train_test_overlap,images/train/healthy_1443.jpg,,sha256=f183b21128255d08c7ae9ac96fe6e8e69583dc6d36857d5cf84fb8d94c4949b8; files=images/train/healthy_1443.jpg; images/test/healthy_0716.jpg
+,exact_duplicate_image,images/test/healthy_0364.jpg,,sha256=f1cfe748467a25b6123a6cf75b59d37a921b536c2ae1473f4234c532c0014e12; files=images/test/healthy_0364.jpg; images/test/healthy_0365.jpg
+,exact_duplicate_image,images/train/healthy_1193.jpg,,sha256=f276f630bf9b8c6d46ee3acc63c94099f5fff6285a6fa2963d692d43d8a5003a; files=images/train/healthy_1193.jpg; images/train/healthy_1192.jpg
+,exact_duplicate_image,images/train/healthy_1090.jpg,,sha256=f4f8c0454f7aaf7a093a66a4271c6dac713e9d62d100448aa1a61034dd66c543; files=images/train/healthy_1090.jpg; images/test/healthy_1091.jpg
+,train_test_overlap,images/train/healthy_1090.jpg,,sha256=f4f8c0454f7aaf7a093a66a4271c6dac713e9d62d100448aa1a61034dd66c543; files=images/train/healthy_1090.jpg; images/test/healthy_1091.jpg
+,exact_duplicate_image,images/train/healthy_1180.jpg,,sha256=f57b9371ae85f3ed9fe14e63d026a4767a78fa2fd99ab3faaaf6aae109de3342; files=images/train/healthy_1180.jpg; images/train/healthy_1181.jpg
+,exact_duplicate_image,images/train/healthy_1159.jpg,,sha256=f5a675b144341e5cd40bb8ff9cd17a47321749369be95dd477469495a9880da3; files=images/train/healthy_1159.jpg; images/train/healthy_1158.jpg
+,exact_duplicate_image,images/train/healthy_1444.jpg,,sha256=f66ace08076dca4c1648ced274bd9fdfe5cf06c563014962467f9c19f19b30e8; files=images/train/healthy_1444.jpg; images/test/healthy_0745.jpg
+,train_test_overlap,images/train/healthy_1444.jpg,,sha256=f66ace08076dca4c1648ced274bd9fdfe5cf06c563014962467f9c19f19b30e8; files=images/train/healthy_1444.jpg; images/test/healthy_0745.jpg
+,exact_duplicate_image,images/train/unhealthy_1421.jpg,,sha256=f6a819a6756de10f84c5c3c045bcc50a684e923b1f55f65671b83504fcaf914f; files=images/train/unhealthy_1421.jpg; images/test/unhealthy_0396.jpg
+,train_test_overlap,images/train/unhealthy_1421.jpg,,sha256=f6a819a6756de10f84c5c3c045bcc50a684e923b1f55f65671b83504fcaf914f; files=images/train/unhealthy_1421.jpg; images/test/unhealthy_0396.jpg
+,exact_duplicate_image,images/test/healthy_0400.jpg,,sha256=f6eeb7625a2e836fe70e7e33d383578b8a0daf0ca8f8ced771798d46187e62d5; files=images/test/healthy_0400.jpg; images/test/healthy_0399.jpg
+,exact_duplicate_image,images/train/healthy_0089.jpg,,sha256=f8d0a0c443f5754e37a0adc00372512b1eba81571d0dcf151ee715d6fa9acf53; files=images/train/healthy_0089.jpg; images/test/healthy_1459.jpg
+,train_test_overlap,images/train/healthy_0089.jpg,,sha256=f8d0a0c443f5754e37a0adc00372512b1eba81571d0dcf151ee715d6fa9acf53; files=images/train/healthy_0089.jpg; images/test/healthy_1459.jpg
+,exact_duplicate_image,images/train/unhealthy_1420.jpg,,sha256=f9b1e54ef41b57a896a5523c572872dd4d934a51ff22e1e8d9feb9a0c0a74c0e; files=images/train/unhealthy_1420.jpg; images/test/unhealthy_0395.jpg
+,train_test_overlap,images/train/unhealthy_1420.jpg,,sha256=f9b1e54ef41b57a896a5523c572872dd4d934a51ff22e1e8d9feb9a0c0a74c0e; files=images/train/unhealthy_1420.jpg; images/test/unhealthy_0395.jpg
+,exact_duplicate_image,images/train/healthy_1020.jpg,,sha256=fa8f140e30b9730b204bead74723ccd1a22162238e79434dfb3d6e7fed5a4571; files=images/train/healthy_1020.jpg; images/train/healthy_1021.jpg
+,exact_duplicate_image,images/train/unhealthy_1189.jpg,,sha256=fc455d6cf6481e9ed744ecc76228b5057a4353aba1920350a0ac6c949702d6a8; files=images/train/unhealthy_1189.jpg; images/test/healthy_1188.jpg
+,train_test_overlap,images/train/unhealthy_1189.jpg,,sha256=fc455d6cf6481e9ed744ecc76228b5057a4353aba1920350a0ac6c949702d6a8; files=images/train/unhealthy_1189.jpg; images/test/healthy_1188.jpg
+,exact_duplicate_image,images/train/healthy_1239.jpg,,sha256=fc86a7071a7ae9b2d97c5ae87f81f5acc1c77178db6c394c9c761db6740b4231; files=images/train/healthy_1239.jpg; images/train/healthy_1240.jpg
+,exact_duplicate_image,images/train/healthy_0315.jpg,,sha256=fc8b3e0d1b49fb0ca5f823b5b608b7f3ebbd7ba97e5f66e026455105d43ad9f8; files=images/train/healthy_0315.jpg; images/train/healthy_0316.jpg
+,exact_duplicate_image,images/train/healthy_1174.jpg,,sha256=fd9ba72416aab48eda435f3be667fcdc1c2fec852a359b82d4eeaa0d949237ef; files=images/train/healthy_1174.jpg; images/train/healthy_1175.jpg
+,exact_duplicate_image,images/train/healthy_0351.jpg,,sha256=fe7e2d5aabdc6cf7081adfe71bdd874567f9e37c23d5330781b85d388c0521cb; files=images/train/healthy_0351.jpg; images/test/healthy_0352.jpg
+,train_test_overlap,images/train/healthy_0351.jpg,,sha256=fe7e2d5aabdc6cf7081adfe71bdd874567f9e37c23d5330781b85d388c0521cb; files=images/train/healthy_0351.jpg; images/test/healthy_0352.jpg
+,exact_duplicate_image,images/train/healthy_0142.jpg,,sha256=fed7f942be5b9f3ed4dd9ed6f7d9ac573421b4d9793ccaccf7b55b66f530a6d0; files=images/train/healthy_0142.jpg; images/train/healthy_0141.jpg
+,exact_duplicate_image,images/train/healthy_1201.jpg,,sha256=ff3bcb170e5d6572d44f4572cbe195d86374aaa2eb4eeed57c8b9316653065da; files=images/train/healthy_1201.jpg; images/train/healthy_1200.jpg

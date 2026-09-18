@@ -1,6 +1,9 @@
+# Final experiment versions are unavailable; do not treat these as a historical lock.
+ultralytics
+numpy
+pandas
+matplotlib
 Pillow
+PyYAML
 ipykernel
 jupyter
-matplotlib
-pandas
-ultralytics

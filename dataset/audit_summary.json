@@ -1,0 +1,39 @@
+{
+  "train": {
+    "images": 1982,
+    "labels": 1982,
+    "missing_labels": 0,
+    "orphan_labels": 0,
+    "empty_labels": 0,
+    "malformed_rows": 0,
+    "invalid_class_ids": 0,
+    "invalid_coordinates": 109,
+    "duplicate_rows": 0,
+    "conflict_markers": 0,
+    "healthy_instances": 2355,
+    "unhealthy_instances": 2027,
+    "total_boxes": 4382
+  },
+  "test": {
+    "images": 491,
+    "labels": 491,
+    "missing_labels": 0,
+    "orphan_labels": 0,
+    "empty_labels": 0,
+    "malformed_rows": 0,
+    "invalid_class_ids": 0,
+    "invalid_coordinates": 10,
+    "duplicate_rows": 0,
+    "conflict_markers": 0,
+    "healthy_instances": 878,
+    "unhealthy_instances": 567,
+    "total_boxes": 1445
+  },
+  "exact_duplicate_groups": 218,
+  "train_test_overlap_groups": 72,
+  "categories": {
+    "invalid_coordinate": 119,
+    "exact_duplicate_image": 218,
+    "train_test_overlap": 72
+  }
+}

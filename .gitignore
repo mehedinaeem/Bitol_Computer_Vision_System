@@ -41,3 +41,12 @@ Thumbs.db
 
 # Local annotation backups (not distributed)
 /annotation_backup/
+
+# Local historical evidence and generated artifacts
+/archive/development/
+.venv-*/
+/runs/
+/resized_images/
+/notebooks/runs/
+/weights/*.pt
+*.cache

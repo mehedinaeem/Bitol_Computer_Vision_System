@@ -1,0 +1,13 @@
+{
+  "source": "Local cleanup environment, not verified final experiment environment",
+  "python": "3.14.4",
+  "packages": {
+    "ultralytics": "8.4.103",
+    "numpy": "2.5.1",
+    "pandas": "3.0.3",
+    "matplotlib": "3.11.1",
+    "Pillow": "12.3.0",
+    "PyYAML": "6.0.3",
+    "torch": "2.13.0"
+  }
+}
