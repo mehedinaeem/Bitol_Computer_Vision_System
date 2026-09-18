@@ -19,9 +19,9 @@ Each bounding box describes one banana. A single image can contain multiple bana
 
 ### Annotated dataset examples
 
-![Six test images showing individual bananas with supplied healthy and unhealthy bounding-box annotations](paper_figures/04_qualitative/ground_truth_test_examples.png)
+![Six banana dataset examples: healthy annotations in green on the top row and unhealthy annotations in red on the bottom row](paper_figures/04_qualitative/readme_dataset_examples.png)
 
-*Figure 1. Examples from the supplied test dataset with ground-truth boxes. These are dataset annotations, not model predictions. Images include individual bananas, overlapping fruit, and varied backgrounds. A filename prefix does not determine the label of every object in an image.*
+*Figure 1. Six examples selected from the test dataset: healthy annotations in green (top row) and unhealthy annotations in red (bottom row). Each panel shows boxes for its highlighted class using the existing dataset labels, not model predictions. Selection uses the figure script with `--split test --automatic --samples 3 --seed 17`.*
 
 ### Dataset size and split
 
