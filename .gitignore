@@ -39,3 +39,5 @@ Thumbs.db
 *.rar
 *.7z
 
+# Local annotation backups (not distributed)
+/annotation_backup/
