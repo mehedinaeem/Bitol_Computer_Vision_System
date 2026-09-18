@@ -12,7 +12,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 
-SPLITS = ("train", "val", "test")
+SPLITS = ("train", "test")
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".bmp", ".webp", ".tif", ".tiff"}
 CONFLICT_MARKERS = ("<<<<<<<", "=======", ">>>>>>>")
 CRITICAL_CATEGORIES = {

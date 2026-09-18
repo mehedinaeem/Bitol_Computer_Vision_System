@@ -10,14 +10,14 @@ SOURCE_DIR = BASE_DIR / "resized_images"
 TARGET_DIR = BASE_DIR / "detection_dataset"
 LABELS_DIR = TARGET_DIR / "labels"
 
-# Only add the two new batches. Every image in each class is independently
-# split into train/validation/test using the same 70/20/10 proportions.
+# Every image in each class is independently
+# split into train/validation using 80/20 proportions.
 SOURCE_CLASSES = {
     "healthy": SOURCE_DIR / "healthy03",
     "unhealthy": SOURCE_DIR / "unhealthy03",
 }
 
-SPLIT_RATIOS = {"train": 0.70, "val": 0.20, "test": 0.10}
+SPLIT_RATIOS = {"train": 0.80, "test": 0.20}
 RANDOM_SEED = 42
 
 
@@ -30,7 +30,7 @@ def find_images(src_dir: Path) -> List[Path]:
 
 
 def build_label_index(labels_dir: Path) -> Dict[str, Path]:
-    """Index labels whether they are in labels/ or labels/train|val|test/."""
+    """Index labels whether they are in labels/ or labels/train|test/."""
     index: Dict[str, Path] = {}
     if not labels_dir.exists():
         return index
@@ -42,10 +42,9 @@ def build_label_index(labels_dir: Path) -> Dict[str, Path]:
 
 
 def split_counts(total: int) -> Dict[str, int]:
-    """Allocate all samples while keeping the requested 70/20/10 ratio."""
+    """Allocate all samples while keeping the requested 80/20 ratio."""
     train = int(total * SPLIT_RATIOS["train"])
-    val = int(total * SPLIT_RATIOS["val"])
-    return {"train": train, "val": val, "test": total - train - val}
+    return {"train": train, "test": total - train}
 
 
 def copy_if_not_exists(src: Path, dest: Path) -> bool:
@@ -103,11 +102,9 @@ def split_dataset() -> None:
         expected_counts[class_name] = class_counts
 
         train_end = class_counts["train"]
-        val_end = train_end + class_counts["val"]
         splits = {
             "train": images[:train_end],
-            "val": images[train_end:val_end],
-            "test": images[val_end:],
+            "test": images[train_end:],
         }
 
         for split, split_images in splits.items():
@@ -126,7 +123,7 @@ def split_dataset() -> None:
                     if copy_if_not_exists(label_path, label_dest):
                         copied_labels += 1
 
-    print("\n70/20/10 split per class:")
+    print("\n80/20 split per class:")
     for split in SPLIT_RATIOS:
         healthy = expected_counts["healthy"][split]
         unhealthy = expected_counts["unhealthy"][split]

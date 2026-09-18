@@ -1,5 +1,5 @@
 train: images/train
-val: images/val
+val: images/test
 test: images/test
 
 nc: 2

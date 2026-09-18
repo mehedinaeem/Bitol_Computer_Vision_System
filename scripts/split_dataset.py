@@ -9,8 +9,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SOURCE_DIR = BASE_DIR / "resized_images"
 TARGET_DIR = BASE_DIR / "detection_dataset"
 
-TRAIN_RATIO = 0.7
-VAL_RATIO = 0.2
+TRAIN_RATIO = 0.8
+TEST_RATIO = 0.2
 
 
 def find_images(src_dir: Path) -> List[Path]:
@@ -38,19 +38,17 @@ def split_dataset():
         print(f"No images found in {SOURCE_DIR}")
         return
 
-    for split in ("train", "val", "test"):
+    for split in ("train", "test"):
         (TARGET_DIR / "images" / split).mkdir(parents=True, exist_ok=True)
 
-    counts = {"train": 0, "val": 0, "test": 0}
+    counts = {"train": 0, "test": 0}
 
     for class_name, class_images in group_by_class(images).items():
         train_end = int(len(class_images) * TRAIN_RATIO)
-        val_end = int(len(class_images) * (TRAIN_RATIO + VAL_RATIO))
 
         splits = {
             "train": class_images[:train_end],
-            "val": class_images[train_end:val_end],
-            "test": class_images[val_end:],
+            "test": class_images[train_end:],
         }
 
         for split, split_images in splits.items():
